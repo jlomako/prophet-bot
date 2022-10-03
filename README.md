@@ -1,2 +1,2 @@
 # prophet-bot
-github action that runs prophet
+github action that runs prophet and gets predictions for occupancy app
