@@ -1,0 +1,44 @@
+name: R-script
+
+# set timer (17:25 utc)
+#on:
+#  schedule:
+#  - cron: 25 17 * * *
+  
+ run script on push
+on:
+  push:
+    branches: 
+      - main
+
+jobs: 
+  R-script:
+    runs-on: macos-11
+
+    # load repo and install R
+    steps:
+    - uses: actions/checkout@master
+    - uses: r-lib/actions/setup-r@master
+
+    # Set-up R 
+    - name: install R packages
+      run: |
+        R -e 'install.packages("prophet")'
+        R -e 'install.packages("dplyr")'
+        R -e 'install.packages("vroom")'
+
+    # Run R script
+    - name: run R script
+      run: Rscript script.R
+      
+ # Add new file in data folder, commit along with other modified files, push
+    - name: commit files
+      run: |
+        git config --local user.name actions-user
+        git config --local user.email "actions@github.com"
+        git add data/*
+        git commit -am "Scheduled Github Action on $(date)"
+        git push origin main
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
