@@ -4,6 +4,8 @@ library(dplyr)
 library(prophet)
 
 df <- vroom::vroom("https://github.com/jlomako/hospital-occupancy-tracker/raw/main/data/hospitals.csv", show_col_types = FALSE)
+# get holidays
+holidays <- vroom::vroom("data/quebec.csv", show_col_types = FALSE)
 
 # create empty df
 df0 <- data.frame(matrix(ncol = 5, nrow = 0))
@@ -14,7 +16,8 @@ hospitals <- names(df[2:length(df)])
 
 for (i in 1:(length(df)-1)) {
   df_hospital <- df %>% select(ds = Date, y = hospitals[i])
-  m <- prophet(df_hospital)
+  # m <- prophet(df_hospital)
+  m <- prophet(df_hospital, holidays = holidays)
   future <- make_future_dataframe(m, periods = 10, freq = "days")
   forecast <- predict(m, future)
   plot_df <- tail(forecast[c('ds', 'yhat', 'yhat_lower', 'yhat_upper')],10)
