@@ -5,7 +5,7 @@ name: R-script
 #  schedule:
 #  - cron: 25 17 * * *
   
- run script on push
+# run script on push
 on:
   push:
     branches: 
