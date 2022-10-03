@@ -1,0 +1,221 @@
+"name","Date","yhat","yhat_lower","yhat_upper"
+"Centre hospitalier de St. Mary",2022-10-03,124,101,144
+"Centre hospitalier de St. Mary",2022-10-04,136,114,157
+"Centre hospitalier de St. Mary",2022-10-05,140,119,161
+"Centre hospitalier de St. Mary",2022-10-06,138,117,159
+"Centre hospitalier de St. Mary",2022-10-07,136,115,158
+"Centre hospitalier de St. Mary",2022-10-08,121,99,143
+"Centre hospitalier de St. Mary",2022-10-09,117,94,138
+"Centre hospitalier de St. Mary",2022-10-10,126,105,146
+"Centre hospitalier de St. Mary",2022-10-11,138,116,160
+"Centre hospitalier de St. Mary",2022-10-12,142,120,161
+"Institut universitaire en santé mentale Douglas",2022-10-03,96,25,169
+"Institut universitaire en santé mentale Douglas",2022-10-04,115,44,185
+"Institut universitaire en santé mentale Douglas",2022-10-05,84,16,161
+"Institut universitaire en santé mentale Douglas",2022-10-06,80,7,153
+"Institut universitaire en santé mentale Douglas",2022-10-07,88,11,162
+"Institut universitaire en santé mentale Douglas",2022-10-08,97,26,175
+"Institut universitaire en santé mentale Douglas",2022-10-09,109,37,181
+"Institut universitaire en santé mentale Douglas",2022-10-10,97,31,170
+"Institut universitaire en santé mentale Douglas",2022-10-11,116,42,191
+"Institut universitaire en santé mentale Douglas",2022-10-12,85,6,153
+"Hôpital de LaSalle",2022-10-03,93,61,126
+"Hôpital de LaSalle",2022-10-04,116,82,150
+"Hôpital de LaSalle",2022-10-05,112,79,144
+"Hôpital de LaSalle",2022-10-06,103,71,139
+"Hôpital de LaSalle",2022-10-07,105,70,137
+"Hôpital de LaSalle",2022-10-08,75,41,106
+"Hôpital de LaSalle",2022-10-09,86,51,122
+"Hôpital de LaSalle",2022-10-10,92,58,125
+"Hôpital de LaSalle",2022-10-11,114,79,147
+"Hôpital de LaSalle",2022-10-12,111,77,147
+"Hôpital général du Lakeshore",2022-10-03,137,105,169
+"Hôpital général du Lakeshore",2022-10-04,139,107,171
+"Hôpital général du Lakeshore",2022-10-05,143,113,174
+"Hôpital général du Lakeshore",2022-10-06,145,115,175
+"Hôpital général du Lakeshore",2022-10-07,131,100,162
+"Hôpital général du Lakeshore",2022-10-08,129,97,161
+"Hôpital général du Lakeshore",2022-10-09,132,98,162
+"Hôpital général du Lakeshore",2022-10-10,136,107,167
+"Hôpital général du Lakeshore",2022-10-11,138,109,169
+"Hôpital général du Lakeshore",2022-10-12,142,110,175
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-10-03,160,133,186
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-10-04,162,134,188
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-10-05,164,138,193
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-10-06,164,136,190
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-10-07,156,129,186
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-10-08,156,130,183
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-10-09,142,114,167
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-10-10,161,132,187
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-10-11,163,135,187
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-10-12,165,136,190
+"Hôpital de Verdun",2022-10-03,114,88,138
+"Hôpital de Verdun",2022-10-04,121,95,146
+"Hôpital de Verdun",2022-10-05,130,106,156
+"Hôpital de Verdun",2022-10-06,119,94,144
+"Hôpital de Verdun",2022-10-07,114,88,138
+"Hôpital de Verdun",2022-10-08,100,76,125
+"Hôpital de Verdun",2022-10-09,98,74,122
+"Hôpital de Verdun",2022-10-10,116,93,142
+"Hôpital de Verdun",2022-10-11,124,99,149
+"Hôpital de Verdun",2022-10-12,132,106,155
+"Hôpital Notre-Dame",2022-10-03,130,110,151
+"Hôpital Notre-Dame",2022-10-04,135,114,154
+"Hôpital Notre-Dame",2022-10-05,128,106,148
+"Hôpital Notre-Dame",2022-10-06,126,104,148
+"Hôpital Notre-Dame",2022-10-07,124,103,144
+"Hôpital Notre-Dame",2022-10-08,116,94,136
+"Hôpital Notre-Dame",2022-10-09,119,98,140
+"Hôpital Notre-Dame",2022-10-10,130,109,152
+"Hôpital Notre-Dame",2022-10-11,135,115,157
+"Hôpital Notre-Dame",2022-10-12,128,108,150
+"Hôpital Fleury",2022-10-03,106,80,133
+"Hôpital Fleury",2022-10-04,107,82,131
+"Hôpital Fleury",2022-10-05,97,70,123
+"Hôpital Fleury",2022-10-06,98,72,124
+"Hôpital Fleury",2022-10-07,99,71,124
+"Hôpital Fleury",2022-10-08,85,59,110
+"Hôpital Fleury",2022-10-09,90,65,114
+"Hôpital Fleury",2022-10-10,105,80,130
+"Hôpital Fleury",2022-10-11,106,81,131
+"Hôpital Fleury",2022-10-12,96,71,121
+"Hôpital du Sacré-Coeur de Montréal",2022-10-03,124,106,142
+"Hôpital du Sacré-Coeur de Montréal",2022-10-04,134,116,151
+"Hôpital du Sacré-Coeur de Montréal",2022-10-05,132,114,150
+"Hôpital du Sacré-Coeur de Montréal",2022-10-06,126,108,144
+"Hôpital du Sacré-Coeur de Montréal",2022-10-07,120,102,138
+"Hôpital du Sacré-Coeur de Montréal",2022-10-08,107,88,125
+"Hôpital du Sacré-Coeur de Montréal",2022-10-09,115,96,132
+"Hôpital du Sacré-Coeur de Montréal",2022-10-10,124,105,142
+"Hôpital du Sacré-Coeur de Montréal",2022-10-11,134,115,152
+"Hôpital du Sacré-Coeur de Montréal",2022-10-12,132,114,151
+"Hôpital Jean-Talon",2022-10-03,95,71,117
+"Hôpital Jean-Talon",2022-10-04,96,72,118
+"Hôpital Jean-Talon",2022-10-05,95,73,119
+"Hôpital Jean-Talon",2022-10-06,99,77,121
+"Hôpital Jean-Talon",2022-10-07,95,71,116
+"Hôpital Jean-Talon",2022-10-08,89,68,112
+"Hôpital Jean-Talon",2022-10-09,85,61,108
+"Hôpital Jean-Talon",2022-10-10,95,74,117
+"Hôpital Jean-Talon",2022-10-11,96,73,120
+"Hôpital Jean-Talon",2022-10-12,96,72,118
+"Pavillon Albert-Prévost",2022-10-03,65,43,87
+"Pavillon Albert-Prévost",2022-10-04,57,32,79
+"Pavillon Albert-Prévost",2022-10-05,67,44,91
+"Pavillon Albert-Prévost",2022-10-06,62,40,85
+"Pavillon Albert-Prévost",2022-10-07,64,42,87
+"Pavillon Albert-Prévost",2022-10-08,57,35,80
+"Pavillon Albert-Prévost",2022-10-09,58,36,81
+"Pavillon Albert-Prévost",2022-10-10,66,43,87
+"Pavillon Albert-Prévost",2022-10-11,57,35,80
+"Pavillon Albert-Prévost",2022-10-12,68,46,90
+"Institut universitaire en santé mentale de Montréal",2022-10-03,91,60,125
+"Institut universitaire en santé mentale de Montréal",2022-10-04,71,40,104
+"Institut universitaire en santé mentale de Montréal",2022-10-05,69,36,101
+"Institut universitaire en santé mentale de Montréal",2022-10-06,66,33,101
+"Institut universitaire en santé mentale de Montréal",2022-10-07,75,41,108
+"Institut universitaire en santé mentale de Montréal",2022-10-08,56,24,91
+"Institut universitaire en santé mentale de Montréal",2022-10-09,65,31,98
+"Institut universitaire en santé mentale de Montréal",2022-10-10,92,61,126
+"Institut universitaire en santé mentale de Montréal",2022-10-11,73,39,104
+"Institut universitaire en santé mentale de Montréal",2022-10-12,71,37,105
+"Hôpital Maisonneuve-Rosemont",2022-10-03,131,109,150
+"Hôpital Maisonneuve-Rosemont",2022-10-04,140,119,159
+"Hôpital Maisonneuve-Rosemont",2022-10-05,141,122,160
+"Hôpital Maisonneuve-Rosemont",2022-10-06,129,110,149
+"Hôpital Maisonneuve-Rosemont",2022-10-07,121,101,141
+"Hôpital Maisonneuve-Rosemont",2022-10-08,103,83,123
+"Hôpital Maisonneuve-Rosemont",2022-10-09,112,91,134
+"Hôpital Maisonneuve-Rosemont",2022-10-10,130,109,150
+"Hôpital Maisonneuve-Rosemont",2022-10-11,139,118,158
+"Hôpital Maisonneuve-Rosemont",2022-10-12,140,118,160
+"Hôpital Santa Cabrini",2022-10-03,128,105,151
+"Hôpital Santa Cabrini",2022-10-04,136,112,161
+"Hôpital Santa Cabrini",2022-10-05,138,115,162
+"Hôpital Santa Cabrini",2022-10-06,134,112,159
+"Hôpital Santa Cabrini",2022-10-07,131,108,155
+"Hôpital Santa Cabrini",2022-10-08,122,99,145
+"Hôpital Santa Cabrini",2022-10-09,120,96,144
+"Hôpital Santa Cabrini",2022-10-10,130,105,154
+"Hôpital Santa Cabrini",2022-10-11,137,116,161
+"Hôpital Santa Cabrini",2022-10-12,140,117,162
+"Centre hospitalier de l'Université de Montréal",2022-10-03,147,135,162
+"Centre hospitalier de l'Université de Montréal",2022-10-04,152,138,166
+"Centre hospitalier de l'Université de Montréal",2022-10-05,148,135,161
+"Centre hospitalier de l'Université de Montréal",2022-10-06,149,135,162
+"Centre hospitalier de l'Université de Montréal",2022-10-07,148,133,161
+"Centre hospitalier de l'Université de Montréal",2022-10-08,137,123,150
+"Centre hospitalier de l'Université de Montréal",2022-10-09,140,124,153
+"Centre hospitalier de l'Université de Montréal",2022-10-10,151,137,165
+"Centre hospitalier de l'Université de Montréal",2022-10-11,155,141,169
+"Centre hospitalier de l'Université de Montréal",2022-10-12,151,138,166
+"Hôpital Royal Victoria",2022-10-03,185,159,212
+"Hôpital Royal Victoria",2022-10-04,199,172,226
+"Hôpital Royal Victoria",2022-10-05,192,166,218
+"Hôpital Royal Victoria",2022-10-06,190,165,218
+"Hôpital Royal Victoria",2022-10-07,192,167,218
+"Hôpital Royal Victoria",2022-10-08,186,158,215
+"Hôpital Royal Victoria",2022-10-09,175,148,201
+"Hôpital Royal Victoria",2022-10-10,187,161,212
+"Hôpital Royal Victoria",2022-10-11,201,175,229
+"Hôpital Royal Victoria",2022-10-12,194,168,221
+"Hôpital général de Montréal",2022-10-03,166,139,194
+"Hôpital général de Montréal",2022-10-04,161,132,188
+"Hôpital général de Montréal",2022-10-05,167,138,195
+"Hôpital général de Montréal",2022-10-06,169,139,196
+"Hôpital général de Montréal",2022-10-07,165,137,191
+"Hôpital général de Montréal",2022-10-08,162,136,190
+"Hôpital général de Montréal",2022-10-09,163,138,192
+"Hôpital général de Montréal",2022-10-10,167,139,193
+"Hôpital général de Montréal",2022-10-11,161,134,190
+"Hôpital général de Montréal",2022-10-12,167,139,194
+"Hôpital de Montréal pour enfants",2022-10-03,110,67,155
+"Hôpital de Montréal pour enfants",2022-10-04,122,80,166
+"Hôpital de Montréal pour enfants",2022-10-05,137,90,181
+"Hôpital de Montréal pour enfants",2022-10-06,118,67,162
+"Hôpital de Montréal pour enfants",2022-10-07,119,73,163
+"Hôpital de Montréal pour enfants",2022-10-08,132,89,177
+"Hôpital de Montréal pour enfants",2022-10-09,116,71,157
+"Hôpital de Montréal pour enfants",2022-10-10,111,63,154
+"Hôpital de Montréal pour enfants",2022-10-11,123,77,167
+"Hôpital de Montréal pour enfants",2022-10-12,138,93,185
+"Campus Lachine",2022-10-03,82,56,106
+"Campus Lachine",2022-10-04,93,69,117
+"Campus Lachine",2022-10-05,88,64,113
+"Campus Lachine",2022-10-06,84,62,106
+"Campus Lachine",2022-10-07,76,54,99
+"Campus Lachine",2022-10-08,78,54,99
+"Campus Lachine",2022-10-09,67,44,92
+"Campus Lachine",2022-10-10,85,60,108
+"Campus Lachine",2022-10-11,96,71,120
+"Campus Lachine",2022-10-12,91,67,116
+"Institut de Cardiologie de Montréal",2022-10-03,55,29,79
+"Institut de Cardiologie de Montréal",2022-10-04,67,43,92
+"Institut de Cardiologie de Montréal",2022-10-05,67,42,91
+"Institut de Cardiologie de Montréal",2022-10-06,61,38,86
+"Institut de Cardiologie de Montréal",2022-10-07,63,38,89
+"Institut de Cardiologie de Montréal",2022-10-08,49,24,75
+"Institut de Cardiologie de Montréal",2022-10-09,48,24,75
+"Institut de Cardiologie de Montréal",2022-10-10,54,29,80
+"Institut de Cardiologie de Montréal",2022-10-11,66,41,93
+"Institut de Cardiologie de Montréal",2022-10-12,66,43,91
+"CHU Sainte-Justine",2022-10-03,111,75,146
+"CHU Sainte-Justine",2022-10-04,112,78,145
+"CHU Sainte-Justine",2022-10-05,108,74,140
+"CHU Sainte-Justine",2022-10-06,107,72,143
+"CHU Sainte-Justine",2022-10-07,110,77,143
+"CHU Sainte-Justine",2022-10-08,103,69,138
+"CHU Sainte-Justine",2022-10-09,97,61,132
+"CHU Sainte-Justine",2022-10-10,113,83,149
+"CHU Sainte-Justine",2022-10-11,114,80,150
+"CHU Sainte-Justine",2022-10-12,110,75,142
+"Total",2022-10-03,128,120,135
+"Total",2022-10-04,134,126,142
+"Total",2022-10-05,133,126,141
+"Total",2022-10-06,130,122,138
+"Total",2022-10-07,126,119,134
+"Total",2022-10-08,117,110,125
+"Total",2022-10-09,117,110,125
+"Total",2022-10-10,129,122,137
+"Total",2022-10-11,134,127,142
+"Total",2022-10-12,134,127,142
