@@ -13,11 +13,11 @@ on:
 
 jobs: 
   R-script:
-    runs-on: macos-11
+    runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
      
       # setup R and packages 
       - uses: r-lib/actions/setup-r@v2
