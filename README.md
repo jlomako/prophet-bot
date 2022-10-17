@@ -6,3 +6,4 @@
 * Holiday effects for Quebec were added manually as prophet function <code>add_country_holidays</code> is not supported in R 4.2. (holiday package was removed from CRAN). 
 * deactivated old yaml and created new one with versions, still doesn't run on ubuntu because of some error with curl (in renv) 
 * doesn't work on ubuntu with DESCRIPTON either
+* runs every 2nd day at 1:25 pm local time
