@@ -1,221 +1,221 @@
 "name","Date","yhat","yhat_lower","yhat_upper"
-"Centre hospitalier de St. Mary",2022-12-20,147,125,170
-"Centre hospitalier de St. Mary",2022-12-21,151,127,172
-"Centre hospitalier de St. Mary",2022-12-22,149,125,172
+"Centre hospitalier de St. Mary",2022-12-22,150,127,172
 "Centre hospitalier de St. Mary",2022-12-23,149,126,170
-"Centre hospitalier de St. Mary",2022-12-24,133,110,154
-"Centre hospitalier de St. Mary",2022-12-25,127,104,150
-"Centre hospitalier de St. Mary",2022-12-26,137,115,160
-"Centre hospitalier de St. Mary",2022-12-27,148,125,170
-"Centre hospitalier de St. Mary",2022-12-28,152,129,175
-"Centre hospitalier de St. Mary",2022-12-29,150,127,172
-"Institut universitaire en santé mentale Douglas",2022-12-20,158,81,231
-"Institut universitaire en santé mentale Douglas",2022-12-21,133,56,205
-"Institut universitaire en santé mentale Douglas",2022-12-22,129,51,207
-"Institut universitaire en santé mentale Douglas",2022-12-23,137,66,210
-"Institut universitaire en santé mentale Douglas",2022-12-24,153,79,230
-"Institut universitaire en santé mentale Douglas",2022-12-25,164,90,240
-"Institut universitaire en santé mentale Douglas",2022-12-26,156,82,231
-"Institut universitaire en santé mentale Douglas",2022-12-27,161,91,237
-"Institut universitaire en santé mentale Douglas",2022-12-28,135,57,209
-"Institut universitaire en santé mentale Douglas",2022-12-29,132,50,204
-"Hôpital de LaSalle",2022-12-20,130,95,165
-"Hôpital de LaSalle",2022-12-21,131,95,169
-"Hôpital de LaSalle",2022-12-22,126,91,161
-"Hôpital de LaSalle",2022-12-23,124,87,162
-"Hôpital de LaSalle",2022-12-24,100,63,135
-"Hôpital de LaSalle",2022-12-25,107,71,141
-"Hôpital de LaSalle",2022-12-26,118,83,152
-"Hôpital de LaSalle",2022-12-27,130,96,166
-"Hôpital de LaSalle",2022-12-28,131,94,166
-"Hôpital de LaSalle",2022-12-29,127,90,161
-"Hôpital général du Lakeshore",2022-12-20,173,143,202
-"Hôpital général du Lakeshore",2022-12-21,177,147,207
-"Hôpital général du Lakeshore",2022-12-22,175,145,204
-"Hôpital général du Lakeshore",2022-12-23,162,132,193
-"Hôpital général du Lakeshore",2022-12-24,160,129,187
-"Hôpital général du Lakeshore",2022-12-25,162,130,191
-"Hôpital général du Lakeshore",2022-12-26,172,144,203
-"Hôpital général du Lakeshore",2022-12-27,174,145,203
-"Hôpital général du Lakeshore",2022-12-28,179,148,211
-"Hôpital général du Lakeshore",2022-12-29,177,146,206
-"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-20,165,138,192
-"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-21,167,142,193
-"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-22,167,142,193
-"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-23,163,137,190
-"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-24,157,131,183
-"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-25,145,117,171
-"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-26,161,136,187
-"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-27,166,140,191
-"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-28,168,142,196
-"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-29,167,141,194
-"Hôpital de Verdun",2022-12-20,149,119,178
-"Hôpital de Verdun",2022-12-21,153,123,183
-"Hôpital de Verdun",2022-12-22,137,108,166
-"Hôpital de Verdun",2022-12-23,140,111,170
-"Hôpital de Verdun",2022-12-24,124,94,154
-"Hôpital de Verdun",2022-12-25,123,93,154
-"Hôpital de Verdun",2022-12-26,141,111,167
-"Hôpital de Verdun",2022-12-27,151,122,181
-"Hôpital de Verdun",2022-12-28,155,126,182
-"Hôpital de Verdun",2022-12-29,139,111,169
-"Hôpital Notre-Dame",2022-12-20,140,121,160
-"Hôpital Notre-Dame",2022-12-21,136,118,155
-"Hôpital Notre-Dame",2022-12-22,133,112,153
-"Hôpital Notre-Dame",2022-12-23,131,109,151
-"Hôpital Notre-Dame",2022-12-24,124,103,143
-"Hôpital Notre-Dame",2022-12-25,127,107,145
-"Hôpital Notre-Dame",2022-12-26,136,116,155
-"Hôpital Notre-Dame",2022-12-27,140,119,161
-"Hôpital Notre-Dame",2022-12-28,137,117,156
-"Hôpital Notre-Dame",2022-12-29,134,114,154
-"Hôpital Fleury",2022-12-20,117,90,142
-"Hôpital Fleury",2022-12-21,112,85,138
-"Hôpital Fleury",2022-12-22,109,82,133
-"Hôpital Fleury",2022-12-23,109,82,137
-"Hôpital Fleury",2022-12-24,99,71,125
-"Hôpital Fleury",2022-12-25,100,73,127
-"Hôpital Fleury",2022-12-26,110,84,137
-"Hôpital Fleury",2022-12-27,118,93,145
-"Hôpital Fleury",2022-12-28,112,88,138
-"Hôpital Fleury",2022-12-29,109,81,138
-"Hôpital du Sacré-Coeur de Montréal",2022-12-20,133,114,150
-"Hôpital du Sacré-Coeur de Montréal",2022-12-21,126,106,145
-"Hôpital du Sacré-Coeur de Montréal",2022-12-22,118,100,138
-"Hôpital du Sacré-Coeur de Montréal",2022-12-23,119,100,138
-"Hôpital du Sacré-Coeur de Montréal",2022-12-24,104,85,123
-"Hôpital du Sacré-Coeur de Montréal",2022-12-25,110,92,129
-"Hôpital du Sacré-Coeur de Montréal",2022-12-26,119,100,139
-"Hôpital du Sacré-Coeur de Montréal",2022-12-27,132,114,151
-"Hôpital du Sacré-Coeur de Montréal",2022-12-28,126,107,145
-"Hôpital du Sacré-Coeur de Montréal",2022-12-29,118,100,137
-"Hôpital Jean-Talon",2022-12-20,88,68,110
-"Hôpital Jean-Talon",2022-12-21,86,65,107
-"Hôpital Jean-Talon",2022-12-22,91,69,111
-"Hôpital Jean-Talon",2022-12-23,87,64,108
-"Hôpital Jean-Talon",2022-12-24,82,60,103
-"Hôpital Jean-Talon",2022-12-25,77,57,98
-"Hôpital Jean-Talon",2022-12-26,85,63,105
-"Hôpital Jean-Talon",2022-12-27,88,67,109
+"Centre hospitalier de St. Mary",2022-12-24,133,111,158
+"Centre hospitalier de St. Mary",2022-12-25,127,105,150
+"Centre hospitalier de St. Mary",2022-12-26,138,114,162
+"Centre hospitalier de St. Mary",2022-12-27,148,127,171
+"Centre hospitalier de St. Mary",2022-12-28,152,130,174
+"Centre hospitalier de St. Mary",2022-12-29,150,128,173
+"Centre hospitalier de St. Mary",2022-12-30,150,127,171
+"Centre hospitalier de St. Mary",2022-12-31,134,110,157
+"Institut universitaire en santé mentale Douglas",2022-12-22,132,58,204
+"Institut universitaire en santé mentale Douglas",2022-12-23,140,67,217
+"Institut universitaire en santé mentale Douglas",2022-12-24,156,81,232
+"Institut universitaire en santé mentale Douglas",2022-12-25,169,91,245
+"Institut universitaire en santé mentale Douglas",2022-12-26,159,82,231
+"Institut universitaire en santé mentale Douglas",2022-12-27,165,89,233
+"Institut universitaire en santé mentale Douglas",2022-12-28,139,68,212
+"Institut universitaire en santé mentale Douglas",2022-12-29,135,65,206
+"Institut universitaire en santé mentale Douglas",2022-12-30,143,66,214
+"Institut universitaire en santé mentale Douglas",2022-12-31,159,79,238
+"Hôpital de LaSalle",2022-12-22,125,89,162
+"Hôpital de LaSalle",2022-12-23,123,85,161
+"Hôpital de LaSalle",2022-12-24,99,63,136
+"Hôpital de LaSalle",2022-12-25,106,70,143
+"Hôpital de LaSalle",2022-12-26,118,84,155
+"Hôpital de LaSalle",2022-12-27,130,93,166
+"Hôpital de LaSalle",2022-12-28,131,96,166
+"Hôpital de LaSalle",2022-12-29,126,92,162
+"Hôpital de LaSalle",2022-12-30,123,83,159
+"Hôpital de LaSalle",2022-12-31,99,62,137
+"Hôpital général du Lakeshore",2022-12-22,175,147,205
+"Hôpital général du Lakeshore",2022-12-23,162,133,192
+"Hôpital général du Lakeshore",2022-12-24,160,130,189
+"Hôpital général du Lakeshore",2022-12-25,162,136,192
+"Hôpital général du Lakeshore",2022-12-26,172,143,202
+"Hôpital général du Lakeshore",2022-12-27,175,148,205
+"Hôpital général du Lakeshore",2022-12-28,179,147,208
+"Hôpital général du Lakeshore",2022-12-29,177,147,206
+"Hôpital général du Lakeshore",2022-12-30,164,135,193
+"Hôpital général du Lakeshore",2022-12-31,161,130,191
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-22,167,143,192
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-23,163,137,189
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-24,157,131,182
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-25,145,119,172
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-26,162,137,188
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-27,166,141,193
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-28,168,144,196
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-29,167,141,191
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-30,163,137,189
+"L'Hôpital général Juif Sir Mortimer B. Davis",2022-12-31,158,132,182
+"Hôpital de Verdun",2022-12-22,136,106,167
+"Hôpital de Verdun",2022-12-23,140,110,170
+"Hôpital de Verdun",2022-12-24,123,92,154
+"Hôpital de Verdun",2022-12-25,123,95,152
+"Hôpital de Verdun",2022-12-26,140,109,169
+"Hôpital de Verdun",2022-12-27,150,122,181
+"Hôpital de Verdun",2022-12-28,152,122,182
+"Hôpital de Verdun",2022-12-29,138,110,170
+"Hôpital de Verdun",2022-12-30,141,112,171
+"Hôpital de Verdun",2022-12-31,125,99,156
+"Hôpital Notre-Dame",2022-12-22,132,112,152
+"Hôpital Notre-Dame",2022-12-23,130,110,149
+"Hôpital Notre-Dame",2022-12-24,123,103,143
+"Hôpital Notre-Dame",2022-12-25,126,105,147
+"Hôpital Notre-Dame",2022-12-26,135,115,155
+"Hôpital Notre-Dame",2022-12-27,139,119,158
+"Hôpital Notre-Dame",2022-12-28,136,115,156
+"Hôpital Notre-Dame",2022-12-29,133,114,153
+"Hôpital Notre-Dame",2022-12-30,130,111,151
+"Hôpital Notre-Dame",2022-12-31,124,104,142
+"Hôpital Fleury",2022-12-22,110,81,137
+"Hôpital Fleury",2022-12-23,109,81,139
+"Hôpital Fleury",2022-12-24,100,74,127
+"Hôpital Fleury",2022-12-25,101,73,129
+"Hôpital Fleury",2022-12-26,110,83,137
+"Hôpital Fleury",2022-12-27,118,92,145
+"Hôpital Fleury",2022-12-28,114,86,140
+"Hôpital Fleury",2022-12-29,110,83,136
+"Hôpital Fleury",2022-12-30,110,82,135
+"Hôpital Fleury",2022-12-31,101,73,129
+"Hôpital du Sacré-Coeur de Montréal",2022-12-22,118,101,136
+"Hôpital du Sacré-Coeur de Montréal",2022-12-23,119,101,137
+"Hôpital du Sacré-Coeur de Montréal",2022-12-24,104,86,124
+"Hôpital du Sacré-Coeur de Montréal",2022-12-25,110,91,129
+"Hôpital du Sacré-Coeur de Montréal",2022-12-26,119,103,139
+"Hôpital du Sacré-Coeur de Montréal",2022-12-27,132,115,151
+"Hôpital du Sacré-Coeur de Montréal",2022-12-28,126,107,144
+"Hôpital du Sacré-Coeur de Montréal",2022-12-29,118,100,136
+"Hôpital du Sacré-Coeur de Montréal",2022-12-30,119,99,136
+"Hôpital du Sacré-Coeur de Montréal",2022-12-31,104,87,123
+"Hôpital Jean-Talon",2022-12-22,90,70,112
+"Hôpital Jean-Talon",2022-12-23,87,66,108
+"Hôpital Jean-Talon",2022-12-24,82,62,106
+"Hôpital Jean-Talon",2022-12-25,77,57,99
+"Hôpital Jean-Talon",2022-12-26,84,63,105
+"Hôpital Jean-Talon",2022-12-27,86,66,108
 "Hôpital Jean-Talon",2022-12-28,86,65,108
-"Hôpital Jean-Talon",2022-12-29,90,70,111
-"Pavillon Albert-Prévost",2022-12-20,59,36,81
-"Pavillon Albert-Prévost",2022-12-21,69,47,93
-"Pavillon Albert-Prévost",2022-12-22,67,45,89
-"Pavillon Albert-Prévost",2022-12-23,66,44,89
-"Pavillon Albert-Prévost",2022-12-24,56,33,78
-"Pavillon Albert-Prévost",2022-12-25,61,37,83
-"Pavillon Albert-Prévost",2022-12-26,65,44,87
-"Pavillon Albert-Prévost",2022-12-27,59,37,82
-"Pavillon Albert-Prévost",2022-12-28,70,47,93
-"Pavillon Albert-Prévost",2022-12-29,67,42,89
-"Institut universitaire en santé mentale de Montréal",2022-12-20,87,47,125
-"Institut universitaire en santé mentale de Montréal",2022-12-21,88,50,127
-"Institut universitaire en santé mentale de Montréal",2022-12-22,88,50,126
-"Institut universitaire en santé mentale de Montréal",2022-12-23,89,51,126
-"Institut universitaire en santé mentale de Montréal",2022-12-24,68,32,107
-"Institut universitaire en santé mentale de Montréal",2022-12-25,77,39,115
-"Institut universitaire en santé mentale de Montréal",2022-12-26,102,62,138
-"Institut universitaire en santé mentale de Montréal",2022-12-27,88,53,127
-"Institut universitaire en santé mentale de Montréal",2022-12-28,90,52,129
-"Institut universitaire en santé mentale de Montréal",2022-12-29,89,52,128
-"Hôpital Maisonneuve-Rosemont",2022-12-20,138,117,160
-"Hôpital Maisonneuve-Rosemont",2022-12-21,142,120,163
-"Hôpital Maisonneuve-Rosemont",2022-12-22,131,110,152
-"Hôpital Maisonneuve-Rosemont",2022-12-23,125,104,146
-"Hôpital Maisonneuve-Rosemont",2022-12-24,105,84,127
-"Hôpital Maisonneuve-Rosemont",2022-12-25,114,94,133
-"Hôpital Maisonneuve-Rosemont",2022-12-26,128,106,148
-"Hôpital Maisonneuve-Rosemont",2022-12-27,137,115,160
-"Hôpital Maisonneuve-Rosemont",2022-12-28,141,120,162
-"Hôpital Maisonneuve-Rosemont",2022-12-29,131,111,152
-"Hôpital Santa Cabrini",2022-12-20,124,98,149
-"Hôpital Santa Cabrini",2022-12-21,123,99,145
-"Hôpital Santa Cabrini",2022-12-22,120,97,144
-"Hôpital Santa Cabrini",2022-12-23,115,92,139
-"Hôpital Santa Cabrini",2022-12-24,108,85,132
-"Hôpital Santa Cabrini",2022-12-25,105,80,128
-"Hôpital Santa Cabrini",2022-12-26,113,88,137
-"Hôpital Santa Cabrini",2022-12-27,124,100,149
-"Hôpital Santa Cabrini",2022-12-28,123,99,146
-"Hôpital Santa Cabrini",2022-12-29,120,94,142
-"Centre hospitalier de l'Université de Montréal",2022-12-20,159,143,176
-"Centre hospitalier de l'Université de Montréal",2022-12-21,158,143,174
-"Centre hospitalier de l'Université de Montréal",2022-12-22,157,140,173
-"Centre hospitalier de l'Université de Montréal",2022-12-23,160,144,177
-"Centre hospitalier de l'Université de Montréal",2022-12-24,144,128,160
-"Centre hospitalier de l'Université de Montréal",2022-12-25,148,131,164
-"Centre hospitalier de l'Université de Montréal",2022-12-26,155,138,171
-"Centre hospitalier de l'Université de Montréal",2022-12-27,160,143,176
-"Centre hospitalier de l'Université de Montréal",2022-12-28,159,143,175
-"Centre hospitalier de l'Université de Montréal",2022-12-29,158,141,173
-"Hôpital Royal Victoria",2022-12-20,195,164,225
-"Hôpital Royal Victoria",2022-12-21,190,160,222
-"Hôpital Royal Victoria",2022-12-22,189,158,218
-"Hôpital Royal Victoria",2022-12-23,187,156,217
-"Hôpital Royal Victoria",2022-12-24,184,154,215
-"Hôpital Royal Victoria",2022-12-25,173,142,204
+"Hôpital Jean-Talon",2022-12-29,90,69,110
+"Hôpital Jean-Talon",2022-12-30,87,64,107
+"Hôpital Jean-Talon",2022-12-31,82,62,103
+"Pavillon Albert-Prévost",2022-12-22,68,45,91
+"Pavillon Albert-Prévost",2022-12-23,67,45,90
+"Pavillon Albert-Prévost",2022-12-24,57,34,80
+"Pavillon Albert-Prévost",2022-12-25,62,40,84
+"Pavillon Albert-Prévost",2022-12-26,66,43,89
+"Pavillon Albert-Prévost",2022-12-27,61,39,83
+"Pavillon Albert-Prévost",2022-12-28,71,48,92
+"Pavillon Albert-Prévost",2022-12-29,68,45,91
+"Pavillon Albert-Prévost",2022-12-30,67,44,89
+"Pavillon Albert-Prévost",2022-12-31,57,35,80
+"Institut universitaire en santé mentale de Montréal",2022-12-22,88,51,125
+"Institut universitaire en santé mentale de Montréal",2022-12-23,89,54,125
+"Institut universitaire en santé mentale de Montréal",2022-12-24,68,32,108
+"Institut universitaire en santé mentale de Montréal",2022-12-25,77,42,116
+"Institut universitaire en santé mentale de Montréal",2022-12-26,102,66,139
+"Institut universitaire en santé mentale de Montréal",2022-12-27,88,52,127
+"Institut universitaire en santé mentale de Montréal",2022-12-28,88,52,126
+"Institut universitaire en santé mentale de Montréal",2022-12-29,89,50,124
+"Institut universitaire en santé mentale de Montréal",2022-12-30,90,57,126
+"Institut universitaire en santé mentale de Montréal",2022-12-31,70,35,109
+"Hôpital Maisonneuve-Rosemont",2022-12-22,131,110,154
+"Hôpital Maisonneuve-Rosemont",2022-12-23,124,103,146
+"Hôpital Maisonneuve-Rosemont",2022-12-24,105,84,125
+"Hôpital Maisonneuve-Rosemont",2022-12-25,114,92,135
+"Hôpital Maisonneuve-Rosemont",2022-12-26,128,105,147
+"Hôpital Maisonneuve-Rosemont",2022-12-27,136,117,158
+"Hôpital Maisonneuve-Rosemont",2022-12-28,141,122,162
+"Hôpital Maisonneuve-Rosemont",2022-12-29,131,108,152
+"Hôpital Maisonneuve-Rosemont",2022-12-30,124,102,147
+"Hôpital Maisonneuve-Rosemont",2022-12-31,105,84,127
+"Hôpital Santa Cabrini",2022-12-22,119,95,143
+"Hôpital Santa Cabrini",2022-12-23,114,92,138
+"Hôpital Santa Cabrini",2022-12-24,107,84,130
+"Hôpital Santa Cabrini",2022-12-25,105,81,128
+"Hôpital Santa Cabrini",2022-12-26,112,90,135
+"Hôpital Santa Cabrini",2022-12-27,123,99,147
+"Hôpital Santa Cabrini",2022-12-28,122,97,146
+"Hôpital Santa Cabrini",2022-12-29,119,94,143
+"Hôpital Santa Cabrini",2022-12-30,114,90,136
+"Hôpital Santa Cabrini",2022-12-31,107,83,131
+"Centre hospitalier de l'Université de Montréal",2022-12-22,155,138,172
+"Centre hospitalier de l'Université de Montréal",2022-12-23,158,141,175
+"Centre hospitalier de l'Université de Montréal",2022-12-24,142,126,159
+"Centre hospitalier de l'Université de Montréal",2022-12-25,146,130,162
+"Centre hospitalier de l'Université de Montréal",2022-12-26,152,136,169
+"Centre hospitalier de l'Université de Montréal",2022-12-27,158,142,175
+"Centre hospitalier de l'Université de Montréal",2022-12-28,156,140,173
+"Centre hospitalier de l'Université de Montréal",2022-12-29,155,139,172
+"Centre hospitalier de l'Université de Montréal",2022-12-30,159,142,174
+"Centre hospitalier de l'Université de Montréal",2022-12-31,143,126,159
+"Hôpital Royal Victoria",2022-12-22,189,158,219
+"Hôpital Royal Victoria",2022-12-23,187,156,216
+"Hôpital Royal Victoria",2022-12-24,185,156,215
+"Hôpital Royal Victoria",2022-12-25,173,144,204
 "Hôpital Royal Victoria",2022-12-26,180,149,209
-"Hôpital Royal Victoria",2022-12-27,195,164,227
-"Hôpital Royal Victoria",2022-12-28,190,158,222
-"Hôpital Royal Victoria",2022-12-29,189,157,218
-"Hôpital général de Montréal",2022-12-20,144,118,168
-"Hôpital général de Montréal",2022-12-21,151,125,176
-"Hôpital général de Montréal",2022-12-22,155,127,180
-"Hôpital général de Montréal",2022-12-23,156,131,180
-"Hôpital général de Montréal",2022-12-24,148,122,172
-"Hôpital général de Montréal",2022-12-25,149,125,175
-"Hôpital général de Montréal",2022-12-26,148,123,174
-"Hôpital général de Montréal",2022-12-27,143,117,169
-"Hôpital général de Montréal",2022-12-28,150,125,175
-"Hôpital général de Montréal",2022-12-29,154,130,181
-"Hôpital de Montréal pour enfants",2022-12-20,156,112,203
-"Hôpital de Montréal pour enfants",2022-12-21,161,111,206
-"Hôpital de Montréal pour enfants",2022-12-22,147,97,194
-"Hôpital de Montréal pour enfants",2022-12-23,150,105,197
-"Hôpital de Montréal pour enfants",2022-12-24,150,102,199
-"Hôpital de Montréal pour enfants",2022-12-25,146,96,192
-"Hôpital de Montréal pour enfants",2022-12-26,142,96,190
-"Hôpital de Montréal pour enfants",2022-12-27,157,111,202
-"Hôpital de Montréal pour enfants",2022-12-28,163,117,209
-"Hôpital de Montréal pour enfants",2022-12-29,149,97,196
-"Campus Lachine",2022-12-20,79,54,105
-"Campus Lachine",2022-12-21,75,50,102
-"Campus Lachine",2022-12-22,77,51,104
-"Campus Lachine",2022-12-23,71,44,99
-"Campus Lachine",2022-12-24,65,40,92
-"Campus Lachine",2022-12-25,64,36,91
-"Campus Lachine",2022-12-26,72,46,99
-"Campus Lachine",2022-12-27,80,54,107
-"Campus Lachine",2022-12-28,76,48,103
-"Campus Lachine",2022-12-29,78,54,105
-"Institut de Cardiologie de Montréal",2022-12-20,58,35,82
-"Institut de Cardiologie de Montréal",2022-12-21,59,36,83
-"Institut de Cardiologie de Montréal",2022-12-22,55,30,78
-"Institut de Cardiologie de Montréal",2022-12-23,58,34,80
-"Institut de Cardiologie de Montréal",2022-12-24,42,19,64
-"Institut de Cardiologie de Montréal",2022-12-25,40,17,63
-"Institut de Cardiologie de Montréal",2022-12-26,48,25,71
-"Institut de Cardiologie de Montréal",2022-12-27,58,34,81
-"Institut de Cardiologie de Montréal",2022-12-28,58,36,82
-"Institut de Cardiologie de Montréal",2022-12-29,54,30,77
-"CHU Sainte-Justine",2022-12-20,106,70,144
-"CHU Sainte-Justine",2022-12-21,105,69,142
-"CHU Sainte-Justine",2022-12-22,101,64,138
-"CHU Sainte-Justine",2022-12-23,104,69,142
-"CHU Sainte-Justine",2022-12-24,92,58,126
-"CHU Sainte-Justine",2022-12-25,91,53,127
-"CHU Sainte-Justine",2022-12-26,103,66,140
-"CHU Sainte-Justine",2022-12-27,106,69,140
-"CHU Sainte-Justine",2022-12-28,104,67,141
-"CHU Sainte-Justine",2022-12-29,100,66,137
-"Total",2022-12-20,136,128,144
-"Total",2022-12-21,135,128,143
-"Total",2022-12-22,132,124,141
+"Hôpital Royal Victoria",2022-12-27,196,165,228
+"Hôpital Royal Victoria",2022-12-28,191,161,222
+"Hôpital Royal Victoria",2022-12-29,190,160,221
+"Hôpital Royal Victoria",2022-12-30,187,154,218
+"Hôpital Royal Victoria",2022-12-31,185,155,216
+"Hôpital général de Montréal",2022-12-22,156,131,182
+"Hôpital général de Montréal",2022-12-23,157,131,183
+"Hôpital général de Montréal",2022-12-24,149,124,175
+"Hôpital général de Montréal",2022-12-25,150,126,177
+"Hôpital général de Montréal",2022-12-26,149,123,176
+"Hôpital général de Montréal",2022-12-27,145,120,173
+"Hôpital général de Montréal",2022-12-28,151,124,176
+"Hôpital général de Montréal",2022-12-29,155,130,182
+"Hôpital général de Montréal",2022-12-30,156,131,182
+"Hôpital général de Montréal",2022-12-31,148,122,174
+"Hôpital de Montréal pour enfants",2022-12-22,144,94,194
+"Hôpital de Montréal pour enfants",2022-12-23,147,102,195
+"Hôpital de Montréal pour enfants",2022-12-24,148,98,196
+"Hôpital de Montréal pour enfants",2022-12-25,143,91,191
+"Hôpital de Montréal pour enfants",2022-12-26,139,93,188
+"Hôpital de Montréal pour enfants",2022-12-27,153,106,205
+"Hôpital de Montréal pour enfants",2022-12-28,157,110,210
+"Hôpital de Montréal pour enfants",2022-12-29,146,95,198
+"Hôpital de Montréal pour enfants",2022-12-30,149,104,198
+"Hôpital de Montréal pour enfants",2022-12-31,149,101,199
+"Campus Lachine",2022-12-22,76,50,105
+"Campus Lachine",2022-12-23,70,45,97
+"Campus Lachine",2022-12-24,64,37,93
+"Campus Lachine",2022-12-25,63,37,90
+"Campus Lachine",2022-12-26,71,44,97
+"Campus Lachine",2022-12-27,79,51,105
+"Campus Lachine",2022-12-28,74,47,102
+"Campus Lachine",2022-12-29,77,50,103
+"Campus Lachine",2022-12-30,70,44,98
+"Campus Lachine",2022-12-31,65,38,91
+"Institut de Cardiologie de Montréal",2022-12-22,56,33,79
+"Institut de Cardiologie de Montréal",2022-12-23,59,37,83
+"Institut de Cardiologie de Montréal",2022-12-24,43,21,66
+"Institut de Cardiologie de Montréal",2022-12-25,41,16,64
+"Institut de Cardiologie de Montréal",2022-12-26,50,26,75
+"Institut de Cardiologie de Montréal",2022-12-27,60,37,83
+"Institut de Cardiologie de Montréal",2022-12-28,60,37,84
+"Institut de Cardiologie de Montréal",2022-12-29,55,32,78
+"Institut de Cardiologie de Montréal",2022-12-30,59,37,82
+"Institut de Cardiologie de Montréal",2022-12-31,42,18,66
+"CHU Sainte-Justine",2022-12-22,98,59,134
+"CHU Sainte-Justine",2022-12-23,101,66,141
+"CHU Sainte-Justine",2022-12-24,89,50,127
+"CHU Sainte-Justine",2022-12-25,89,51,127
+"CHU Sainte-Justine",2022-12-26,100,64,141
+"CHU Sainte-Justine",2022-12-27,102,66,139
+"CHU Sainte-Justine",2022-12-28,99,61,135
+"CHU Sainte-Justine",2022-12-29,97,61,134
+"CHU Sainte-Justine",2022-12-30,100,62,138
+"CHU Sainte-Justine",2022-12-31,88,51,123
+"Total",2022-12-22,132,123,139
 "Total",2022-12-23,130,122,138
-"Total",2022-12-24,119,112,128
-"Total",2022-12-25,120,112,128
-"Total",2022-12-26,129,121,137
-"Total",2022-12-27,136,127,144
+"Total",2022-12-24,119,112,127
+"Total",2022-12-25,119,112,128
+"Total",2022-12-26,129,121,136
+"Total",2022-12-27,135,127,144
 "Total",2022-12-28,135,127,143
-"Total",2022-12-29,132,124,140
+"Total",2022-12-29,131,124,140
+"Total",2022-12-30,130,122,138
+"Total",2022-12-31,119,111,127
