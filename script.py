@@ -5,6 +5,7 @@ from prophet import Prophet
 url = "https://github.com/jlomako/hospital-occupancy-tracker/raw/main/data/hospitals.csv"
 df = pd.read_csv(url)
 
+# read in holidays for quebec
 holidays = pd.read_csv("data/quebec.csv")
 
 # create empty df
@@ -21,7 +22,7 @@ for hospital in hospitals:
   # rename columns to be processed in prophet
   df_hospital.columns = ['ds', 'y']
 
-  # fit the model
+  # include holidays fit the model
   m = Prophet(holidays=holidays)
   m.fit(df_hospital)
 
