@@ -1,4 +1,4 @@
-name: get-predictions v2
+name: get-predictions-in-R
 # needs renv.lock file!!
 
 ## set timer (runs every 2nd day at 17:25 utc)
