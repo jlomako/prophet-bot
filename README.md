@@ -1,6 +1,6 @@
 # prophet-bot
 
-[![get-predictions v2](https://github.com/jlomako/prophet-bot/actions/workflows/prophet_bot_v2.yml/badge.svg)](https://github.com/jlomako/prophet-bot/actions/workflows/prophet_bot_v2.yml)
+[![get-predictions-py](https://github.com/jlomako/prophet-bot/actions/workflows/main.yml/badge.svg)](https://github.com/jlomako/prophet-bot/actions/workflows/main.yml)
 
 * Github action that reads data from <a href="https://github.com/jlomako/hospital-occupancy-tracker">hospital-occupancy-tracker</a> repository, then runs prophet in R and gets predictions for Shiny <a href = "https://github.com/jlomako/Montreal-ER">Montreal-ER</a> app (visit app <a href="https://jlomako.shinyapps.io/Montreal_ER/">here</a>)
 * Holiday effects for Quebec were added manually as prophet function <code>add_country_holidays</code> is not supported in R 4.2. (holiday package was removed from CRAN). 
