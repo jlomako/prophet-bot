@@ -7,5 +7,4 @@
 * deactivated old yaml and created new one with versions, still doesn't run on ubuntu because of some error with curl (in renv) 
 * doesn't work on ubuntu with <code>DESCRIPTON</code> either
 * runs every 2nd day at 1:25 pm local time
-* re-wrote the script in python, added requirements.txt, added new yml (runs on ubuntu)
-* switched from R to python -- bot runs much faster now :)
+* re-wrote the script in python, added requirements.txt, added new yml (runs on ubuntu) -- bot runs much faster now :)
