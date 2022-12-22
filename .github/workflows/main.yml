@@ -1,44 +1,38 @@
-name: get-predictions
+name: get-predictions-python
 
-## set timer (17:25 utc)
-on:
-  schedule:
-  - cron: 25 17 * * *
-  
-## run script on push
+on: push
+
+# or set timer (runs every 2nd day at 17:25 utc)
 #on:
-#  push:
-#    branches: 
-#      - main
+#  schedule:
+#  - cron: 25 17 */2 * *
 
-jobs: 
-  R-script:
-    runs-on: macos-11
-
-    # load repo and install R
-    steps:
-    - uses: actions/checkout@master
-    - uses: r-lib/actions/setup-r@master
-
-    # Set-up R 
-    - name: install R packages
-      run: |
-        R -e 'install.packages("prophet")'
-        R -e 'install.packages("dplyr")'
-        R -e 'install.packages("vroom")'
-
-    # Run R script
-    - name: run R script
-      run: Rscript script.R
+jobs:
+  get-data-from-csv:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       
- # Add new file in data folder, commit along with other modified files, push
-    - name: commit files
-      run: |
-        git config --local user.name actions-user
-        git config --local user.email "actions@github.com"
-        git add data/*
-        git commit -am "Scheduled Github Action on $(date)"
-        git push origin main
-      env:
-        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-        username: github-actions
+    steps:
+      - uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install Python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run script
+        run: python script.py
+        
+      - name: Commit files
+        run: |
+          git config --local user.name actions-user
+          git config --local user.email "actions@github.com"
+          git add data/*
+          git commit -am "Scheduled Github Action on $(date)"
+          git push origin main
