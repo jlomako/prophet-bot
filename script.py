@@ -49,4 +49,4 @@ for hospital in hospitals:
   df0 = df0.append(plot_df)
 
 # write dataframe with calculations to file
-df0.to_csv("data/prophet_test.csv", header=True, index=False)
+df0.to_csv("data/prophet.csv", header=True, index=False)
