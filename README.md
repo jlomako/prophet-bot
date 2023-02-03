@@ -9,3 +9,4 @@ Github action that reads data from <a href="https://github.com/jlomako/hospital-
 * Holiday effects for Quebec were added manually
 * made some changes to the bot to make it faster, now runs in python instead of R
 * R files have been moved to another repository, see <a href = "https://github.com/jlomako/prophet-bot-R">prophet-bot-R</a>
+* check number of changepoints once more data is available
