@@ -1,221 +1,221 @@
 name,Date,yhat,yhat_lower,yhat_upper
-Centre hospitalier de St. Mary,2023-09-13,123,99,146
-Centre hospitalier de St. Mary,2023-09-14,121,96,146
-Centre hospitalier de St. Mary,2023-09-15,121,99,146
-Centre hospitalier de St. Mary,2023-09-16,108,84,132
-Centre hospitalier de St. Mary,2023-09-17,99,75,122
-Centre hospitalier de St. Mary,2023-09-18,108,83,132
-Centre hospitalier de St. Mary,2023-09-19,121,96,144
-Centre hospitalier de St. Mary,2023-09-20,123,99,147
-Centre hospitalier de St. Mary,2023-09-21,120,97,143
-Centre hospitalier de St. Mary,2023-09-22,121,97,144
-Institut universitaire en santé mentale Douglas,2023-09-13,152,79,229
-Institut universitaire en santé mentale Douglas,2023-09-14,158,82,232
-Institut universitaire en santé mentale Douglas,2023-09-15,153,75,224
-Institut universitaire en santé mentale Douglas,2023-09-16,155,83,227
-Institut universitaire en santé mentale Douglas,2023-09-17,171,102,246
-Institut universitaire en santé mentale Douglas,2023-09-18,184,108,254
-Institut universitaire en santé mentale Douglas,2023-09-19,169,95,243
-Institut universitaire en santé mentale Douglas,2023-09-20,153,75,225
-Institut universitaire en santé mentale Douglas,2023-09-21,159,82,231
-Institut universitaire en santé mentale Douglas,2023-09-22,154,81,223
-Hôpital de LaSalle,2023-09-13,117,81,150
-Hôpital de LaSalle,2023-09-14,111,77,149
-Hôpital de LaSalle,2023-09-15,113,78,149
-Hôpital de LaSalle,2023-09-16,92,57,128
-Hôpital de LaSalle,2023-09-17,92,55,129
-Hôpital de LaSalle,2023-09-18,102,68,136
-Hôpital de LaSalle,2023-09-19,113,75,150
-Hôpital de LaSalle,2023-09-20,116,81,149
-Hôpital de LaSalle,2023-09-21,110,75,148
-Hôpital de LaSalle,2023-09-22,112,74,149
-Hôpital général du Lakeshore,2023-09-13,156,125,186
-Hôpital général du Lakeshore,2023-09-14,157,127,186
-Hôpital général du Lakeshore,2023-09-15,144,116,176
-Hôpital général du Lakeshore,2023-09-16,139,109,166
-Hôpital général du Lakeshore,2023-09-17,141,113,172
-Hôpital général du Lakeshore,2023-09-18,150,120,179
-Hôpital général du Lakeshore,2023-09-19,155,124,184
-Hôpital général du Lakeshore,2023-09-20,156,125,187
-Hôpital général du Lakeshore,2023-09-21,156,126,184
-Hôpital général du Lakeshore,2023-09-22,144,114,171
-L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-13,192,162,224
-L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-14,191,161,224
-L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-15,188,156,222
-L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-16,181,149,213
-L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-17,172,138,204
-L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-18,191,158,221
-L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-19,197,163,230
-L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-20,193,161,227
-L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-21,192,157,225
-L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-22,189,155,221
-Hôpital de Verdun,2023-09-13,135,102,170
-Hôpital de Verdun,2023-09-14,127,91,159
-Hôpital de Verdun,2023-09-15,130,96,162
-Hôpital de Verdun,2023-09-16,112,83,147
-Hôpital de Verdun,2023-09-17,111,77,145
-Hôpital de Verdun,2023-09-18,125,92,158
-Hôpital de Verdun,2023-09-19,137,104,172
-Hôpital de Verdun,2023-09-20,136,99,170
-Hôpital de Verdun,2023-09-21,127,92,160
-Hôpital de Verdun,2023-09-22,130,96,164
-Hôpital Notre-Dame,2023-09-13,133,112,154
-Hôpital Notre-Dame,2023-09-14,132,112,153
-Hôpital Notre-Dame,2023-09-15,131,110,152
-Hôpital Notre-Dame,2023-09-16,120,98,139
-Hôpital Notre-Dame,2023-09-17,127,107,148
+Centre hospitalier de St. Mary,2023-09-14,121,97,144
+Centre hospitalier de St. Mary,2023-09-15,122,97,146
+Centre hospitalier de St. Mary,2023-09-16,108,85,131
+Centre hospitalier de St. Mary,2023-09-17,100,74,122
+Centre hospitalier de St. Mary,2023-09-18,109,85,135
+Centre hospitalier de St. Mary,2023-09-19,121,96,146
+Centre hospitalier de St. Mary,2023-09-20,123,98,150
+Centre hospitalier de St. Mary,2023-09-21,121,98,147
+Centre hospitalier de St. Mary,2023-09-22,121,97,145
+Centre hospitalier de St. Mary,2023-09-23,108,83,132
+Institut universitaire en santé mentale Douglas,2023-09-14,158,84,237
+Institut universitaire en santé mentale Douglas,2023-09-15,153,76,227
+Institut universitaire en santé mentale Douglas,2023-09-16,154,78,231
+Institut universitaire en santé mentale Douglas,2023-09-17,171,98,240
+Institut universitaire en santé mentale Douglas,2023-09-18,184,112,258
+Institut universitaire en santé mentale Douglas,2023-09-19,170,97,242
+Institut universitaire en santé mentale Douglas,2023-09-20,155,80,227
+Institut universitaire en santé mentale Douglas,2023-09-21,159,88,233
+Institut universitaire en santé mentale Douglas,2023-09-22,154,82,224
+Institut universitaire en santé mentale Douglas,2023-09-23,156,84,228
+Hôpital de LaSalle,2023-09-14,109,75,145
+Hôpital de LaSalle,2023-09-15,112,75,149
+Hôpital de LaSalle,2023-09-16,91,55,126
+Hôpital de LaSalle,2023-09-17,90,54,125
+Hôpital de LaSalle,2023-09-18,101,64,136
+Hôpital de LaSalle,2023-09-19,112,76,148
+Hôpital de LaSalle,2023-09-20,115,78,152
+Hôpital de LaSalle,2023-09-21,109,71,145
+Hôpital de LaSalle,2023-09-22,111,77,149
+Hôpital de LaSalle,2023-09-23,90,52,127
+Hôpital général du Lakeshore,2023-09-14,156,126,186
+Hôpital général du Lakeshore,2023-09-15,144,115,175
+Hôpital général du Lakeshore,2023-09-16,138,109,169
+Hôpital général du Lakeshore,2023-09-17,140,110,171
+Hôpital général du Lakeshore,2023-09-18,150,120,180
+Hôpital général du Lakeshore,2023-09-19,154,121,184
+Hôpital général du Lakeshore,2023-09-20,155,124,186
+Hôpital général du Lakeshore,2023-09-21,156,125,185
+Hôpital général du Lakeshore,2023-09-22,144,112,175
+Hôpital général du Lakeshore,2023-09-23,138,109,167
+L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-14,193,162,226
+L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-15,190,158,224
+L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-16,183,154,215
+L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-17,173,142,205
+L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-18,192,159,225
+L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-19,198,167,233
+L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-20,195,162,226
+L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-21,194,159,225
+L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-22,191,158,222
+L'Hôpital général Juif Sir Mortimer B. Davis,2023-09-23,184,153,216
+Hôpital de Verdun,2023-09-14,128,94,161
+Hôpital de Verdun,2023-09-15,131,94,163
+Hôpital de Verdun,2023-09-16,113,81,147
+Hôpital de Verdun,2023-09-17,113,78,149
+Hôpital de Verdun,2023-09-18,126,93,158
+Hôpital de Verdun,2023-09-19,139,104,171
+Hôpital de Verdun,2023-09-20,137,102,171
+Hôpital de Verdun,2023-09-21,128,95,163
+Hôpital de Verdun,2023-09-22,131,97,165
+Hôpital de Verdun,2023-09-23,114,82,148
+Hôpital Notre-Dame,2023-09-14,132,111,151
+Hôpital Notre-Dame,2023-09-15,131,111,152
+Hôpital Notre-Dame,2023-09-16,120,99,141
+Hôpital Notre-Dame,2023-09-17,127,106,148
 Hôpital Notre-Dame,2023-09-18,134,114,155
-Hôpital Notre-Dame,2023-09-19,135,116,157
-Hôpital Notre-Dame,2023-09-20,133,112,154
-Hôpital Notre-Dame,2023-09-21,132,111,155
-Hôpital Notre-Dame,2023-09-22,131,112,151
-Hôpital Fleury,2023-09-13,98,73,126
-Hôpital Fleury,2023-09-14,94,68,121
-Hôpital Fleury,2023-09-15,96,70,124
-Hôpital Fleury,2023-09-16,82,54,108
-Hôpital Fleury,2023-09-17,85,57,111
-Hôpital Fleury,2023-09-18,91,66,120
-Hôpital Fleury,2023-09-19,99,71,126
-Hôpital Fleury,2023-09-20,97,71,125
-Hôpital Fleury,2023-09-21,94,66,121
-Hôpital Fleury,2023-09-22,96,68,124
-Hôpital du Sacré-Coeur de Montréal,2023-09-13,138,117,157
-Hôpital du Sacré-Coeur de Montréal,2023-09-14,134,114,152
-Hôpital du Sacré-Coeur de Montréal,2023-09-15,131,112,149
-Hôpital du Sacré-Coeur de Montréal,2023-09-16,118,99,136
-Hôpital du Sacré-Coeur de Montréal,2023-09-17,127,105,146
-Hôpital du Sacré-Coeur de Montréal,2023-09-18,138,118,158
-Hôpital du Sacré-Coeur de Montréal,2023-09-19,145,126,164
+Hôpital Notre-Dame,2023-09-19,135,115,155
+Hôpital Notre-Dame,2023-09-20,133,113,153
+Hôpital Notre-Dame,2023-09-21,132,111,153
+Hôpital Notre-Dame,2023-09-22,131,109,151
+Hôpital Notre-Dame,2023-09-23,120,100,140
+Hôpital Fleury,2023-09-14,95,67,123
+Hôpital Fleury,2023-09-15,97,70,126
+Hôpital Fleury,2023-09-16,83,54,111
+Hôpital Fleury,2023-09-17,86,61,116
+Hôpital Fleury,2023-09-18,93,67,119
+Hôpital Fleury,2023-09-19,100,73,125
+Hôpital Fleury,2023-09-20,99,72,125
+Hôpital Fleury,2023-09-21,95,67,124
+Hôpital Fleury,2023-09-22,97,70,125
+Hôpital Fleury,2023-09-23,83,55,109
+Hôpital du Sacré-Coeur de Montréal,2023-09-14,134,115,154
+Hôpital du Sacré-Coeur de Montréal,2023-09-15,131,110,150
+Hôpital du Sacré-Coeur de Montréal,2023-09-16,118,98,139
+Hôpital du Sacré-Coeur de Montréal,2023-09-17,127,108,148
+Hôpital du Sacré-Coeur de Montréal,2023-09-18,138,119,158
+Hôpital du Sacré-Coeur de Montréal,2023-09-19,145,126,165
 Hôpital du Sacré-Coeur de Montréal,2023-09-20,138,119,158
-Hôpital du Sacré-Coeur de Montréal,2023-09-21,134,114,154
-Hôpital du Sacré-Coeur de Montréal,2023-09-22,131,111,151
-Hôpital Jean-Talon,2023-09-13,92,69,115
-Hôpital Jean-Talon,2023-09-14,90,67,114
-Hôpital Jean-Talon,2023-09-15,89,65,113
-Hôpital Jean-Talon,2023-09-16,83,59,106
-Hôpital Jean-Talon,2023-09-17,82,59,105
-Hôpital Jean-Talon,2023-09-18,87,63,113
-Hôpital Jean-Talon,2023-09-19,88,67,109
-Hôpital Jean-Talon,2023-09-20,91,67,115
-Hôpital Jean-Talon,2023-09-21,90,67,114
+Hôpital du Sacré-Coeur de Montréal,2023-09-21,134,114,155
+Hôpital du Sacré-Coeur de Montréal,2023-09-22,131,110,150
+Hôpital du Sacré-Coeur de Montréal,2023-09-23,118,99,137
+Hôpital Jean-Talon,2023-09-14,91,68,114
+Hôpital Jean-Talon,2023-09-15,89,67,114
+Hôpital Jean-Talon,2023-09-16,83,59,107
+Hôpital Jean-Talon,2023-09-17,82,60,106
+Hôpital Jean-Talon,2023-09-18,87,64,111
+Hôpital Jean-Talon,2023-09-19,89,65,112
+Hôpital Jean-Talon,2023-09-20,92,69,115
+Hôpital Jean-Talon,2023-09-21,91,68,114
 Hôpital Jean-Talon,2023-09-22,89,65,114
-Pavillon Albert-Prévost,2023-09-13,106,80,132
-Pavillon Albert-Prévost,2023-09-14,101,73,128
-Pavillon Albert-Prévost,2023-09-15,101,76,127
-Pavillon Albert-Prévost,2023-09-16,92,66,117
-Pavillon Albert-Prévost,2023-09-17,97,71,124
-Pavillon Albert-Prévost,2023-09-18,108,80,133
-Pavillon Albert-Prévost,2023-09-19,99,75,127
-Pavillon Albert-Prévost,2023-09-20,107,83,133
-Pavillon Albert-Prévost,2023-09-21,102,77,126
-Pavillon Albert-Prévost,2023-09-22,102,76,127
-Institut universitaire en santé mentale de Montréal,2023-09-13,40,8,75
-Institut universitaire en santé mentale de Montréal,2023-09-14,40,7,74
-Institut universitaire en santé mentale de Montréal,2023-09-15,41,4,76
-Institut universitaire en santé mentale de Montréal,2023-09-16,28,-5,62
-Institut universitaire en santé mentale de Montréal,2023-09-17,37,5,72
-Institut universitaire en santé mentale de Montréal,2023-09-18,54,20,90
-Institut universitaire en santé mentale de Montréal,2023-09-19,42,7,76
-Institut universitaire en santé mentale de Montréal,2023-09-20,40,5,73
-Institut universitaire en santé mentale de Montréal,2023-09-21,39,7,73
+Hôpital Jean-Talon,2023-09-23,83,60,105
+Pavillon Albert-Prévost,2023-09-14,101,76,127
+Pavillon Albert-Prévost,2023-09-15,101,78,129
+Pavillon Albert-Prévost,2023-09-16,92,67,118
+Pavillon Albert-Prévost,2023-09-17,98,73,126
+Pavillon Albert-Prévost,2023-09-18,109,83,135
+Pavillon Albert-Prévost,2023-09-19,100,74,125
+Pavillon Albert-Prévost,2023-09-20,108,83,134
+Pavillon Albert-Prévost,2023-09-21,102,77,130
+Pavillon Albert-Prévost,2023-09-22,102,77,130
+Pavillon Albert-Prévost,2023-09-23,93,67,119
+Institut universitaire en santé mentale de Montréal,2023-09-14,40,9,73
+Institut universitaire en santé mentale de Montréal,2023-09-15,41,9,75
+Institut universitaire en santé mentale de Montréal,2023-09-16,28,-4,62
+Institut universitaire en santé mentale de Montréal,2023-09-17,37,3,71
+Institut universitaire en santé mentale de Montréal,2023-09-18,54,20,87
+Institut universitaire en santé mentale de Montréal,2023-09-19,42,5,74
+Institut universitaire en santé mentale de Montréal,2023-09-20,39,7,73
+Institut universitaire en santé mentale de Montréal,2023-09-21,39,6,73
 Institut universitaire en santé mentale de Montréal,2023-09-22,40,7,74
-Hôpital Maisonneuve-Rosemont,2023-09-13,113,90,135
-Hôpital Maisonneuve-Rosemont,2023-09-14,107,85,130
-Hôpital Maisonneuve-Rosemont,2023-09-15,99,77,122
-Hôpital Maisonneuve-Rosemont,2023-09-16,84,63,104
-Hôpital Maisonneuve-Rosemont,2023-09-17,90,67,112
-Hôpital Maisonneuve-Rosemont,2023-09-18,101,78,123
-Hôpital Maisonneuve-Rosemont,2023-09-19,111,88,134
-Hôpital Maisonneuve-Rosemont,2023-09-20,113,91,134
-Hôpital Maisonneuve-Rosemont,2023-09-21,107,84,129
-Hôpital Maisonneuve-Rosemont,2023-09-22,99,77,120
-Hôpital Santa Cabrini,2023-09-13,106,77,132
-Hôpital Santa Cabrini,2023-09-14,103,77,130
-Hôpital Santa Cabrini,2023-09-15,98,70,126
+Institut universitaire en santé mentale de Montréal,2023-09-23,27,-7,62
+Hôpital Maisonneuve-Rosemont,2023-09-14,108,86,131
+Hôpital Maisonneuve-Rosemont,2023-09-15,100,79,123
+Hôpital Maisonneuve-Rosemont,2023-09-16,85,63,106
+Hôpital Maisonneuve-Rosemont,2023-09-17,91,68,113
+Hôpital Maisonneuve-Rosemont,2023-09-18,102,79,124
+Hôpital Maisonneuve-Rosemont,2023-09-19,112,88,133
+Hôpital Maisonneuve-Rosemont,2023-09-20,114,91,137
+Hôpital Maisonneuve-Rosemont,2023-09-21,108,85,131
+Hôpital Maisonneuve-Rosemont,2023-09-22,100,79,122
+Hôpital Maisonneuve-Rosemont,2023-09-23,84,62,108
+Hôpital Santa Cabrini,2023-09-14,103,77,129
+Hôpital Santa Cabrini,2023-09-15,99,72,124
 Hôpital Santa Cabrini,2023-09-16,92,65,118
 Hôpital Santa Cabrini,2023-09-17,90,63,117
-Hôpital Santa Cabrini,2023-09-18,94,68,119
-Hôpital Santa Cabrini,2023-09-19,107,81,134
-Hôpital Santa Cabrini,2023-09-20,106,77,131
-Hôpital Santa Cabrini,2023-09-21,102,76,127
-Hôpital Santa Cabrini,2023-09-22,98,72,123
-Centre hospitalier de l'Université de Montréal,2023-09-13,125,108,144
-Centre hospitalier de l'Université de Montréal,2023-09-14,126,108,144
-Centre hospitalier de l'Université de Montréal,2023-09-15,127,109,145
-Centre hospitalier de l'Université de Montréal,2023-09-16,113,97,131
-Centre hospitalier de l'Université de Montréal,2023-09-17,114,97,132
-Centre hospitalier de l'Université de Montréal,2023-09-18,121,104,139
-Centre hospitalier de l'Université de Montréal,2023-09-19,127,110,144
-Centre hospitalier de l'Université de Montréal,2023-09-20,125,108,143
-Centre hospitalier de l'Université de Montréal,2023-09-21,125,107,144
+Hôpital Santa Cabrini,2023-09-18,95,67,121
+Hôpital Santa Cabrini,2023-09-19,108,81,135
+Hôpital Santa Cabrini,2023-09-20,106,77,132
+Hôpital Santa Cabrini,2023-09-21,103,75,129
+Hôpital Santa Cabrini,2023-09-22,98,71,126
+Hôpital Santa Cabrini,2023-09-23,92,66,120
+Centre hospitalier de l'Université de Montréal,2023-09-14,126,110,143
+Centre hospitalier de l'Université de Montréal,2023-09-15,127,110,144
+Centre hospitalier de l'Université de Montréal,2023-09-16,114,97,132
+Centre hospitalier de l'Université de Montréal,2023-09-17,114,95,132
+Centre hospitalier de l'Université de Montréal,2023-09-18,122,105,140
+Centre hospitalier de l'Université de Montréal,2023-09-19,127,109,146
+Centre hospitalier de l'Université de Montréal,2023-09-20,126,108,143
+Centre hospitalier de l'Université de Montréal,2023-09-21,125,107,142
 Centre hospitalier de l'Université de Montréal,2023-09-22,126,108,144
-Hôpital Royal Victoria,2023-09-13,178,149,208
+Centre hospitalier de l'Université de Montréal,2023-09-23,113,95,130
 Hôpital Royal Victoria,2023-09-14,178,149,207
-Hôpital Royal Victoria,2023-09-15,177,148,204
-Hôpital Royal Victoria,2023-09-16,170,141,199
-Hôpital Royal Victoria,2023-09-17,162,133,191
-Hôpital Royal Victoria,2023-09-18,166,137,194
-Hôpital Royal Victoria,2023-09-19,178,149,206
-Hôpital Royal Victoria,2023-09-20,178,149,206
-Hôpital Royal Victoria,2023-09-21,178,149,207
-Hôpital Royal Victoria,2023-09-22,177,147,205
-Hôpital général de Montréal,2023-09-13,161,134,189
-Hôpital général de Montréal,2023-09-14,165,137,193
-Hôpital général de Montréal,2023-09-15,163,133,190
-Hôpital général de Montréal,2023-09-16,158,131,186
-Hôpital général de Montréal,2023-09-17,159,131,185
-Hôpital général de Montréal,2023-09-18,161,132,184
-Hôpital général de Montréal,2023-09-19,163,134,191
-Hôpital général de Montréal,2023-09-20,162,134,189
-Hôpital général de Montréal,2023-09-21,165,139,192
-Hôpital général de Montréal,2023-09-22,163,135,192
-Hôpital de Montréal pour enfants,2023-09-13,98,52,147
-Hôpital de Montréal pour enfants,2023-09-14,93,47,146
-Hôpital de Montréal pour enfants,2023-09-15,91,45,143
-Hôpital de Montréal pour enfants,2023-09-16,89,39,141
-Hôpital de Montréal pour enfants,2023-09-17,88,38,137
-Hôpital de Montréal pour enfants,2023-09-18,87,38,137
-Hôpital de Montréal pour enfants,2023-09-19,95,46,142
-Hôpital de Montréal pour enfants,2023-09-20,98,50,149
-Hôpital de Montréal pour enfants,2023-09-21,92,43,136
-Hôpital de Montréal pour enfants,2023-09-22,91,43,139
-Campus Lachine,2023-09-13,30,3,57
-Campus Lachine,2023-09-14,31,8,57
-Campus Lachine,2023-09-15,31,6,56
-Campus Lachine,2023-09-16,24,-2,50
-Campus Lachine,2023-09-17,19,-6,43
-Campus Lachine,2023-09-18,30,5,55
-Campus Lachine,2023-09-19,32,7,58
-Campus Lachine,2023-09-20,30,5,55
-Campus Lachine,2023-09-21,31,5,55
-Campus Lachine,2023-09-22,31,5,55
-Institut de Cardiologie de Montréal,2023-09-13,65,43,87
-Institut de Cardiologie de Montréal,2023-09-14,61,41,85
-Institut de Cardiologie de Montréal,2023-09-15,60,39,81
-Institut de Cardiologie de Montréal,2023-09-16,44,21,65
-Institut de Cardiologie de Montréal,2023-09-17,41,19,64
-Institut de Cardiologie de Montréal,2023-09-18,50,30,71
-Institut de Cardiologie de Montréal,2023-09-19,60,39,81
-Institut de Cardiologie de Montréal,2023-09-20,65,44,86
-Institut de Cardiologie de Montréal,2023-09-21,61,40,84
-Institut de Cardiologie de Montréal,2023-09-22,60,39,82
-CHU Sainte-Justine,2023-09-13,80,44,117
-CHU Sainte-Justine,2023-09-14,78,43,114
-CHU Sainte-Justine,2023-09-15,79,44,114
-CHU Sainte-Justine,2023-09-16,67,31,105
-CHU Sainte-Justine,2023-09-17,72,36,110
-CHU Sainte-Justine,2023-09-18,78,43,114
-CHU Sainte-Justine,2023-09-19,81,46,118
-CHU Sainte-Justine,2023-09-20,79,41,114
-CHU Sainte-Justine,2023-09-21,78,41,114
-CHU Sainte-Justine,2023-09-22,79,42,114
-Total,2023-09-13,124,114,133
-Total,2023-09-14,122,112,130
-Total,2023-09-15,119,109,129
-Total,2023-09-16,109,99,118
-Total,2023-09-17,109,100,119
+Hôpital Royal Victoria,2023-09-15,177,149,205
+Hôpital Royal Victoria,2023-09-16,170,143,200
+Hôpital Royal Victoria,2023-09-17,162,135,187
+Hôpital Royal Victoria,2023-09-18,166,136,193
+Hôpital Royal Victoria,2023-09-19,178,150,207
+Hôpital Royal Victoria,2023-09-20,178,149,207
+Hôpital Royal Victoria,2023-09-21,178,148,207
+Hôpital Royal Victoria,2023-09-22,177,148,204
+Hôpital Royal Victoria,2023-09-23,170,139,199
+Hôpital général de Montréal,2023-09-14,165,137,191
+Hôpital général de Montréal,2023-09-15,163,135,189
+Hôpital général de Montréal,2023-09-16,158,128,186
+Hôpital général de Montréal,2023-09-17,159,129,185
+Hôpital général de Montréal,2023-09-18,161,132,186
+Hôpital général de Montréal,2023-09-19,163,136,191
+Hôpital général de Montréal,2023-09-20,163,134,189
+Hôpital général de Montréal,2023-09-21,165,138,193
+Hôpital général de Montréal,2023-09-22,164,135,193
+Hôpital général de Montréal,2023-09-23,159,130,185
+Hôpital de Montréal pour enfants,2023-09-14,92,44,142
+Hôpital de Montréal pour enfants,2023-09-15,91,47,139
+Hôpital de Montréal pour enfants,2023-09-16,88,41,136
+Hôpital de Montréal pour enfants,2023-09-17,88,41,137
+Hôpital de Montréal pour enfants,2023-09-18,87,35,139
+Hôpital de Montréal pour enfants,2023-09-19,94,47,141
+Hôpital de Montréal pour enfants,2023-09-20,96,50,145
+Hôpital de Montréal pour enfants,2023-09-21,91,41,141
+Hôpital de Montréal pour enfants,2023-09-22,90,39,138
+Hôpital de Montréal pour enfants,2023-09-23,88,40,136
+Campus Lachine,2023-09-14,32,8,57
+Campus Lachine,2023-09-15,31,7,56
+Campus Lachine,2023-09-16,25,0,49
+Campus Lachine,2023-09-17,19,-7,43
+Campus Lachine,2023-09-18,31,5,56
+Campus Lachine,2023-09-19,33,6,58
+Campus Lachine,2023-09-20,31,7,57
+Campus Lachine,2023-09-21,32,8,58
+Campus Lachine,2023-09-22,31,5,56
+Campus Lachine,2023-09-23,25,0,50
+Institut de Cardiologie de Montréal,2023-09-14,61,40,82
+Institut de Cardiologie de Montréal,2023-09-15,60,38,80
+Institut de Cardiologie de Montréal,2023-09-16,43,22,66
+Institut de Cardiologie de Montréal,2023-09-17,41,18,64
+Institut de Cardiologie de Montréal,2023-09-18,50,30,70
+Institut de Cardiologie de Montréal,2023-09-19,60,37,79
+Institut de Cardiologie de Montréal,2023-09-20,64,43,84
+Institut de Cardiologie de Montréal,2023-09-21,61,39,82
+Institut de Cardiologie de Montréal,2023-09-22,60,39,81
+Institut de Cardiologie de Montréal,2023-09-23,43,22,65
+CHU Sainte-Justine,2023-09-14,78,42,114
+CHU Sainte-Justine,2023-09-15,79,41,112
+CHU Sainte-Justine,2023-09-16,67,30,104
+CHU Sainte-Justine,2023-09-17,72,35,109
+CHU Sainte-Justine,2023-09-18,78,44,113
+CHU Sainte-Justine,2023-09-19,81,43,117
+CHU Sainte-Justine,2023-09-20,79,42,115
+CHU Sainte-Justine,2023-09-21,78,45,115
+CHU Sainte-Justine,2023-09-22,79,40,115
+CHU Sainte-Justine,2023-09-23,67,33,104
+Total,2023-09-14,122,112,132
+Total,2023-09-15,120,110,129
+Total,2023-09-16,109,100,120
+Total,2023-09-17,110,100,119
 Total,2023-09-18,119,109,129
 Total,2023-09-19,125,115,135
-Total,2023-09-20,124,114,133
-Total,2023-09-21,122,112,131
-Total,2023-09-22,119,110,129
+Total,2023-09-20,124,114,134
+Total,2023-09-21,122,113,132
+Total,2023-09-22,120,110,129
+Total,2023-09-23,109,99,119
