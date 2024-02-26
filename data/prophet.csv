@@ -1,221 +1,221 @@
 name,Date,yhat,yhat_lower,yhat_upper
-Centre hospitalier de St. Mary,2024-02-26,146,122,172
-Centre hospitalier de St. Mary,2024-02-27,158,133,185
-Centre hospitalier de St. Mary,2024-02-28,161,135,185
-Centre hospitalier de St. Mary,2024-02-29,156,133,182
-Centre hospitalier de St. Mary,2024-03-01,157,132,183
-Centre hospitalier de St. Mary,2024-03-02,146,120,171
-Centre hospitalier de St. Mary,2024-03-03,137,111,163
-Centre hospitalier de St. Mary,2024-03-04,146,122,172
-Centre hospitalier de St. Mary,2024-03-05,159,134,184
-Centre hospitalier de St. Mary,2024-03-06,161,136,188
-Institut universitaire en santé mentale Douglas,2024-02-26,134,58,208
-Institut universitaire en santé mentale Douglas,2024-02-27,112,40,188
-Institut universitaire en santé mentale Douglas,2024-02-28,99,21,175
-Institut universitaire en santé mentale Douglas,2024-02-29,101,23,179
-Institut universitaire en santé mentale Douglas,2024-03-01,94,21,171
-Institut universitaire en santé mentale Douglas,2024-03-02,93,15,166
-Institut universitaire en santé mentale Douglas,2024-03-03,120,40,196
-Institut universitaire en santé mentale Douglas,2024-03-04,132,59,208
-Institut universitaire en santé mentale Douglas,2024-03-05,110,36,187
-Institut universitaire en santé mentale Douglas,2024-03-06,97,18,166
-Hôpital de LaSalle,2024-02-26,130,92,169
-Hôpital de LaSalle,2024-02-27,140,103,177
+Centre hospitalier de St. Mary,2024-02-27,158,130,183
+Centre hospitalier de St. Mary,2024-02-28,160,134,186
+Centre hospitalier de St. Mary,2024-02-29,155,128,181
+Centre hospitalier de St. Mary,2024-03-01,157,132,182
+Centre hospitalier de St. Mary,2024-03-02,145,121,170
+Centre hospitalier de St. Mary,2024-03-03,137,113,163
+Centre hospitalier de St. Mary,2024-03-04,145,121,169
+Centre hospitalier de St. Mary,2024-03-05,158,133,183
+Centre hospitalier de St. Mary,2024-03-06,161,137,186
+Centre hospitalier de St. Mary,2024-03-07,156,130,181
+Institut universitaire en santé mentale Douglas,2024-02-27,114,36,190
+Institut universitaire en santé mentale Douglas,2024-02-28,101,25,179
+Institut universitaire en santé mentale Douglas,2024-02-29,103,24,176
+Institut universitaire en santé mentale Douglas,2024-03-01,96,23,173
+Institut universitaire en santé mentale Douglas,2024-03-02,95,14,173
+Institut universitaire en santé mentale Douglas,2024-03-03,122,43,204
+Institut universitaire en santé mentale Douglas,2024-03-04,135,64,209
+Institut universitaire en santé mentale Douglas,2024-03-05,112,42,192
+Institut universitaire en santé mentale Douglas,2024-03-06,99,19,177
+Institut universitaire en santé mentale Douglas,2024-03-07,101,23,175
+Hôpital de LaSalle,2024-02-27,140,104,178
 Hôpital de LaSalle,2024-02-28,147,109,185
-Hôpital de LaSalle,2024-02-29,140,100,179
-Hôpital de LaSalle,2024-03-01,138,103,175
-Hôpital de LaSalle,2024-03-02,120,83,157
-Hôpital de LaSalle,2024-03-03,120,83,161
-Hôpital de LaSalle,2024-03-04,131,93,167
-Hôpital de LaSalle,2024-03-05,141,104,179
-Hôpital de LaSalle,2024-03-06,147,108,186
-Hôpital général du Lakeshore,2024-02-26,169,137,203
-Hôpital général du Lakeshore,2024-02-27,171,140,206
-Hôpital général du Lakeshore,2024-02-28,173,142,205
-Hôpital général du Lakeshore,2024-02-29,174,144,207
-Hôpital général du Lakeshore,2024-03-01,164,131,194
-Hôpital général du Lakeshore,2024-03-02,156,125,188
-Hôpital général du Lakeshore,2024-03-03,157,126,190
-Hôpital général du Lakeshore,2024-03-04,170,140,202
-Hôpital général du Lakeshore,2024-03-05,172,142,202
-Hôpital général du Lakeshore,2024-03-06,174,141,204
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-02-26,185,155,215
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-02-27,192,160,223
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-02-28,189,160,219
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-02-29,187,156,216
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-01,186,155,217
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-02,180,151,212
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-03,168,136,197
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-04,185,153,216
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-05,191,158,223
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-06,189,159,220
-Hôpital de Verdun,2024-02-26,150,114,185
-Hôpital de Verdun,2024-02-27,157,122,192
-Hôpital de Verdun,2024-02-28,161,126,195
-Hôpital de Verdun,2024-02-29,150,114,187
-Hôpital de Verdun,2024-03-01,153,117,186
-Hôpital de Verdun,2024-03-02,135,99,171
-Hôpital de Verdun,2024-03-03,134,99,170
-Hôpital de Verdun,2024-03-04,150,117,189
-Hôpital de Verdun,2024-03-05,158,121,195
-Hôpital de Verdun,2024-03-06,161,125,196
-Hôpital Notre-Dame,2024-02-26,127,104,149
-Hôpital Notre-Dame,2024-02-27,128,106,151
-Hôpital Notre-Dame,2024-02-28,123,100,147
-Hôpital Notre-Dame,2024-02-29,122,99,146
-Hôpital Notre-Dame,2024-03-01,123,102,145
-Hôpital Notre-Dame,2024-03-02,111,90,133
-Hôpital Notre-Dame,2024-03-03,118,97,139
-Hôpital Notre-Dame,2024-03-04,126,103,147
-Hôpital Notre-Dame,2024-03-05,128,106,149
-Hôpital Notre-Dame,2024-03-06,123,100,145
-Hôpital Fleury,2024-02-26,131,104,157
-Hôpital Fleury,2024-02-27,136,109,164
-Hôpital Fleury,2024-02-28,133,106,159
-Hôpital Fleury,2024-02-29,130,101,155
-Hôpital Fleury,2024-03-01,132,106,157
-Hôpital Fleury,2024-03-02,118,89,145
-Hôpital Fleury,2024-03-03,122,96,152
-Hôpital Fleury,2024-03-04,132,104,157
-Hôpital Fleury,2024-03-05,137,109,163
-Hôpital Fleury,2024-03-06,134,106,162
-Hôpital du Sacré-Coeur de Montréal,2024-02-26,135,116,154
-Hôpital du Sacré-Coeur de Montréal,2024-02-27,141,121,162
-Hôpital du Sacré-Coeur de Montréal,2024-02-28,135,115,155
-Hôpital du Sacré-Coeur de Montréal,2024-02-29,132,115,154
-Hôpital du Sacré-Coeur de Montréal,2024-03-01,129,110,151
-Hôpital du Sacré-Coeur de Montréal,2024-03-02,114,93,135
-Hôpital du Sacré-Coeur de Montréal,2024-03-03,123,104,144
-Hôpital du Sacré-Coeur de Montréal,2024-03-04,135,117,155
-Hôpital du Sacré-Coeur de Montréal,2024-03-05,141,122,160
-Hôpital du Sacré-Coeur de Montréal,2024-03-06,135,115,156
-Hôpital Jean-Talon,2024-02-26,104,81,128
-Hôpital Jean-Talon,2024-02-27,106,83,131
-Hôpital Jean-Talon,2024-02-28,107,84,132
-Hôpital Jean-Talon,2024-02-29,105,81,129
-Hôpital Jean-Talon,2024-03-01,103,81,127
-Hôpital Jean-Talon,2024-03-02,98,76,121
-Hôpital Jean-Talon,2024-03-03,97,73,122
-Hôpital Jean-Talon,2024-03-04,104,79,128
-Hôpital Jean-Talon,2024-03-05,106,83,130
+Hôpital de LaSalle,2024-02-29,140,101,179
+Hôpital de LaSalle,2024-03-01,138,98,175
+Hôpital de LaSalle,2024-03-02,119,79,157
+Hôpital de LaSalle,2024-03-03,120,82,156
+Hôpital de LaSalle,2024-03-04,130,92,170
+Hôpital de LaSalle,2024-03-05,141,105,178
+Hôpital de LaSalle,2024-03-06,147,112,186
+Hôpital de LaSalle,2024-03-07,140,102,177
+Hôpital général du Lakeshore,2024-02-27,172,138,202
+Hôpital général du Lakeshore,2024-02-28,174,145,206
+Hôpital général du Lakeshore,2024-02-29,175,142,205
+Hôpital général du Lakeshore,2024-03-01,164,134,197
+Hôpital général du Lakeshore,2024-03-02,156,123,187
+Hôpital général du Lakeshore,2024-03-03,157,127,188
+Hôpital général du Lakeshore,2024-03-04,170,138,202
+Hôpital général du Lakeshore,2024-03-05,172,143,204
+Hôpital général du Lakeshore,2024-03-06,174,143,204
+Hôpital général du Lakeshore,2024-03-07,175,145,206
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-02-27,190,159,222
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-02-28,188,156,218
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-02-29,186,156,216
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-01,184,153,213
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-02,178,146,208
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-03,167,135,200
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-04,183,149,214
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-05,190,158,221
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-06,187,155,219
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-03-07,185,154,218
+Hôpital de Verdun,2024-02-27,157,123,194
+Hôpital de Verdun,2024-02-28,161,127,196
+Hôpital de Verdun,2024-02-29,150,116,185
+Hôpital de Verdun,2024-03-01,153,120,191
+Hôpital de Verdun,2024-03-02,135,100,172
+Hôpital de Verdun,2024-03-03,134,99,168
+Hôpital de Verdun,2024-03-04,150,116,184
+Hôpital de Verdun,2024-03-05,158,121,192
+Hôpital de Verdun,2024-03-06,161,126,199
+Hôpital de Verdun,2024-03-07,151,116,183
+Hôpital Notre-Dame,2024-02-27,127,103,148
+Hôpital Notre-Dame,2024-02-28,122,101,144
+Hôpital Notre-Dame,2024-02-29,121,100,143
+Hôpital Notre-Dame,2024-03-01,122,99,144
+Hôpital Notre-Dame,2024-03-02,110,87,130
+Hôpital Notre-Dame,2024-03-03,117,95,139
+Hôpital Notre-Dame,2024-03-04,125,102,146
+Hôpital Notre-Dame,2024-03-05,127,105,149
+Hôpital Notre-Dame,2024-03-06,122,100,142
+Hôpital Notre-Dame,2024-03-07,121,99,143
+Hôpital Fleury,2024-02-27,136,110,165
+Hôpital Fleury,2024-02-28,133,105,161
+Hôpital Fleury,2024-02-29,130,103,155
+Hôpital Fleury,2024-03-01,133,105,158
+Hôpital Fleury,2024-03-02,118,91,144
+Hôpital Fleury,2024-03-03,123,95,150
+Hôpital Fleury,2024-03-04,132,108,161
+Hôpital Fleury,2024-03-05,137,111,164
+Hôpital Fleury,2024-03-06,134,108,159
+Hôpital Fleury,2024-03-07,131,104,156
+Hôpital du Sacré-Coeur de Montréal,2024-02-27,141,121,161
+Hôpital du Sacré-Coeur de Montréal,2024-02-28,135,116,153
+Hôpital du Sacré-Coeur de Montréal,2024-02-29,132,112,152
+Hôpital du Sacré-Coeur de Montréal,2024-03-01,129,110,149
+Hôpital du Sacré-Coeur de Montréal,2024-03-02,114,94,133
+Hôpital du Sacré-Coeur de Montréal,2024-03-03,123,103,143
+Hôpital du Sacré-Coeur de Montréal,2024-03-04,135,116,157
+Hôpital du Sacré-Coeur de Montréal,2024-03-05,141,121,160
+Hôpital du Sacré-Coeur de Montréal,2024-03-06,135,116,155
+Hôpital du Sacré-Coeur de Montréal,2024-03-07,132,112,151
+Hôpital Jean-Talon,2024-02-27,106,81,130
+Hôpital Jean-Talon,2024-02-28,107,85,132
+Hôpital Jean-Talon,2024-02-29,105,82,128
+Hôpital Jean-Talon,2024-03-01,103,80,127
+Hôpital Jean-Talon,2024-03-02,98,74,122
+Hôpital Jean-Talon,2024-03-03,97,72,120
+Hôpital Jean-Talon,2024-03-04,104,81,127
+Hôpital Jean-Talon,2024-03-05,106,82,129
 Hôpital Jean-Talon,2024-03-06,108,84,131
-Pavillon Albert-Prévost,2024-02-26,123,96,149
+Hôpital Jean-Talon,2024-03-07,105,83,127
 Pavillon Albert-Prévost,2024-02-27,112,84,140
-Pavillon Albert-Prévost,2024-02-28,119,90,147
-Pavillon Albert-Prévost,2024-02-29,116,88,144
-Pavillon Albert-Prévost,2024-03-01,113,87,142
-Pavillon Albert-Prévost,2024-03-02,104,75,133
-Pavillon Albert-Prévost,2024-03-03,113,82,139
-Pavillon Albert-Prévost,2024-03-04,124,97,151
+Pavillon Albert-Prévost,2024-02-28,119,91,148
+Pavillon Albert-Prévost,2024-02-29,116,89,143
+Pavillon Albert-Prévost,2024-03-01,113,85,140
+Pavillon Albert-Prévost,2024-03-02,104,77,133
+Pavillon Albert-Prévost,2024-03-03,113,84,139
+Pavillon Albert-Prévost,2024-03-04,124,96,152
 Pavillon Albert-Prévost,2024-03-05,113,84,140
-Pavillon Albert-Prévost,2024-03-06,119,93,146
-Institut universitaire en santé mentale de Montréal,2024-02-26,46,14,77
-Institut universitaire en santé mentale de Montréal,2024-02-27,37,3,69
-Institut universitaire en santé mentale de Montréal,2024-02-28,35,2,68
-Institut universitaire en santé mentale de Montréal,2024-02-29,35,1,65
-Institut universitaire en santé mentale de Montréal,2024-03-01,36,3,68
-Institut universitaire en santé mentale de Montréal,2024-03-02,24,-11,56
-Institut universitaire en santé mentale de Montréal,2024-03-03,34,3,68
-Institut universitaire en santé mentale de Montréal,2024-03-04,45,13,79
-Institut universitaire en santé mentale de Montréal,2024-03-05,36,3,67
-Institut universitaire en santé mentale de Montréal,2024-03-06,35,4,66
-Hôpital Maisonneuve-Rosemont,2024-02-26,135,114,158
-Hôpital Maisonneuve-Rosemont,2024-02-27,145,123,167
-Hôpital Maisonneuve-Rosemont,2024-02-28,148,127,171
-Hôpital Maisonneuve-Rosemont,2024-02-29,143,119,166
-Hôpital Maisonneuve-Rosemont,2024-03-01,135,114,157
-Hôpital Maisonneuve-Rosemont,2024-03-02,119,97,141
+Pavillon Albert-Prévost,2024-03-06,119,90,146
+Pavillon Albert-Prévost,2024-03-07,117,89,143
+Institut universitaire en santé mentale de Montréal,2024-02-27,36,5,66
+Institut universitaire en santé mentale de Montréal,2024-02-28,35,3,66
+Institut universitaire en santé mentale de Montréal,2024-02-29,34,2,67
+Institut universitaire en santé mentale de Montréal,2024-03-01,36,4,69
+Institut universitaire en santé mentale de Montréal,2024-03-02,24,-7,58
+Institut universitaire en santé mentale de Montréal,2024-03-03,33,1,65
+Institut universitaire en santé mentale de Montréal,2024-03-04,45,13,77
+Institut universitaire en santé mentale de Montréal,2024-03-05,36,6,67
+Institut universitaire en santé mentale de Montréal,2024-03-06,34,2,66
+Institut universitaire en santé mentale de Montréal,2024-03-07,34,0,67
+Hôpital Maisonneuve-Rosemont,2024-02-27,145,121,168
+Hôpital Maisonneuve-Rosemont,2024-02-28,148,126,170
+Hôpital Maisonneuve-Rosemont,2024-02-29,143,120,165
+Hôpital Maisonneuve-Rosemont,2024-03-01,135,113,157
+Hôpital Maisonneuve-Rosemont,2024-03-02,119,97,140
 Hôpital Maisonneuve-Rosemont,2024-03-03,126,104,148
-Hôpital Maisonneuve-Rosemont,2024-03-04,136,115,158
-Hôpital Maisonneuve-Rosemont,2024-03-05,146,125,167
-Hôpital Maisonneuve-Rosemont,2024-03-06,149,126,171
-Hôpital Santa Cabrini,2024-02-26,114,85,141
-Hôpital Santa Cabrini,2024-02-27,126,98,151
-Hôpital Santa Cabrini,2024-02-28,124,97,150
-Hôpital Santa Cabrini,2024-02-29,121,94,149
-Hôpital Santa Cabrini,2024-03-01,116,89,143
-Hôpital Santa Cabrini,2024-03-02,111,85,139
-Hôpital Santa Cabrini,2024-03-03,109,81,134
-Hôpital Santa Cabrini,2024-03-04,114,87,140
-Hôpital Santa Cabrini,2024-03-05,126,100,152
-Hôpital Santa Cabrini,2024-03-06,124,97,153
-Centre hospitalier de l'Université de Montréal,2024-02-26,151,132,170
-Centre hospitalier de l'Université de Montréal,2024-02-27,156,136,175
-Centre hospitalier de l'Université de Montréal,2024-02-28,153,134,172
-Centre hospitalier de l'Université de Montréal,2024-02-29,154,137,173
-Centre hospitalier de l'Université de Montréal,2024-03-01,156,138,175
-Centre hospitalier de l'Université de Montréal,2024-03-02,143,123,161
-Centre hospitalier de l'Université de Montréal,2024-03-03,142,123,161
-Centre hospitalier de l'Université de Montréal,2024-03-04,152,133,171
-Centre hospitalier de l'Université de Montréal,2024-03-05,156,137,175
-Centre hospitalier de l'Université de Montréal,2024-03-06,154,134,172
-Hôpital Royal Victoria,2024-02-26,192,160,223
-Hôpital Royal Victoria,2024-02-27,205,175,235
-Hôpital Royal Victoria,2024-02-28,205,175,235
-Hôpital Royal Victoria,2024-02-29,203,173,233
-Hôpital Royal Victoria,2024-03-01,203,175,232
-Hôpital Royal Victoria,2024-03-02,195,168,225
-Hôpital Royal Victoria,2024-03-03,188,158,217
-Hôpital Royal Victoria,2024-03-04,193,162,222
-Hôpital Royal Victoria,2024-03-05,205,175,235
-Hôpital Royal Victoria,2024-03-06,205,175,233
-Hôpital général de Montréal,2024-02-26,152,121,180
-Hôpital général de Montréal,2024-02-27,153,123,183
-Hôpital général de Montréal,2024-02-28,151,122,179
-Hôpital général de Montréal,2024-02-29,154,126,181
-Hôpital général de Montréal,2024-03-01,153,124,182
-Hôpital général de Montréal,2024-03-02,146,115,175
-Hôpital général de Montréal,2024-03-03,146,117,174
-Hôpital général de Montréal,2024-03-04,151,121,178
-Hôpital général de Montréal,2024-03-05,153,124,182
-Hôpital général de Montréal,2024-03-06,150,121,179
-Hôpital de Montréal pour enfants,2024-02-26,103,51,151
-Hôpital de Montréal pour enfants,2024-02-27,107,57,155
-Hôpital de Montréal pour enfants,2024-02-28,113,62,165
-Hôpital de Montréal pour enfants,2024-02-29,105,54,154
-Hôpital de Montréal pour enfants,2024-03-01,103,55,156
-Hôpital de Montréal pour enfants,2024-03-02,102,51,150
-Hôpital de Montréal pour enfants,2024-03-03,102,52,149
-Hôpital de Montréal pour enfants,2024-03-04,103,54,153
-Hôpital de Montréal pour enfants,2024-03-05,106,54,160
-Hôpital de Montréal pour enfants,2024-03-06,113,66,165
-Campus Lachine,2024-02-26,81,53,107
+Hôpital Maisonneuve-Rosemont,2024-03-04,136,115,160
+Hôpital Maisonneuve-Rosemont,2024-03-05,146,124,167
+Hôpital Maisonneuve-Rosemont,2024-03-06,149,126,169
+Hôpital Maisonneuve-Rosemont,2024-03-07,144,121,167
+Hôpital Santa Cabrini,2024-02-27,125,99,151
+Hôpital Santa Cabrini,2024-02-28,123,98,152
+Hôpital Santa Cabrini,2024-02-29,120,92,147
+Hôpital Santa Cabrini,2024-03-01,115,89,141
+Hôpital Santa Cabrini,2024-03-02,110,83,138
+Hôpital Santa Cabrini,2024-03-03,108,82,137
+Hôpital Santa Cabrini,2024-03-04,113,86,140
+Hôpital Santa Cabrini,2024-03-05,126,99,155
+Hôpital Santa Cabrini,2024-03-06,124,95,151
+Hôpital Santa Cabrini,2024-03-07,120,93,148
+Centre hospitalier de l'Université de Montréal,2024-02-27,156,138,176
+Centre hospitalier de l'Université de Montréal,2024-02-28,154,136,173
+Centre hospitalier de l'Université de Montréal,2024-02-29,155,136,174
+Centre hospitalier de l'Université de Montréal,2024-03-01,156,136,174
+Centre hospitalier de l'Université de Montréal,2024-03-02,144,125,161
+Centre hospitalier de l'Université de Montréal,2024-03-03,142,124,162
+Centre hospitalier de l'Université de Montréal,2024-03-04,152,135,171
+Centre hospitalier de l'Université de Montréal,2024-03-05,157,140,177
+Centre hospitalier de l'Université de Montréal,2024-03-06,154,136,174
+Centre hospitalier de l'Université de Montréal,2024-03-07,155,137,175
+Hôpital Royal Victoria,2024-02-27,204,176,235
+Hôpital Royal Victoria,2024-02-28,204,174,235
+Hôpital Royal Victoria,2024-02-29,202,170,231
+Hôpital Royal Victoria,2024-03-01,203,173,233
+Hôpital Royal Victoria,2024-03-02,195,166,224
+Hôpital Royal Victoria,2024-03-03,188,158,220
+Hôpital Royal Victoria,2024-03-04,192,164,222
+Hôpital Royal Victoria,2024-03-05,205,175,232
+Hôpital Royal Victoria,2024-03-06,205,175,234
+Hôpital Royal Victoria,2024-03-07,203,172,234
+Hôpital général de Montréal,2024-02-27,152,123,180
+Hôpital général de Montréal,2024-02-28,149,121,177
+Hôpital général de Montréal,2024-02-29,152,124,182
+Hôpital général de Montréal,2024-03-01,151,120,179
+Hôpital général de Montréal,2024-03-02,144,116,173
+Hôpital général de Montréal,2024-03-03,144,115,173
+Hôpital général de Montréal,2024-03-04,149,118,179
+Hôpital général de Montréal,2024-03-05,151,123,180
+Hôpital général de Montréal,2024-03-06,148,118,179
+Hôpital général de Montréal,2024-03-07,151,120,183
+Hôpital de Montréal pour enfants,2024-02-27,107,59,160
+Hôpital de Montréal pour enfants,2024-02-28,113,61,163
+Hôpital de Montréal pour enfants,2024-02-29,106,57,155
+Hôpital de Montréal pour enfants,2024-03-01,104,52,152
+Hôpital de Montréal pour enfants,2024-03-02,103,53,152
+Hôpital de Montréal pour enfants,2024-03-03,102,54,152
+Hôpital de Montréal pour enfants,2024-03-04,104,55,154
+Hôpital de Montréal pour enfants,2024-03-05,107,56,157
+Hôpital de Montréal pour enfants,2024-03-06,113,62,161
+Hôpital de Montréal pour enfants,2024-03-07,106,55,160
 Campus Lachine,2024-02-27,86,58,114
-Campus Lachine,2024-02-28,88,59,115
-Campus Lachine,2024-02-29,84,56,109
-Campus Lachine,2024-03-01,83,54,110
+Campus Lachine,2024-02-28,88,59,116
+Campus Lachine,2024-02-29,84,58,111
+Campus Lachine,2024-03-01,83,55,112
 Campus Lachine,2024-03-02,79,53,107
-Campus Lachine,2024-03-03,73,48,99
-Campus Lachine,2024-03-04,83,55,110
-Campus Lachine,2024-03-05,88,59,114
-Campus Lachine,2024-03-06,90,62,117
-Institut de Cardiologie de Montréal,2024-02-26,68,46,89
-Institut de Cardiologie de Montréal,2024-02-27,76,51,99
-Institut de Cardiologie de Montréal,2024-02-28,81,59,102
-Institut de Cardiologie de Montréal,2024-02-29,78,56,102
+Campus Lachine,2024-03-03,73,47,101
+Campus Lachine,2024-03-04,83,58,109
+Campus Lachine,2024-03-05,88,61,115
+Campus Lachine,2024-03-06,90,62,118
+Campus Lachine,2024-03-07,86,58,113
+Institut de Cardiologie de Montréal,2024-02-27,76,52,98
+Institut de Cardiologie de Montréal,2024-02-28,80,57,102
+Institut de Cardiologie de Montréal,2024-02-29,78,54,102
 Institut de Cardiologie de Montréal,2024-03-01,77,54,100
 Institut de Cardiologie de Montréal,2024-03-02,62,40,84
-Institut de Cardiologie de Montréal,2024-03-03,59,37,80
-Institut de Cardiologie de Montréal,2024-03-04,68,45,92
-Institut de Cardiologie de Montréal,2024-03-05,77,54,99
-Institut de Cardiologie de Montréal,2024-03-06,81,60,104
-CHU Sainte-Justine,2024-02-26,90,53,127
-CHU Sainte-Justine,2024-02-27,92,54,130
-CHU Sainte-Justine,2024-02-28,88,50,128
-CHU Sainte-Justine,2024-02-29,88,50,126
-CHU Sainte-Justine,2024-03-01,89,53,123
-CHU Sainte-Justine,2024-03-02,79,40,113
-CHU Sainte-Justine,2024-03-03,85,48,122
-CHU Sainte-Justine,2024-03-04,90,50,126
-CHU Sainte-Justine,2024-03-05,92,55,130
-CHU Sainte-Justine,2024-03-06,88,53,124
-Total,2024-02-26,133,123,143
-Total,2024-02-27,138,129,148
-Total,2024-02-28,138,127,148
-Total,2024-02-29,135,125,145
-Total,2024-03-01,133,123,142
-Total,2024-03-02,123,112,133
-Total,2024-03-03,123,113,133
-Total,2024-03-04,133,124,143
-Total,2024-03-05,138,129,149
-Total,2024-03-06,137,128,147
+Institut de Cardiologie de Montréal,2024-03-03,59,36,81
+Institut de Cardiologie de Montréal,2024-03-04,68,44,88
+Institut de Cardiologie de Montréal,2024-03-05,76,53,99
+Institut de Cardiologie de Montréal,2024-03-06,81,58,105
+Institut de Cardiologie de Montréal,2024-03-07,79,57,100
+CHU Sainte-Justine,2024-02-27,92,52,128
+CHU Sainte-Justine,2024-02-28,88,52,124
+CHU Sainte-Justine,2024-02-29,88,50,127
+CHU Sainte-Justine,2024-03-01,89,51,126
+CHU Sainte-Justine,2024-03-02,79,43,116
+CHU Sainte-Justine,2024-03-03,85,46,125
+CHU Sainte-Justine,2024-03-04,90,52,128
+CHU Sainte-Justine,2024-03-05,92,54,130
+CHU Sainte-Justine,2024-03-06,88,49,123
+CHU Sainte-Justine,2024-03-07,87,48,124
+Total,2024-02-27,138,128,148
+Total,2024-02-28,137,126,146
+Total,2024-02-29,135,126,145
+Total,2024-03-01,132,123,142
+Total,2024-03-02,122,112,131
+Total,2024-03-03,122,113,132
+Total,2024-03-04,132,123,142
+Total,2024-03-05,137,128,146
+Total,2024-03-06,137,127,146
+Total,2024-03-07,134,125,144
