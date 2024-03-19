@@ -1,1101 +1,1761 @@
 name,Date,yhat,yhat_lower,yhat_upper
-Centre Hospitalier de l'Université de Montréal,2024-03-19 08:45:00,145.0,128.0,162.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 09:45:00,146.0,128.0,163.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 10:45:00,146.0,128.0,164.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 11:45:00,147.0,130.0,163.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 12:45:00,147.0,130.0,163.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 13:45:00,147.0,129.0,164.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 14:45:00,146.0,128.0,163.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 15:45:00,144.0,127.0,161.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 16:45:00,143.0,124.0,161.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 17:45:00,141.0,124.0,159.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 18:45:00,139.0,122.0,157.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 19:45:00,137.0,120.0,156.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 20:45:00,135.0,119.0,153.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 21:45:00,134.0,117.0,153.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 22:45:00,134.0,117.0,150.0
-Centre Hospitalier de l'Université de Montréal,2024-03-19 23:45:00,135.0,117.0,154.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 00:45:00,135.0,119.0,152.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 01:45:00,136.0,120.0,153.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 02:45:00,138.0,120.0,155.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 03:45:00,139.0,121.0,155.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 04:45:00,140.0,123.0,158.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 05:45:00,141.0,125.0,159.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 06:45:00,142.0,125.0,160.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 07:45:00,142.0,126.0,160.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 08:45:00,142.0,125.0,159.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 09:45:00,143.0,126.0,161.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 10:45:00,144.0,128.0,162.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 11:45:00,145.0,128.0,164.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 12:45:00,145.0,128.0,162.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 13:45:00,145.0,129.0,161.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 14:45:00,144.0,126.0,162.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 15:45:00,143.0,125.0,159.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 16:45:00,142.0,124.0,157.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 17:45:00,140.0,123.0,157.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 18:45:00,138.0,121.0,157.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 19:45:00,136.0,120.0,154.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 20:45:00,135.0,117.0,152.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 21:45:00,134.0,118.0,151.0
-Centre Hospitalier de l'Université de Montréal,2024-03-20 22:45:00,134.0,117.0,151.0
+Centre Hospitalier de l'Université de Montréal,2024-03-19 23:45:00,135.0,118.0,152.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 00:45:00,135.0,118.0,152.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 01:45:00,136.0,119.0,152.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 02:45:00,137.0,120.0,155.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 03:45:00,139.0,121.0,156.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 04:45:00,140.0,123.0,157.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 05:45:00,141.0,123.0,159.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 06:45:00,142.0,124.0,159.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 07:45:00,142.0,124.0,160.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 08:45:00,142.0,123.0,160.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 09:45:00,143.0,126.0,160.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 10:45:00,144.0,126.0,160.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 11:45:00,145.0,128.0,162.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 12:45:00,145.0,128.0,163.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 13:45:00,145.0,128.0,161.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 14:45:00,144.0,127.0,161.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 15:45:00,143.0,125.0,160.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 16:45:00,141.0,125.0,159.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 17:45:00,140.0,122.0,156.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 18:45:00,138.0,121.0,155.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 19:45:00,136.0,118.0,153.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 20:45:00,135.0,117.0,151.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 21:45:00,134.0,117.0,151.0
+Centre Hospitalier de l'Université de Montréal,2024-03-20 22:45:00,134.0,116.0,151.0
 Centre Hospitalier de l'Université de Montréal,2024-03-20 23:45:00,134.0,117.0,152.0
-Centre Hospitalier de l'Université de Montréal,2024-03-21 00:45:00,135.0,117.0,153.0
-Centre Hospitalier de l'Université de Montréal,2024-03-21 01:45:00,137.0,121.0,153.0
-Centre Hospitalier de l'Université de Montréal,2024-03-21 02:45:00,138.0,120.0,155.0
-Centre Hospitalier de l'Université de Montréal,2024-03-21 03:45:00,139.0,121.0,157.0
-Centre Hospitalier de l'Université de Montréal,2024-03-21 04:45:00,141.0,123.0,157.0
-Centre Hospitalier de l'Université de Montréal,2024-03-21 05:45:00,142.0,125.0,159.0
-Centre Hospitalier de l'Université de Montréal,2024-03-21 06:45:00,143.0,125.0,160.0
-Centre Hospitalier de l'Université de Montréal,2024-03-21 07:45:00,143.0,126.0,161.0
-Centre Hospitalier de l'Université de Montréal,2024-03-21 08:45:00,143.0,124.0,160.0
-Centre Hospitalier de l'Université de Montréal,2024-03-21 09:45:00,144.0,126.0,160.0
-Centre Hospitalier de St. Mary,2024-03-19 08:45:00,117.0,93.0,144.0
-Centre Hospitalier de St. Mary,2024-03-19 09:45:00,118.0,94.0,144.0
-Centre Hospitalier de St. Mary,2024-03-19 10:45:00,118.0,93.0,143.0
-Centre Hospitalier de St. Mary,2024-03-19 11:45:00,118.0,94.0,141.0
-Centre Hospitalier de St. Mary,2024-03-19 12:45:00,116.0,90.0,141.0
-Centre Hospitalier de St. Mary,2024-03-19 13:45:00,113.0,89.0,137.0
-Centre Hospitalier de St. Mary,2024-03-19 14:45:00,110.0,85.0,135.0
-Centre Hospitalier de St. Mary,2024-03-19 15:45:00,109.0,84.0,133.0
-Centre Hospitalier de St. Mary,2024-03-19 16:45:00,109.0,85.0,133.0
-Centre Hospitalier de St. Mary,2024-03-19 17:45:00,109.0,84.0,132.0
-Centre Hospitalier de St. Mary,2024-03-19 18:45:00,108.0,83.0,133.0
-Centre Hospitalier de St. Mary,2024-03-19 19:45:00,108.0,83.0,133.0
-Centre Hospitalier de St. Mary,2024-03-19 20:45:00,108.0,83.0,133.0
-Centre Hospitalier de St. Mary,2024-03-19 21:45:00,109.0,84.0,134.0
-Centre Hospitalier de St. Mary,2024-03-19 22:45:00,110.0,85.0,135.0
-Centre Hospitalier de St. Mary,2024-03-19 23:45:00,111.0,85.0,138.0
-Centre Hospitalier de St. Mary,2024-03-20 00:45:00,111.0,87.0,137.0
-Centre Hospitalier de St. Mary,2024-03-20 01:45:00,111.0,84.0,134.0
-Centre Hospitalier de St. Mary,2024-03-20 02:45:00,111.0,86.0,135.0
-Centre Hospitalier de St. Mary,2024-03-20 03:45:00,112.0,88.0,136.0
-Centre Hospitalier de St. Mary,2024-03-20 04:45:00,113.0,88.0,138.0
-Centre Hospitalier de St. Mary,2024-03-20 05:45:00,115.0,92.0,141.0
-Centre Hospitalier de St. Mary,2024-03-20 06:45:00,116.0,90.0,142.0
-Centre Hospitalier de St. Mary,2024-03-20 07:45:00,117.0,92.0,140.0
-Centre Hospitalier de St. Mary,2024-03-20 08:45:00,117.0,94.0,143.0
-Centre Hospitalier de St. Mary,2024-03-20 09:45:00,118.0,93.0,143.0
-Centre Hospitalier de St. Mary,2024-03-20 10:45:00,118.0,93.0,144.0
-Centre Hospitalier de St. Mary,2024-03-20 11:45:00,118.0,94.0,142.0
-Centre Hospitalier de St. Mary,2024-03-20 12:45:00,115.0,89.0,139.0
-Centre Hospitalier de St. Mary,2024-03-20 13:45:00,112.0,88.0,139.0
-Centre Hospitalier de St. Mary,2024-03-20 14:45:00,110.0,85.0,133.0
-Centre Hospitalier de St. Mary,2024-03-20 15:45:00,108.0,83.0,134.0
-Centre Hospitalier de St. Mary,2024-03-20 16:45:00,108.0,84.0,131.0
-Centre Hospitalier de St. Mary,2024-03-20 17:45:00,108.0,84.0,133.0
-Centre Hospitalier de St. Mary,2024-03-20 18:45:00,108.0,84.0,131.0
-Centre Hospitalier de St. Mary,2024-03-20 19:45:00,107.0,83.0,132.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 00:45:00,135.0,117.0,152.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 01:45:00,136.0,120.0,154.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 02:45:00,138.0,122.0,156.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 03:45:00,139.0,122.0,156.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 04:45:00,141.0,124.0,159.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 05:45:00,142.0,125.0,158.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 06:45:00,142.0,125.0,159.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 07:45:00,143.0,125.0,159.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 08:45:00,143.0,126.0,160.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 09:45:00,144.0,126.0,161.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 10:45:00,145.0,127.0,163.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 11:45:00,146.0,128.0,163.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 12:45:00,146.0,128.0,162.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 13:45:00,145.0,127.0,162.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 14:45:00,144.0,127.0,162.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 15:45:00,143.0,126.0,162.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 16:45:00,142.0,123.0,161.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 17:45:00,140.0,122.0,158.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 18:45:00,138.0,120.0,156.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 19:45:00,136.0,119.0,152.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 20:45:00,135.0,117.0,152.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 21:45:00,134.0,115.0,151.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 22:45:00,133.0,115.0,150.0
+Centre Hospitalier de l'Université de Montréal,2024-03-21 23:45:00,134.0,116.0,152.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 00:45:00,135.0,118.0,153.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 01:45:00,136.0,119.0,151.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 02:45:00,137.0,118.0,154.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 03:45:00,138.0,121.0,156.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 04:45:00,139.0,121.0,157.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 05:45:00,140.0,122.0,157.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 06:45:00,140.0,122.0,158.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 07:45:00,140.0,123.0,158.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 08:45:00,140.0,124.0,159.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 09:45:00,141.0,124.0,158.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 10:45:00,142.0,124.0,159.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 11:45:00,142.0,125.0,159.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 12:45:00,142.0,125.0,160.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 13:45:00,141.0,125.0,158.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 14:45:00,140.0,123.0,158.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 15:45:00,139.0,122.0,156.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 16:45:00,137.0,120.0,154.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 17:45:00,135.0,117.0,152.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 18:45:00,133.0,115.0,150.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 19:45:00,130.0,113.0,148.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 20:45:00,128.0,110.0,145.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 21:45:00,127.0,109.0,145.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 22:45:00,126.0,108.0,143.0
+Centre Hospitalier de l'Université de Montréal,2024-03-22 23:45:00,126.0,109.0,143.0
+Centre Hospitalier de l'Université de Montréal,2024-03-23 00:45:00,127.0,109.0,144.0
+Centre Hospitalier de l'Université de Montréal,2024-03-23 01:45:00,127.0,110.0,144.0
+Centre Hospitalier de l'Université de Montréal,2024-03-23 02:45:00,128.0,111.0,146.0
+Centre Hospitalier de l'Université de Montréal,2024-03-23 03:45:00,129.0,110.0,147.0
+Centre Hospitalier de l'Université de Montréal,2024-03-23 04:45:00,130.0,113.0,147.0
+Centre Hospitalier de l'Université de Montréal,2024-03-23 05:45:00,131.0,114.0,147.0
+Centre Hospitalier de l'Université de Montréal,2024-03-23 06:45:00,131.0,114.0,148.0
+Centre Hospitalier de St. Mary,2024-03-19 23:45:00,111.0,89.0,135.0
+Centre Hospitalier de St. Mary,2024-03-20 00:45:00,111.0,85.0,136.0
+Centre Hospitalier de St. Mary,2024-03-20 01:45:00,110.0,85.0,135.0
+Centre Hospitalier de St. Mary,2024-03-20 02:45:00,110.0,83.0,134.0
+Centre Hospitalier de St. Mary,2024-03-20 03:45:00,111.0,87.0,136.0
+Centre Hospitalier de St. Mary,2024-03-20 04:45:00,113.0,88.0,137.0
+Centre Hospitalier de St. Mary,2024-03-20 05:45:00,115.0,89.0,140.0
+Centre Hospitalier de St. Mary,2024-03-20 06:45:00,116.0,91.0,140.0
+Centre Hospitalier de St. Mary,2024-03-20 07:45:00,116.0,92.0,142.0
+Centre Hospitalier de St. Mary,2024-03-20 08:45:00,117.0,92.0,141.0
+Centre Hospitalier de St. Mary,2024-03-20 09:45:00,118.0,92.0,142.0
+Centre Hospitalier de St. Mary,2024-03-20 10:45:00,118.0,93.0,142.0
+Centre Hospitalier de St. Mary,2024-03-20 11:45:00,117.0,93.0,141.0
+Centre Hospitalier de St. Mary,2024-03-20 12:45:00,115.0,91.0,140.0
+Centre Hospitalier de St. Mary,2024-03-20 13:45:00,112.0,89.0,136.0
+Centre Hospitalier de St. Mary,2024-03-20 14:45:00,109.0,84.0,134.0
+Centre Hospitalier de St. Mary,2024-03-20 15:45:00,108.0,83.0,133.0
+Centre Hospitalier de St. Mary,2024-03-20 16:45:00,107.0,81.0,131.0
+Centre Hospitalier de St. Mary,2024-03-20 17:45:00,107.0,81.0,131.0
+Centre Hospitalier de St. Mary,2024-03-20 18:45:00,107.0,82.0,131.0
+Centre Hospitalier de St. Mary,2024-03-20 19:45:00,107.0,83.0,133.0
 Centre Hospitalier de St. Mary,2024-03-20 20:45:00,107.0,83.0,132.0
-Centre Hospitalier de St. Mary,2024-03-20 21:45:00,108.0,83.0,130.0
-Centre Hospitalier de St. Mary,2024-03-20 22:45:00,109.0,85.0,132.0
-Centre Hospitalier de St. Mary,2024-03-20 23:45:00,110.0,84.0,134.0
-Centre Hospitalier de St. Mary,2024-03-21 00:45:00,110.0,84.0,134.0
+Centre Hospitalier de St. Mary,2024-03-20 21:45:00,107.0,83.0,133.0
+Centre Hospitalier de St. Mary,2024-03-20 22:45:00,109.0,82.0,132.0
+Centre Hospitalier de St. Mary,2024-03-20 23:45:00,109.0,85.0,135.0
+Centre Hospitalier de St. Mary,2024-03-21 00:45:00,109.0,84.0,133.0
 Centre Hospitalier de St. Mary,2024-03-21 01:45:00,109.0,86.0,135.0
-Centre Hospitalier de St. Mary,2024-03-21 02:45:00,109.0,86.0,135.0
-Centre Hospitalier de St. Mary,2024-03-21 03:45:00,110.0,86.0,135.0
-Centre Hospitalier de St. Mary,2024-03-21 04:45:00,112.0,87.0,136.0
-Centre Hospitalier de St. Mary,2024-03-21 05:45:00,113.0,88.0,139.0
-Centre Hospitalier de St. Mary,2024-03-21 06:45:00,115.0,91.0,141.0
-Centre Hospitalier de St. Mary,2024-03-21 07:45:00,115.0,91.0,142.0
-Centre Hospitalier de St. Mary,2024-03-21 08:45:00,116.0,92.0,142.0
-Centre Hospitalier de St. Mary,2024-03-21 09:45:00,116.0,91.0,141.0
-CHU Sainte-Justine,2024-03-19 08:45:00,75.0,42.0,108.0
-CHU Sainte-Justine,2024-03-19 09:45:00,79.0,46.0,114.0
-CHU Sainte-Justine,2024-03-19 10:45:00,87.0,53.0,120.0
-CHU Sainte-Justine,2024-03-19 11:45:00,94.0,63.0,130.0
-CHU Sainte-Justine,2024-03-19 12:45:00,101.0,68.0,134.0
-CHU Sainte-Justine,2024-03-19 13:45:00,106.0,73.0,141.0
-CHU Sainte-Justine,2024-03-19 14:45:00,108.0,75.0,145.0
-CHU Sainte-Justine,2024-03-19 15:45:00,110.0,75.0,143.0
-CHU Sainte-Justine,2024-03-19 16:45:00,111.0,76.0,142.0
-CHU Sainte-Justine,2024-03-19 17:45:00,113.0,78.0,147.0
-CHU Sainte-Justine,2024-03-19 18:45:00,116.0,82.0,149.0
-CHU Sainte-Justine,2024-03-19 19:45:00,119.0,86.0,155.0
-CHU Sainte-Justine,2024-03-19 20:45:00,121.0,88.0,156.0
-CHU Sainte-Justine,2024-03-19 21:45:00,119.0,85.0,156.0
-CHU Sainte-Justine,2024-03-19 22:45:00,116.0,82.0,150.0
-CHU Sainte-Justine,2024-03-19 23:45:00,112.0,78.0,146.0
-CHU Sainte-Justine,2024-03-20 00:45:00,108.0,75.0,143.0
-CHU Sainte-Justine,2024-03-20 01:45:00,104.0,67.0,138.0
-CHU Sainte-Justine,2024-03-20 02:45:00,99.0,64.0,135.0
-CHU Sainte-Justine,2024-03-20 03:45:00,94.0,61.0,128.0
-CHU Sainte-Justine,2024-03-20 04:45:00,87.0,53.0,121.0
-CHU Sainte-Justine,2024-03-20 05:45:00,80.0,47.0,112.0
-CHU Sainte-Justine,2024-03-20 06:45:00,75.0,39.0,109.0
-CHU Sainte-Justine,2024-03-20 07:45:00,72.0,38.0,105.0
-CHU Sainte-Justine,2024-03-20 08:45:00,74.0,41.0,109.0
-CHU Sainte-Justine,2024-03-20 09:45:00,79.0,45.0,113.0
-CHU Sainte-Justine,2024-03-20 10:45:00,86.0,50.0,121.0
-CHU Sainte-Justine,2024-03-20 11:45:00,95.0,59.0,129.0
-CHU Sainte-Justine,2024-03-20 12:45:00,102.0,68.0,135.0
-CHU Sainte-Justine,2024-03-20 13:45:00,107.0,73.0,142.0
-CHU Sainte-Justine,2024-03-20 14:45:00,110.0,75.0,145.0
-CHU Sainte-Justine,2024-03-20 15:45:00,112.0,79.0,149.0
-CHU Sainte-Justine,2024-03-20 16:45:00,114.0,77.0,146.0
-CHU Sainte-Justine,2024-03-20 17:45:00,116.0,80.0,153.0
-CHU Sainte-Justine,2024-03-20 18:45:00,120.0,84.0,154.0
-CHU Sainte-Justine,2024-03-20 19:45:00,123.0,85.0,154.0
-CHU Sainte-Justine,2024-03-20 20:45:00,124.0,90.0,157.0
-CHU Sainte-Justine,2024-03-20 21:45:00,123.0,87.0,159.0
-CHU Sainte-Justine,2024-03-20 22:45:00,120.0,84.0,155.0
-CHU Sainte-Justine,2024-03-20 23:45:00,116.0,82.0,153.0
-CHU Sainte-Justine,2024-03-21 00:45:00,112.0,77.0,143.0
-CHU Sainte-Justine,2024-03-21 01:45:00,107.0,75.0,144.0
-CHU Sainte-Justine,2024-03-21 02:45:00,103.0,70.0,137.0
-CHU Sainte-Justine,2024-03-21 03:45:00,97.0,66.0,130.0
-CHU Sainte-Justine,2024-03-21 04:45:00,90.0,59.0,127.0
-CHU Sainte-Justine,2024-03-21 05:45:00,83.0,49.0,118.0
-CHU Sainte-Justine,2024-03-21 06:45:00,78.0,42.0,114.0
-CHU Sainte-Justine,2024-03-21 07:45:00,75.0,37.0,107.0
-CHU Sainte-Justine,2024-03-21 08:45:00,76.0,41.0,107.0
-CHU Sainte-Justine,2024-03-21 09:45:00,80.0,48.0,114.0
-Hôpital de Lachine,2024-03-19 08:45:00,56.0,34.0,78.0
-Hôpital de Lachine,2024-03-19 09:45:00,56.0,34.0,79.0
-Hôpital de Lachine,2024-03-19 10:45:00,58.0,37.0,79.0
-Hôpital de Lachine,2024-03-19 11:45:00,60.0,39.0,82.0
-Hôpital de Lachine,2024-03-19 12:45:00,62.0,41.0,83.0
-Hôpital de Lachine,2024-03-19 13:45:00,62.0,38.0,84.0
-Hôpital de Lachine,2024-03-19 14:45:00,62.0,41.0,84.0
-Hôpital de Lachine,2024-03-19 15:45:00,61.0,40.0,82.0
-Hôpital de Lachine,2024-03-19 16:45:00,61.0,38.0,83.0
-Hôpital de Lachine,2024-03-19 17:45:00,60.0,37.0,83.0
-Hôpital de Lachine,2024-03-19 18:45:00,60.0,39.0,81.0
-Hôpital de Lachine,2024-03-19 19:45:00,60.0,37.0,82.0
-Hôpital de Lachine,2024-03-19 20:45:00,59.0,36.0,81.0
-Hôpital de Lachine,2024-03-19 21:45:00,57.0,37.0,79.0
-Hôpital de Lachine,2024-03-19 22:45:00,56.0,35.0,80.0
-Hôpital de Lachine,2024-03-19 23:45:00,55.0,33.0,77.0
-Hôpital de Lachine,2024-03-20 00:45:00,55.0,33.0,77.0
-Hôpital de Lachine,2024-03-20 01:45:00,54.0,32.0,75.0
-Hôpital de Lachine,2024-03-20 02:45:00,54.0,32.0,76.0
-Hôpital de Lachine,2024-03-20 03:45:00,55.0,33.0,76.0
-Hôpital de Lachine,2024-03-20 04:45:00,56.0,32.0,77.0
-Hôpital de Lachine,2024-03-20 05:45:00,57.0,34.0,79.0
-Hôpital de Lachine,2024-03-20 06:45:00,57.0,35.0,80.0
-Hôpital de Lachine,2024-03-20 07:45:00,57.0,36.0,79.0
-Hôpital de Lachine,2024-03-20 08:45:00,57.0,35.0,79.0
-Hôpital de Lachine,2024-03-20 09:45:00,58.0,35.0,80.0
-Hôpital de Lachine,2024-03-20 10:45:00,59.0,37.0,80.0
-Hôpital de Lachine,2024-03-20 11:45:00,60.0,38.0,81.0
-Hôpital de Lachine,2024-03-20 12:45:00,61.0,40.0,84.0
-Hôpital de Lachine,2024-03-20 13:45:00,62.0,39.0,84.0
-Hôpital de Lachine,2024-03-20 14:45:00,61.0,40.0,83.0
-Hôpital de Lachine,2024-03-20 15:45:00,60.0,38.0,81.0
-Hôpital de Lachine,2024-03-20 16:45:00,59.0,38.0,81.0
-Hôpital de Lachine,2024-03-20 17:45:00,58.0,35.0,81.0
-Hôpital de Lachine,2024-03-20 18:45:00,57.0,36.0,79.0
-Hôpital de Lachine,2024-03-20 19:45:00,56.0,34.0,78.0
-Hôpital de Lachine,2024-03-20 20:45:00,55.0,33.0,76.0
-Hôpital de Lachine,2024-03-20 21:45:00,54.0,34.0,75.0
-Hôpital de Lachine,2024-03-20 22:45:00,52.0,29.0,74.0
-Hôpital de Lachine,2024-03-20 23:45:00,51.0,30.0,73.0
-Hôpital de Lachine,2024-03-21 00:45:00,50.0,28.0,71.0
-Hôpital de Lachine,2024-03-21 01:45:00,49.0,28.0,71.0
-Hôpital de Lachine,2024-03-21 02:45:00,49.0,28.0,71.0
-Hôpital de Lachine,2024-03-21 03:45:00,49.0,28.0,70.0
+Centre Hospitalier de St. Mary,2024-03-21 02:45:00,109.0,85.0,133.0
+Centre Hospitalier de St. Mary,2024-03-21 03:45:00,110.0,85.0,136.0
+Centre Hospitalier de St. Mary,2024-03-21 04:45:00,111.0,87.0,135.0
+Centre Hospitalier de St. Mary,2024-03-21 05:45:00,113.0,88.0,138.0
+Centre Hospitalier de St. Mary,2024-03-21 06:45:00,114.0,90.0,139.0
+Centre Hospitalier de St. Mary,2024-03-21 07:45:00,115.0,90.0,140.0
+Centre Hospitalier de St. Mary,2024-03-21 08:45:00,115.0,89.0,141.0
+Centre Hospitalier de St. Mary,2024-03-21 09:45:00,116.0,92.0,141.0
+Centre Hospitalier de St. Mary,2024-03-21 10:45:00,116.0,90.0,140.0
+Centre Hospitalier de St. Mary,2024-03-21 11:45:00,115.0,91.0,141.0
+Centre Hospitalier de St. Mary,2024-03-21 12:45:00,113.0,89.0,138.0
+Centre Hospitalier de St. Mary,2024-03-21 13:45:00,110.0,87.0,136.0
+Centre Hospitalier de St. Mary,2024-03-21 14:45:00,108.0,84.0,132.0
+Centre Hospitalier de St. Mary,2024-03-21 15:45:00,106.0,79.0,129.0
+Centre Hospitalier de St. Mary,2024-03-21 16:45:00,106.0,81.0,129.0
+Centre Hospitalier de St. Mary,2024-03-21 17:45:00,106.0,81.0,130.0
+Centre Hospitalier de St. Mary,2024-03-21 18:45:00,105.0,79.0,130.0
+Centre Hospitalier de St. Mary,2024-03-21 19:45:00,105.0,81.0,129.0
+Centre Hospitalier de St. Mary,2024-03-21 20:45:00,105.0,82.0,130.0
+Centre Hospitalier de St. Mary,2024-03-21 21:45:00,106.0,81.0,132.0
+Centre Hospitalier de St. Mary,2024-03-21 22:45:00,107.0,81.0,132.0
+Centre Hospitalier de St. Mary,2024-03-21 23:45:00,108.0,83.0,133.0
+Centre Hospitalier de St. Mary,2024-03-22 00:45:00,108.0,84.0,131.0
+Centre Hospitalier de St. Mary,2024-03-22 01:45:00,107.0,84.0,133.0
+Centre Hospitalier de St. Mary,2024-03-22 02:45:00,107.0,82.0,134.0
+Centre Hospitalier de St. Mary,2024-03-22 03:45:00,108.0,84.0,134.0
+Centre Hospitalier de St. Mary,2024-03-22 04:45:00,110.0,86.0,134.0
+Centre Hospitalier de St. Mary,2024-03-22 05:45:00,112.0,87.0,138.0
+Centre Hospitalier de St. Mary,2024-03-22 06:45:00,113.0,88.0,137.0
+Centre Hospitalier de St. Mary,2024-03-22 07:45:00,113.0,86.0,140.0
+Centre Hospitalier de St. Mary,2024-03-22 08:45:00,114.0,91.0,137.0
+Centre Hospitalier de St. Mary,2024-03-22 09:45:00,114.0,90.0,139.0
+Centre Hospitalier de St. Mary,2024-03-22 10:45:00,115.0,90.0,142.0
+Centre Hospitalier de St. Mary,2024-03-22 11:45:00,114.0,90.0,138.0
+Centre Hospitalier de St. Mary,2024-03-22 12:45:00,112.0,88.0,136.0
+Centre Hospitalier de St. Mary,2024-03-22 13:45:00,108.0,84.0,134.0
+Centre Hospitalier de St. Mary,2024-03-22 14:45:00,106.0,82.0,130.0
+Centre Hospitalier de St. Mary,2024-03-22 15:45:00,104.0,77.0,128.0
+Centre Hospitalier de St. Mary,2024-03-22 16:45:00,104.0,79.0,129.0
+Centre Hospitalier de St. Mary,2024-03-22 17:45:00,103.0,78.0,128.0
+Centre Hospitalier de St. Mary,2024-03-22 18:45:00,103.0,77.0,129.0
+Centre Hospitalier de St. Mary,2024-03-22 19:45:00,102.0,79.0,128.0
+Centre Hospitalier de St. Mary,2024-03-22 20:45:00,102.0,77.0,126.0
+Centre Hospitalier de St. Mary,2024-03-22 21:45:00,102.0,79.0,128.0
+Centre Hospitalier de St. Mary,2024-03-22 22:45:00,103.0,79.0,129.0
+Centre Hospitalier de St. Mary,2024-03-22 23:45:00,104.0,79.0,128.0
+Centre Hospitalier de St. Mary,2024-03-23 00:45:00,104.0,82.0,128.0
+Centre Hospitalier de St. Mary,2024-03-23 01:45:00,103.0,78.0,127.0
+Centre Hospitalier de St. Mary,2024-03-23 02:45:00,102.0,76.0,127.0
+Centre Hospitalier de St. Mary,2024-03-23 03:45:00,103.0,76.0,128.0
+Centre Hospitalier de St. Mary,2024-03-23 04:45:00,104.0,79.0,129.0
+Centre Hospitalier de St. Mary,2024-03-23 05:45:00,105.0,81.0,130.0
+Centre Hospitalier de St. Mary,2024-03-23 06:45:00,106.0,81.0,129.0
+CHU Sainte-Justine,2024-03-19 22:46:00,116.0,81.0,149.0
+CHU Sainte-Justine,2024-03-19 23:46:00,112.0,77.0,147.0
+CHU Sainte-Justine,2024-03-20 00:46:00,108.0,76.0,144.0
+CHU Sainte-Justine,2024-03-20 01:46:00,103.0,72.0,137.0
+CHU Sainte-Justine,2024-03-20 02:46:00,99.0,65.0,132.0
+CHU Sainte-Justine,2024-03-20 03:46:00,94.0,59.0,126.0
+CHU Sainte-Justine,2024-03-20 04:46:00,87.0,54.0,120.0
+CHU Sainte-Justine,2024-03-20 05:46:00,80.0,45.0,114.0
+CHU Sainte-Justine,2024-03-20 06:46:00,75.0,39.0,109.0
+CHU Sainte-Justine,2024-03-20 07:46:00,72.0,38.0,106.0
+CHU Sainte-Justine,2024-03-20 08:46:00,74.0,42.0,108.0
+CHU Sainte-Justine,2024-03-20 09:46:00,79.0,46.0,114.0
+CHU Sainte-Justine,2024-03-20 10:46:00,87.0,50.0,121.0
+CHU Sainte-Justine,2024-03-20 11:46:00,95.0,61.0,132.0
+CHU Sainte-Justine,2024-03-20 12:46:00,102.0,70.0,133.0
+CHU Sainte-Justine,2024-03-20 13:46:00,107.0,72.0,143.0
+CHU Sainte-Justine,2024-03-20 14:46:00,110.0,73.0,144.0
+CHU Sainte-Justine,2024-03-20 15:46:00,112.0,77.0,148.0
+CHU Sainte-Justine,2024-03-20 16:46:00,114.0,78.0,147.0
+CHU Sainte-Justine,2024-03-20 17:46:00,116.0,82.0,151.0
+CHU Sainte-Justine,2024-03-20 18:46:00,120.0,86.0,154.0
+CHU Sainte-Justine,2024-03-20 19:46:00,123.0,89.0,158.0
+CHU Sainte-Justine,2024-03-20 20:46:00,124.0,90.0,156.0
+CHU Sainte-Justine,2024-03-20 21:46:00,123.0,87.0,157.0
+CHU Sainte-Justine,2024-03-20 22:46:00,120.0,87.0,155.0
+CHU Sainte-Justine,2024-03-20 23:46:00,116.0,83.0,151.0
+CHU Sainte-Justine,2024-03-21 00:46:00,112.0,77.0,144.0
+CHU Sainte-Justine,2024-03-21 01:46:00,108.0,71.0,145.0
+CHU Sainte-Justine,2024-03-21 02:46:00,103.0,69.0,138.0
+CHU Sainte-Justine,2024-03-21 03:46:00,97.0,63.0,131.0
+CHU Sainte-Justine,2024-03-21 04:46:00,90.0,57.0,124.0
+CHU Sainte-Justine,2024-03-21 05:46:00,83.0,50.0,118.0
+CHU Sainte-Justine,2024-03-21 06:46:00,78.0,41.0,111.0
+CHU Sainte-Justine,2024-03-21 07:46:00,75.0,40.0,109.0
+CHU Sainte-Justine,2024-03-21 08:46:00,76.0,42.0,110.0
+CHU Sainte-Justine,2024-03-21 09:46:00,80.0,47.0,115.0
+CHU Sainte-Justine,2024-03-21 10:46:00,88.0,52.0,124.0
+CHU Sainte-Justine,2024-03-21 11:46:00,96.0,61.0,131.0
+CHU Sainte-Justine,2024-03-21 12:46:00,102.0,67.0,136.0
+CHU Sainte-Justine,2024-03-21 13:46:00,107.0,70.0,141.0
+CHU Sainte-Justine,2024-03-21 14:46:00,109.0,76.0,142.0
+CHU Sainte-Justine,2024-03-21 15:46:00,110.0,75.0,143.0
+CHU Sainte-Justine,2024-03-21 16:46:00,111.0,77.0,148.0
+CHU Sainte-Justine,2024-03-21 17:46:00,114.0,80.0,152.0
+CHU Sainte-Justine,2024-03-21 18:46:00,116.0,82.0,149.0
+CHU Sainte-Justine,2024-03-21 19:46:00,119.0,85.0,154.0
+CHU Sainte-Justine,2024-03-21 20:46:00,120.0,85.0,158.0
+CHU Sainte-Justine,2024-03-21 21:46:00,118.0,83.0,152.0
+CHU Sainte-Justine,2024-03-21 22:46:00,115.0,81.0,154.0
+CHU Sainte-Justine,2024-03-21 23:46:00,110.0,73.0,142.0
+CHU Sainte-Justine,2024-03-22 00:46:00,105.0,73.0,141.0
+CHU Sainte-Justine,2024-03-22 01:46:00,101.0,64.0,134.0
+CHU Sainte-Justine,2024-03-22 02:46:00,96.0,60.0,129.0
+CHU Sainte-Justine,2024-03-22 03:46:00,90.0,57.0,123.0
+CHU Sainte-Justine,2024-03-22 04:46:00,83.0,48.0,117.0
+CHU Sainte-Justine,2024-03-22 05:46:00,76.0,41.0,110.0
+CHU Sainte-Justine,2024-03-22 06:46:00,70.0,35.0,104.0
+CHU Sainte-Justine,2024-03-22 07:46:00,67.0,30.0,101.0
+CHU Sainte-Justine,2024-03-22 08:46:00,68.0,34.0,102.0
+CHU Sainte-Justine,2024-03-22 09:46:00,72.0,38.0,107.0
+CHU Sainte-Justine,2024-03-22 10:46:00,80.0,45.0,116.0
+CHU Sainte-Justine,2024-03-22 11:46:00,88.0,53.0,121.0
+CHU Sainte-Justine,2024-03-22 12:46:00,94.0,61.0,130.0
+CHU Sainte-Justine,2024-03-22 13:46:00,99.0,65.0,133.0
+CHU Sainte-Justine,2024-03-22 14:46:00,102.0,69.0,138.0
+CHU Sainte-Justine,2024-03-22 15:46:00,103.0,69.0,138.0
+CHU Sainte-Justine,2024-03-22 16:46:00,104.0,70.0,137.0
+CHU Sainte-Justine,2024-03-22 17:46:00,107.0,72.0,143.0
+CHU Sainte-Justine,2024-03-22 18:46:00,110.0,76.0,144.0
+CHU Sainte-Justine,2024-03-22 19:46:00,112.0,78.0,149.0
+CHU Sainte-Justine,2024-03-22 20:46:00,114.0,79.0,146.0
+CHU Sainte-Justine,2024-03-22 21:46:00,112.0,78.0,147.0
+CHU Sainte-Justine,2024-03-22 22:46:00,109.0,73.0,143.0
+CHU Sainte-Justine,2024-03-22 23:46:00,105.0,71.0,139.0
+CHU Sainte-Justine,2024-03-23 00:46:00,100.0,63.0,135.0
+CHU Sainte-Justine,2024-03-23 01:46:00,96.0,60.0,131.0
+CHU Sainte-Justine,2024-03-23 02:46:00,91.0,56.0,126.0
+CHU Sainte-Justine,2024-03-23 03:46:00,85.0,50.0,121.0
+CHU Sainte-Justine,2024-03-23 04:46:00,78.0,46.0,113.0
+CHU Sainte-Justine,2024-03-23 05:46:00,71.0,36.0,104.0
+Hôpital de Lachine,2024-03-19 23:45:00,56.0,33.0,76.0
+Hôpital de Lachine,2024-03-20 00:45:00,55.0,35.0,77.0
+Hôpital de Lachine,2024-03-20 01:45:00,55.0,33.0,78.0
+Hôpital de Lachine,2024-03-20 02:45:00,55.0,32.0,78.0
+Hôpital de Lachine,2024-03-20 03:45:00,55.0,31.0,77.0
+Hôpital de Lachine,2024-03-20 04:45:00,56.0,34.0,78.0
+Hôpital de Lachine,2024-03-20 05:45:00,57.0,35.0,78.0
+Hôpital de Lachine,2024-03-20 06:45:00,57.0,38.0,80.0
+Hôpital de Lachine,2024-03-20 07:45:00,57.0,36.0,80.0
+Hôpital de Lachine,2024-03-20 08:45:00,57.0,35.0,80.0
+Hôpital de Lachine,2024-03-20 09:45:00,58.0,35.0,79.0
+Hôpital de Lachine,2024-03-20 10:45:00,59.0,37.0,81.0
+Hôpital de Lachine,2024-03-20 11:45:00,60.0,38.0,83.0
+Hôpital de Lachine,2024-03-20 12:45:00,62.0,39.0,84.0
+Hôpital de Lachine,2024-03-20 13:45:00,62.0,41.0,84.0
+Hôpital de Lachine,2024-03-20 14:45:00,61.0,38.0,84.0
+Hôpital de Lachine,2024-03-20 15:45:00,60.0,36.0,81.0
+Hôpital de Lachine,2024-03-20 16:45:00,59.0,37.0,83.0
+Hôpital de Lachine,2024-03-20 17:45:00,58.0,37.0,80.0
+Hôpital de Lachine,2024-03-20 18:45:00,57.0,36.0,77.0
+Hôpital de Lachine,2024-03-20 19:45:00,56.0,35.0,79.0
+Hôpital de Lachine,2024-03-20 20:45:00,55.0,33.0,79.0
+Hôpital de Lachine,2024-03-20 21:45:00,54.0,32.0,76.0
+Hôpital de Lachine,2024-03-20 22:45:00,52.0,31.0,76.0
+Hôpital de Lachine,2024-03-20 23:45:00,51.0,29.0,72.0
+Hôpital de Lachine,2024-03-21 00:45:00,50.0,28.0,72.0
+Hôpital de Lachine,2024-03-21 01:45:00,49.0,28.0,73.0
+Hôpital de Lachine,2024-03-21 02:45:00,49.0,27.0,72.0
+Hôpital de Lachine,2024-03-21 03:45:00,49.0,26.0,73.0
 Hôpital de Lachine,2024-03-21 04:45:00,50.0,28.0,72.0
-Hôpital de Lachine,2024-03-21 05:45:00,51.0,29.0,73.0
-Hôpital de Lachine,2024-03-21 06:45:00,51.0,29.0,72.0
-Hôpital de Lachine,2024-03-21 07:45:00,51.0,28.0,71.0
-Hôpital de Lachine,2024-03-21 08:45:00,51.0,28.0,74.0
-Hôpital de Lachine,2024-03-21 09:45:00,51.0,28.0,72.0
-Hôpital de Lasalle,2024-03-19 08:45:00,101.0,71.0,132.0
-Hôpital de Lasalle,2024-03-19 09:45:00,102.0,71.0,133.0
-Hôpital de Lasalle,2024-03-19 10:45:00,104.0,71.0,136.0
-Hôpital de Lasalle,2024-03-19 11:45:00,106.0,76.0,138.0
-Hôpital de Lasalle,2024-03-19 12:45:00,109.0,75.0,140.0
-Hôpital de Lasalle,2024-03-19 13:45:00,109.0,77.0,144.0
-Hôpital de Lasalle,2024-03-19 14:45:00,108.0,75.0,140.0
-Hôpital de Lasalle,2024-03-19 15:45:00,105.0,73.0,138.0
-Hôpital de Lasalle,2024-03-19 16:45:00,102.0,71.0,134.0
-Hôpital de Lasalle,2024-03-19 17:45:00,100.0,67.0,133.0
-Hôpital de Lasalle,2024-03-19 18:45:00,98.0,67.0,132.0
-Hôpital de Lasalle,2024-03-19 19:45:00,97.0,66.0,128.0
-Hôpital de Lasalle,2024-03-19 20:45:00,96.0,62.0,127.0
-Hôpital de Lasalle,2024-03-19 21:45:00,94.0,61.0,126.0
-Hôpital de Lasalle,2024-03-19 22:45:00,93.0,61.0,125.0
-Hôpital de Lasalle,2024-03-19 23:45:00,93.0,59.0,122.0
-Hôpital de Lasalle,2024-03-20 00:45:00,93.0,58.0,127.0
-Hôpital de Lasalle,2024-03-20 01:45:00,94.0,63.0,125.0
-Hôpital de Lasalle,2024-03-20 02:45:00,96.0,64.0,126.0
-Hôpital de Lasalle,2024-03-20 03:45:00,98.0,63.0,128.0
-Hôpital de Lasalle,2024-03-20 04:45:00,99.0,67.0,132.0
-Hôpital de Lasalle,2024-03-20 05:45:00,101.0,69.0,134.0
-Hôpital de Lasalle,2024-03-20 06:45:00,102.0,68.0,135.0
-Hôpital de Lasalle,2024-03-20 07:45:00,103.0,69.0,135.0
-Hôpital de Lasalle,2024-03-20 08:45:00,103.0,69.0,133.0
-Hôpital de Lasalle,2024-03-20 09:45:00,104.0,72.0,136.0
-Hôpital de Lasalle,2024-03-20 10:45:00,105.0,73.0,137.0
-Hôpital de Lasalle,2024-03-20 11:45:00,107.0,75.0,141.0
+Hôpital de Lachine,2024-03-21 05:45:00,51.0,28.0,73.0
+Hôpital de Lachine,2024-03-21 06:45:00,51.0,29.0,75.0
+Hôpital de Lachine,2024-03-21 07:45:00,51.0,28.0,72.0
+Hôpital de Lachine,2024-03-21 08:45:00,51.0,28.0,72.0
+Hôpital de Lachine,2024-03-21 09:45:00,51.0,31.0,74.0
+Hôpital de Lachine,2024-03-21 10:45:00,52.0,30.0,73.0
+Hôpital de Lachine,2024-03-21 11:45:00,54.0,32.0,78.0
+Hôpital de Lachine,2024-03-21 12:45:00,55.0,32.0,79.0
+Hôpital de Lachine,2024-03-21 13:45:00,56.0,34.0,80.0
+Hôpital de Lachine,2024-03-21 14:45:00,55.0,34.0,77.0
+Hôpital de Lachine,2024-03-21 15:45:00,54.0,31.0,77.0
+Hôpital de Lachine,2024-03-21 16:45:00,53.0,31.0,76.0
+Hôpital de Lachine,2024-03-21 17:45:00,53.0,31.0,75.0
+Hôpital de Lachine,2024-03-21 18:45:00,53.0,31.0,75.0
+Hôpital de Lachine,2024-03-21 19:45:00,52.0,28.0,73.0
+Hôpital de Lachine,2024-03-21 20:45:00,51.0,28.0,73.0
+Hôpital de Lachine,2024-03-21 21:45:00,50.0,28.0,72.0
+Hôpital de Lachine,2024-03-21 22:45:00,49.0,27.0,72.0
+Hôpital de Lachine,2024-03-21 23:45:00,48.0,26.0,70.0
+Hôpital de Lachine,2024-03-22 00:45:00,47.0,25.0,70.0
+Hôpital de Lachine,2024-03-22 01:45:00,47.0,24.0,69.0
+Hôpital de Lachine,2024-03-22 02:45:00,47.0,25.0,69.0
+Hôpital de Lachine,2024-03-22 03:45:00,48.0,25.0,68.0
+Hôpital de Lachine,2024-03-22 04:45:00,49.0,27.0,70.0
+Hôpital de Lachine,2024-03-22 05:45:00,50.0,29.0,73.0
+Hôpital de Lachine,2024-03-22 06:45:00,51.0,29.0,73.0
+Hôpital de Lachine,2024-03-22 07:45:00,51.0,30.0,73.0
+Hôpital de Lachine,2024-03-22 08:45:00,51.0,28.0,72.0
+Hôpital de Lachine,2024-03-22 09:45:00,52.0,29.0,73.0
+Hôpital de Lachine,2024-03-22 10:45:00,53.0,31.0,75.0
+Hôpital de Lachine,2024-03-22 11:45:00,55.0,34.0,78.0
+Hôpital de Lachine,2024-03-22 12:45:00,57.0,35.0,78.0
+Hôpital de Lachine,2024-03-22 13:45:00,57.0,36.0,79.0
+Hôpital de Lachine,2024-03-22 14:45:00,57.0,32.0,78.0
+Hôpital de Lachine,2024-03-22 15:45:00,56.0,34.0,79.0
+Hôpital de Lachine,2024-03-22 16:45:00,55.0,34.0,76.0
+Hôpital de Lachine,2024-03-22 17:45:00,55.0,34.0,75.0
+Hôpital de Lachine,2024-03-22 18:45:00,54.0,33.0,77.0
+Hôpital de Lachine,2024-03-22 19:45:00,53.0,30.0,75.0
+Hôpital de Lachine,2024-03-22 20:45:00,52.0,30.0,75.0
+Hôpital de Lachine,2024-03-22 21:45:00,51.0,28.0,72.0
+Hôpital de Lachine,2024-03-22 22:45:00,50.0,26.0,71.0
+Hôpital de Lachine,2024-03-22 23:45:00,48.0,27.0,71.0
+Hôpital de Lachine,2024-03-23 00:45:00,48.0,25.0,70.0
+Hôpital de Lachine,2024-03-23 01:45:00,47.0,26.0,69.0
+Hôpital de Lachine,2024-03-23 02:45:00,47.0,27.0,69.0
+Hôpital de Lachine,2024-03-23 03:45:00,47.0,23.0,67.0
+Hôpital de Lachine,2024-03-23 04:45:00,48.0,25.0,69.0
+Hôpital de Lachine,2024-03-23 05:45:00,48.0,27.0,71.0
+Hôpital de Lachine,2024-03-23 06:45:00,49.0,26.0,71.0
+Hôpital de Lasalle,2024-03-19 23:45:00,93.0,59.0,126.0
+Hôpital de Lasalle,2024-03-20 00:45:00,94.0,61.0,125.0
+Hôpital de Lasalle,2024-03-20 01:45:00,95.0,63.0,130.0
+Hôpital de Lasalle,2024-03-20 02:45:00,96.0,65.0,127.0
+Hôpital de Lasalle,2024-03-20 03:45:00,98.0,64.0,131.0
+Hôpital de Lasalle,2024-03-20 04:45:00,100.0,68.0,131.0
+Hôpital de Lasalle,2024-03-20 05:45:00,101.0,70.0,134.0
+Hôpital de Lasalle,2024-03-20 06:45:00,103.0,69.0,135.0
+Hôpital de Lasalle,2024-03-20 07:45:00,103.0,71.0,134.0
+Hôpital de Lasalle,2024-03-20 08:45:00,103.0,75.0,138.0
+Hôpital de Lasalle,2024-03-20 09:45:00,104.0,71.0,136.0
+Hôpital de Lasalle,2024-03-20 10:45:00,106.0,73.0,137.0
+Hôpital de Lasalle,2024-03-20 11:45:00,108.0,75.0,141.0
 Hôpital de Lasalle,2024-03-20 12:45:00,109.0,76.0,141.0
-Hôpital de Lasalle,2024-03-20 13:45:00,109.0,75.0,142.0
-Hôpital de Lasalle,2024-03-20 14:45:00,108.0,74.0,140.0
-Hôpital de Lasalle,2024-03-20 15:45:00,105.0,72.0,135.0
-Hôpital de Lasalle,2024-03-20 16:45:00,101.0,70.0,135.0
-Hôpital de Lasalle,2024-03-20 17:45:00,99.0,68.0,133.0
-Hôpital de Lasalle,2024-03-20 18:45:00,97.0,64.0,130.0
-Hôpital de Lasalle,2024-03-20 19:45:00,95.0,61.0,128.0
-Hôpital de Lasalle,2024-03-20 20:45:00,93.0,61.0,128.0
-Hôpital de Lasalle,2024-03-20 21:45:00,92.0,58.0,123.0
-Hôpital de Lasalle,2024-03-20 22:45:00,90.0,58.0,121.0
-Hôpital de Lasalle,2024-03-20 23:45:00,90.0,57.0,121.0
-Hôpital de Lasalle,2024-03-21 00:45:00,90.0,58.0,123.0
-Hôpital de Lasalle,2024-03-21 01:45:00,92.0,57.0,122.0
+Hôpital de Lasalle,2024-03-20 13:45:00,110.0,76.0,142.0
+Hôpital de Lasalle,2024-03-20 14:45:00,108.0,77.0,140.0
+Hôpital de Lasalle,2024-03-20 15:45:00,105.0,73.0,136.0
+Hôpital de Lasalle,2024-03-20 16:45:00,101.0,68.0,134.0
+Hôpital de Lasalle,2024-03-20 17:45:00,99.0,66.0,131.0
+Hôpital de Lasalle,2024-03-20 18:45:00,97.0,65.0,127.0
+Hôpital de Lasalle,2024-03-20 19:45:00,95.0,64.0,127.0
+Hôpital de Lasalle,2024-03-20 20:45:00,94.0,62.0,124.0
+Hôpital de Lasalle,2024-03-20 21:45:00,92.0,60.0,125.0
+Hôpital de Lasalle,2024-03-20 22:45:00,90.0,56.0,122.0
+Hôpital de Lasalle,2024-03-20 23:45:00,90.0,56.0,122.0
+Hôpital de Lasalle,2024-03-21 00:45:00,91.0,56.0,123.0
+Hôpital de Lasalle,2024-03-21 01:45:00,92.0,59.0,123.0
 Hôpital de Lasalle,2024-03-21 02:45:00,93.0,60.0,125.0
-Hôpital de Lasalle,2024-03-21 03:45:00,95.0,63.0,127.0
-Hôpital de Lasalle,2024-03-21 04:45:00,96.0,63.0,129.0
-Hôpital de Lasalle,2024-03-21 05:45:00,98.0,69.0,129.0
-Hôpital de Lasalle,2024-03-21 06:45:00,99.0,67.0,132.0
-Hôpital de Lasalle,2024-03-21 07:45:00,100.0,68.0,134.0
-Hôpital de Lasalle,2024-03-21 08:45:00,100.0,70.0,131.0
-Hôpital de Lasalle,2024-03-21 09:45:00,101.0,67.0,133.0
-Hôpital de Verdun,2024-03-19 08:45:00,108.0,77.0,140.0
-Hôpital de Verdun,2024-03-19 09:45:00,108.0,77.0,138.0
-Hôpital de Verdun,2024-03-19 10:45:00,107.0,77.0,136.0
-Hôpital de Verdun,2024-03-19 11:45:00,104.0,74.0,136.0
-Hôpital de Verdun,2024-03-19 12:45:00,101.0,69.0,133.0
-Hôpital de Verdun,2024-03-19 13:45:00,98.0,67.0,130.0
-Hôpital de Verdun,2024-03-19 14:45:00,97.0,67.0,127.0
-Hôpital de Verdun,2024-03-19 15:45:00,97.0,66.0,126.0
-Hôpital de Verdun,2024-03-19 16:45:00,99.0,66.0,127.0
-Hôpital de Verdun,2024-03-19 17:45:00,101.0,70.0,134.0
-Hôpital de Verdun,2024-03-19 18:45:00,103.0,72.0,134.0
-Hôpital de Verdun,2024-03-19 19:45:00,104.0,73.0,135.0
-Hôpital de Verdun,2024-03-19 20:45:00,105.0,71.0,134.0
-Hôpital de Verdun,2024-03-19 21:45:00,105.0,75.0,135.0
-Hôpital de Verdun,2024-03-19 22:45:00,107.0,76.0,136.0
-Hôpital de Verdun,2024-03-19 23:45:00,108.0,76.0,138.0
-Hôpital de Verdun,2024-03-20 00:45:00,109.0,77.0,139.0
-Hôpital de Verdun,2024-03-20 01:45:00,109.0,78.0,140.0
-Hôpital de Verdun,2024-03-20 02:45:00,109.0,79.0,139.0
-Hôpital de Verdun,2024-03-20 03:45:00,109.0,77.0,141.0
-Hôpital de Verdun,2024-03-20 04:45:00,109.0,79.0,139.0
-Hôpital de Verdun,2024-03-20 05:45:00,109.0,80.0,141.0
+Hôpital de Lasalle,2024-03-21 03:45:00,95.0,62.0,125.0
+Hôpital de Lasalle,2024-03-21 04:45:00,97.0,61.0,128.0
+Hôpital de Lasalle,2024-03-21 05:45:00,98.0,68.0,129.0
+Hôpital de Lasalle,2024-03-21 06:45:00,99.0,67.0,133.0
+Hôpital de Lasalle,2024-03-21 07:45:00,100.0,66.0,133.0
+Hôpital de Lasalle,2024-03-21 08:45:00,100.0,67.0,132.0
+Hôpital de Lasalle,2024-03-21 09:45:00,101.0,72.0,133.0
+Hôpital de Lasalle,2024-03-21 10:45:00,103.0,70.0,135.0
+Hôpital de Lasalle,2024-03-21 11:45:00,105.0,74.0,134.0
+Hôpital de Lasalle,2024-03-21 12:45:00,107.0,76.0,139.0
+Hôpital de Lasalle,2024-03-21 13:45:00,107.0,74.0,140.0
+Hôpital de Lasalle,2024-03-21 14:45:00,106.0,73.0,137.0
+Hôpital de Lasalle,2024-03-21 15:45:00,103.0,71.0,135.0
+Hôpital de Lasalle,2024-03-21 16:45:00,99.0,66.0,130.0
+Hôpital de Lasalle,2024-03-21 17:45:00,97.0,66.0,129.0
+Hôpital de Lasalle,2024-03-21 18:45:00,95.0,61.0,127.0
+Hôpital de Lasalle,2024-03-21 19:45:00,93.0,58.0,127.0
+Hôpital de Lasalle,2024-03-21 20:45:00,92.0,57.0,122.0
+Hôpital de Lasalle,2024-03-21 21:45:00,90.0,56.0,122.0
+Hôpital de Lasalle,2024-03-21 22:45:00,89.0,55.0,122.0
+Hôpital de Lasalle,2024-03-21 23:45:00,88.0,56.0,121.0
+Hôpital de Lasalle,2024-03-22 00:45:00,89.0,56.0,119.0
+Hôpital de Lasalle,2024-03-22 01:45:00,90.0,60.0,123.0
+Hôpital de Lasalle,2024-03-22 02:45:00,91.0,59.0,124.0
+Hôpital de Lasalle,2024-03-22 03:45:00,92.0,60.0,124.0
+Hôpital de Lasalle,2024-03-22 04:45:00,94.0,62.0,126.0
+Hôpital de Lasalle,2024-03-22 05:45:00,95.0,65.0,128.0
+Hôpital de Lasalle,2024-03-22 06:45:00,96.0,62.0,130.0
+Hôpital de Lasalle,2024-03-22 07:45:00,97.0,65.0,130.0
+Hôpital de Lasalle,2024-03-22 08:45:00,97.0,64.0,126.0
+Hôpital de Lasalle,2024-03-22 09:45:00,97.0,65.0,130.0
+Hôpital de Lasalle,2024-03-22 10:45:00,98.0,69.0,129.0
+Hôpital de Lasalle,2024-03-22 11:45:00,100.0,68.0,132.0
+Hôpital de Lasalle,2024-03-22 12:45:00,102.0,72.0,135.0
+Hôpital de Lasalle,2024-03-22 13:45:00,102.0,70.0,134.0
+Hôpital de Lasalle,2024-03-22 14:45:00,99.0,67.0,134.0
+Hôpital de Lasalle,2024-03-22 15:45:00,96.0,63.0,128.0
+Hôpital de Lasalle,2024-03-22 16:45:00,92.0,62.0,126.0
+Hôpital de Lasalle,2024-03-22 17:45:00,89.0,57.0,123.0
+Hôpital de Lasalle,2024-03-22 18:45:00,87.0,55.0,119.0
+Hôpital de Lasalle,2024-03-22 19:45:00,85.0,53.0,115.0
+Hôpital de Lasalle,2024-03-22 20:45:00,83.0,48.0,115.0
+Hôpital de Lasalle,2024-03-22 21:45:00,81.0,50.0,113.0
+Hôpital de Lasalle,2024-03-22 22:45:00,79.0,48.0,111.0
+Hôpital de Lasalle,2024-03-22 23:45:00,78.0,45.0,109.0
+Hôpital de Lasalle,2024-03-23 00:45:00,78.0,46.0,109.0
+Hôpital de Lasalle,2024-03-23 01:45:00,79.0,46.0,112.0
+Hôpital de Lasalle,2024-03-23 02:45:00,80.0,48.0,111.0
+Hôpital de Lasalle,2024-03-23 03:45:00,81.0,49.0,112.0
+Hôpital de Lasalle,2024-03-23 04:45:00,82.0,52.0,114.0
+Hôpital de Lasalle,2024-03-23 05:45:00,83.0,53.0,115.0
+Hôpital de Lasalle,2024-03-23 06:45:00,84.0,51.0,114.0
+Hôpital de Verdun,2024-03-19 23:45:00,108.0,77.0,138.0
+Hôpital de Verdun,2024-03-20 00:45:00,109.0,75.0,140.0
+Hôpital de Verdun,2024-03-20 01:45:00,109.0,80.0,140.0
+Hôpital de Verdun,2024-03-20 02:45:00,109.0,80.0,140.0
+Hôpital de Verdun,2024-03-20 03:45:00,109.0,80.0,141.0
+Hôpital de Verdun,2024-03-20 04:45:00,109.0,78.0,141.0
+Hôpital de Verdun,2024-03-20 05:45:00,110.0,79.0,141.0
 Hôpital de Verdun,2024-03-20 06:45:00,110.0,79.0,140.0
 Hôpital de Verdun,2024-03-20 07:45:00,110.0,80.0,140.0
-Hôpital de Verdun,2024-03-20 08:45:00,110.0,79.0,141.0
-Hôpital de Verdun,2024-03-20 09:45:00,110.0,80.0,141.0
-Hôpital de Verdun,2024-03-20 10:45:00,109.0,79.0,140.0
-Hôpital de Verdun,2024-03-20 11:45:00,106.0,75.0,137.0
-Hôpital de Verdun,2024-03-20 12:45:00,103.0,72.0,132.0
-Hôpital de Verdun,2024-03-20 13:45:00,100.0,70.0,130.0
-Hôpital de Verdun,2024-03-20 14:45:00,99.0,68.0,130.0
-Hôpital de Verdun,2024-03-20 15:45:00,99.0,67.0,129.0
-Hôpital de Verdun,2024-03-20 16:45:00,101.0,72.0,133.0
-Hôpital de Verdun,2024-03-20 17:45:00,104.0,73.0,135.0
-Hôpital de Verdun,2024-03-20 18:45:00,106.0,75.0,137.0
-Hôpital de Verdun,2024-03-20 19:45:00,107.0,75.0,137.0
-Hôpital de Verdun,2024-03-20 20:45:00,107.0,76.0,139.0
-Hôpital de Verdun,2024-03-20 21:45:00,108.0,76.0,139.0
-Hôpital de Verdun,2024-03-20 22:45:00,109.0,77.0,139.0
-Hôpital de Verdun,2024-03-20 23:45:00,110.0,80.0,141.0
-Hôpital de Verdun,2024-03-21 00:45:00,111.0,83.0,142.0
-Hôpital de Verdun,2024-03-21 01:45:00,112.0,80.0,139.0
-Hôpital de Verdun,2024-03-21 02:45:00,112.0,79.0,142.0
-Hôpital de Verdun,2024-03-21 03:45:00,112.0,79.0,142.0
-Hôpital de Verdun,2024-03-21 04:45:00,112.0,81.0,143.0
-Hôpital de Verdun,2024-03-21 05:45:00,112.0,83.0,144.0
-Hôpital de Verdun,2024-03-21 06:45:00,112.0,80.0,142.0
-Hôpital de Verdun,2024-03-21 07:45:00,112.0,83.0,144.0
+Hôpital de Verdun,2024-03-20 08:45:00,110.0,79.0,140.0
+Hôpital de Verdun,2024-03-20 09:45:00,110.0,80.0,142.0
+Hôpital de Verdun,2024-03-20 10:45:00,109.0,78.0,140.0
+Hôpital de Verdun,2024-03-20 11:45:00,107.0,76.0,133.0
+Hôpital de Verdun,2024-03-20 12:45:00,104.0,73.0,135.0
+Hôpital de Verdun,2024-03-20 13:45:00,101.0,71.0,133.0
+Hôpital de Verdun,2024-03-20 14:45:00,99.0,67.0,129.0
+Hôpital de Verdun,2024-03-20 15:45:00,100.0,69.0,128.0
+Hôpital de Verdun,2024-03-20 16:45:00,101.0,72.0,131.0
+Hôpital de Verdun,2024-03-20 17:45:00,104.0,72.0,135.0
+Hôpital de Verdun,2024-03-20 18:45:00,106.0,75.0,135.0
+Hôpital de Verdun,2024-03-20 19:45:00,107.0,76.0,136.0
+Hôpital de Verdun,2024-03-20 20:45:00,108.0,77.0,137.0
+Hôpital de Verdun,2024-03-20 21:45:00,108.0,79.0,141.0
+Hôpital de Verdun,2024-03-20 22:45:00,110.0,81.0,141.0
+Hôpital de Verdun,2024-03-20 23:45:00,111.0,81.0,140.0
+Hôpital de Verdun,2024-03-21 00:45:00,112.0,81.0,143.0
+Hôpital de Verdun,2024-03-21 01:45:00,112.0,81.0,141.0
+Hôpital de Verdun,2024-03-21 02:45:00,112.0,82.0,142.0
+Hôpital de Verdun,2024-03-21 03:45:00,112.0,79.0,143.0
+Hôpital de Verdun,2024-03-21 04:45:00,112.0,81.0,142.0
+Hôpital de Verdun,2024-03-21 05:45:00,112.0,80.0,142.0
+Hôpital de Verdun,2024-03-21 06:45:00,112.0,82.0,145.0
+Hôpital de Verdun,2024-03-21 07:45:00,112.0,82.0,145.0
 Hôpital de Verdun,2024-03-21 08:45:00,112.0,83.0,143.0
-Hôpital de Verdun,2024-03-21 09:45:00,112.0,78.0,142.0
-Hôpital Douglas,2024-03-19 08:45:00,124.0,91.0,159.0
-Hôpital Douglas,2024-03-19 09:45:00,127.0,91.0,162.0
-Hôpital Douglas,2024-03-19 10:45:00,128.0,93.0,164.0
-Hôpital Douglas,2024-03-19 11:45:00,128.0,93.0,162.0
-Hôpital Douglas,2024-03-19 12:45:00,127.0,92.0,163.0
-Hôpital Douglas,2024-03-19 13:45:00,126.0,90.0,160.0
-Hôpital Douglas,2024-03-19 14:45:00,124.0,89.0,160.0
-Hôpital Douglas,2024-03-19 15:45:00,122.0,87.0,153.0
-Hôpital Douglas,2024-03-19 16:45:00,119.0,84.0,154.0
-Hôpital Douglas,2024-03-19 17:45:00,116.0,82.0,150.0
-Hôpital Douglas,2024-03-19 18:45:00,113.0,82.0,147.0
-Hôpital Douglas,2024-03-19 19:45:00,110.0,76.0,146.0
-Hôpital Douglas,2024-03-19 20:45:00,108.0,74.0,142.0
-Hôpital Douglas,2024-03-19 21:45:00,106.0,71.0,137.0
-Hôpital Douglas,2024-03-19 22:45:00,105.0,70.0,140.0
-Hôpital Douglas,2024-03-19 23:45:00,106.0,71.0,141.0
-Hôpital Douglas,2024-03-20 00:45:00,107.0,73.0,141.0
-Hôpital Douglas,2024-03-20 01:45:00,110.0,73.0,146.0
-Hôpital Douglas,2024-03-20 02:45:00,112.0,77.0,148.0
-Hôpital Douglas,2024-03-20 03:45:00,115.0,78.0,147.0
-Hôpital Douglas,2024-03-20 04:45:00,117.0,82.0,151.0
-Hôpital Douglas,2024-03-20 05:45:00,119.0,84.0,152.0
-Hôpital Douglas,2024-03-20 06:45:00,121.0,89.0,154.0
-Hôpital Douglas,2024-03-20 07:45:00,123.0,88.0,157.0
-Hôpital Douglas,2024-03-20 08:45:00,125.0,90.0,158.0
-Hôpital Douglas,2024-03-20 09:45:00,127.0,91.0,159.0
-Hôpital Douglas,2024-03-20 10:45:00,128.0,93.0,164.0
-Hôpital Douglas,2024-03-20 11:45:00,128.0,93.0,165.0
-Hôpital Douglas,2024-03-20 12:45:00,126.0,89.0,161.0
-Hôpital Douglas,2024-03-20 13:45:00,125.0,89.0,158.0
-Hôpital Douglas,2024-03-20 14:45:00,122.0,86.0,159.0
-Hôpital Douglas,2024-03-20 15:45:00,119.0,84.0,154.0
-Hôpital Douglas,2024-03-20 16:45:00,117.0,83.0,153.0
-Hôpital Douglas,2024-03-20 17:45:00,113.0,77.0,150.0
-Hôpital Douglas,2024-03-20 18:45:00,110.0,74.0,145.0
-Hôpital Douglas,2024-03-20 19:45:00,106.0,71.0,142.0
-Hôpital Douglas,2024-03-20 20:45:00,104.0,67.0,141.0
-Hôpital Douglas,2024-03-20 21:45:00,101.0,65.0,139.0
-Hôpital Douglas,2024-03-20 22:45:00,101.0,69.0,136.0
-Hôpital Douglas,2024-03-20 23:45:00,101.0,66.0,134.0
-Hôpital Douglas,2024-03-21 00:45:00,102.0,67.0,137.0
-Hôpital Douglas,2024-03-21 01:45:00,104.0,68.0,137.0
-Hôpital Douglas,2024-03-21 02:45:00,107.0,70.0,142.0
-Hôpital Douglas,2024-03-21 03:45:00,109.0,78.0,145.0
-Hôpital Douglas,2024-03-21 04:45:00,111.0,76.0,145.0
-Hôpital Douglas,2024-03-21 05:45:00,113.0,78.0,146.0
-Hôpital Douglas,2024-03-21 06:45:00,115.0,81.0,151.0
-Hôpital Douglas,2024-03-21 07:45:00,117.0,84.0,151.0
-Hôpital Douglas,2024-03-21 08:45:00,119.0,86.0,154.0
-Hôpital Douglas,2024-03-21 09:45:00,121.0,87.0,157.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 08:45:00,115.0,46.0,184.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 09:45:00,116.0,45.0,190.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 10:45:00,119.0,51.0,188.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 11:45:00,120.0,51.0,186.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 12:45:00,117.0,49.0,186.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 13:45:00,110.0,34.0,179.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 14:45:00,101.0,37.0,172.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 15:45:00,93.0,24.0,165.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 16:45:00,89.0,24.0,162.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 17:45:00,87.0,20.0,151.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 18:45:00,84.0,11.0,156.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 19:45:00,82.0,8.0,154.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 20:45:00,82.0,15.0,155.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 21:45:00,85.0,20.0,156.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 22:45:00,91.0,26.0,164.0
-Hôpital Maisonneuve-Rosemont,2024-03-19 23:45:00,98.0,29.0,164.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 00:45:00,102.0,30.0,171.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 01:45:00,104.0,32.0,176.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 02:45:00,105.0,35.0,174.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 03:45:00,106.0,38.0,175.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 04:45:00,108.0,40.0,174.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 05:45:00,111.0,40.0,182.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 06:45:00,111.0,47.0,179.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 07:45:00,110.0,41.0,173.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 08:45:00,110.0,38.0,177.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 09:45:00,112.0,47.0,176.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 10:45:00,116.0,48.0,184.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 11:45:00,118.0,48.0,187.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 12:45:00,115.0,45.0,186.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 13:45:00,109.0,41.0,179.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 14:45:00,100.0,29.0,170.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 15:45:00,94.0,26.0,157.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 16:45:00,90.0,20.0,159.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 17:45:00,88.0,17.0,160.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 18:45:00,86.0,18.0,155.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 19:45:00,85.0,17.0,155.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 20:45:00,85.0,15.0,156.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 21:45:00,88.0,14.0,155.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 22:45:00,94.0,29.0,164.0
-Hôpital Maisonneuve-Rosemont,2024-03-20 23:45:00,101.0,31.0,171.0
-Hôpital Maisonneuve-Rosemont,2024-03-21 00:45:00,106.0,33.0,176.0
-Hôpital Maisonneuve-Rosemont,2024-03-21 01:45:00,107.0,41.0,178.0
-Hôpital Maisonneuve-Rosemont,2024-03-21 02:45:00,108.0,35.0,177.0
-Hôpital Maisonneuve-Rosemont,2024-03-21 03:45:00,109.0,38.0,179.0
-Hôpital Maisonneuve-Rosemont,2024-03-21 04:45:00,111.0,44.0,177.0
-Hôpital Maisonneuve-Rosemont,2024-03-21 05:45:00,114.0,43.0,181.0
-Hôpital Maisonneuve-Rosemont,2024-03-21 06:45:00,114.0,44.0,177.0
-Hôpital Maisonneuve-Rosemont,2024-03-21 07:45:00,113.0,45.0,180.0
-Hôpital Maisonneuve-Rosemont,2024-03-21 08:45:00,113.0,46.0,183.0
-Hôpital Maisonneuve-Rosemont,2024-03-21 09:45:00,114.0,44.0,182.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 08:45:00,134.0,116.0,153.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 09:45:00,135.0,117.0,153.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 10:45:00,135.0,116.0,152.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 11:45:00,135.0,118.0,152.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 12:45:00,135.0,115.0,152.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 13:45:00,135.0,117.0,153.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 14:45:00,134.0,116.0,152.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 15:45:00,133.0,115.0,150.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 16:45:00,131.0,113.0,148.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 17:45:00,130.0,113.0,148.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 18:45:00,130.0,112.0,147.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 19:45:00,130.0,112.0,147.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 20:45:00,129.0,112.0,146.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 21:45:00,128.0,111.0,146.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 22:45:00,127.0,109.0,143.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-19 23:45:00,126.0,108.0,144.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 00:45:00,126.0,109.0,143.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 01:45:00,127.0,110.0,144.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 02:45:00,128.0,109.0,145.0
+Hôpital de Verdun,2024-03-21 09:45:00,112.0,82.0,142.0
+Hôpital de Verdun,2024-03-21 10:45:00,111.0,79.0,140.0
+Hôpital de Verdun,2024-03-21 11:45:00,108.0,76.0,138.0
+Hôpital de Verdun,2024-03-21 12:45:00,105.0,74.0,136.0
+Hôpital de Verdun,2024-03-21 13:45:00,102.0,71.0,134.0
+Hôpital de Verdun,2024-03-21 14:45:00,100.0,71.0,132.0
+Hôpital de Verdun,2024-03-21 15:45:00,100.0,68.0,130.0
+Hôpital de Verdun,2024-03-21 16:45:00,102.0,70.0,132.0
+Hôpital de Verdun,2024-03-21 17:45:00,104.0,74.0,136.0
+Hôpital de Verdun,2024-03-21 18:45:00,106.0,74.0,133.0
+Hôpital de Verdun,2024-03-21 19:45:00,107.0,76.0,138.0
+Hôpital de Verdun,2024-03-21 20:45:00,107.0,76.0,137.0
+Hôpital de Verdun,2024-03-21 21:45:00,107.0,79.0,140.0
+Hôpital de Verdun,2024-03-21 22:45:00,108.0,79.0,140.0
+Hôpital de Verdun,2024-03-21 23:45:00,109.0,79.0,139.0
+Hôpital de Verdun,2024-03-22 00:45:00,109.0,77.0,142.0
+Hôpital de Verdun,2024-03-22 01:45:00,109.0,77.0,141.0
+Hôpital de Verdun,2024-03-22 02:45:00,109.0,78.0,139.0
+Hôpital de Verdun,2024-03-22 03:45:00,108.0,76.0,139.0
+Hôpital de Verdun,2024-03-22 04:45:00,108.0,76.0,140.0
+Hôpital de Verdun,2024-03-22 05:45:00,108.0,77.0,139.0
+Hôpital de Verdun,2024-03-22 06:45:00,108.0,76.0,137.0
+Hôpital de Verdun,2024-03-22 07:45:00,107.0,76.0,140.0
+Hôpital de Verdun,2024-03-22 08:45:00,107.0,76.0,137.0
+Hôpital de Verdun,2024-03-22 09:45:00,106.0,77.0,136.0
+Hôpital de Verdun,2024-03-22 10:45:00,105.0,74.0,136.0
+Hôpital de Verdun,2024-03-22 11:45:00,102.0,71.0,135.0
+Hôpital de Verdun,2024-03-22 12:45:00,98.0,69.0,129.0
+Hôpital de Verdun,2024-03-22 13:45:00,95.0,66.0,126.0
+Hôpital de Verdun,2024-03-22 14:45:00,93.0,62.0,125.0
+Hôpital de Verdun,2024-03-22 15:45:00,93.0,63.0,121.0
+Hôpital de Verdun,2024-03-22 16:45:00,94.0,65.0,125.0
+Hôpital de Verdun,2024-03-22 17:45:00,96.0,64.0,129.0
+Hôpital de Verdun,2024-03-22 18:45:00,98.0,66.0,127.0
+Hôpital de Verdun,2024-03-22 19:45:00,98.0,66.0,130.0
+Hôpital de Verdun,2024-03-22 20:45:00,99.0,70.0,131.0
+Hôpital de Verdun,2024-03-22 21:45:00,99.0,70.0,129.0
+Hôpital de Verdun,2024-03-22 22:45:00,100.0,69.0,132.0
+Hôpital de Verdun,2024-03-22 23:45:00,101.0,71.0,132.0
+Hôpital de Verdun,2024-03-23 00:45:00,101.0,70.0,132.0
+Hôpital de Verdun,2024-03-23 01:45:00,101.0,71.0,133.0
+Hôpital de Verdun,2024-03-23 02:45:00,101.0,70.0,131.0
+Hôpital de Verdun,2024-03-23 03:45:00,101.0,72.0,132.0
+Hôpital de Verdun,2024-03-23 04:45:00,101.0,71.0,131.0
+Hôpital de Verdun,2024-03-23 05:45:00,101.0,68.0,132.0
+Hôpital de Verdun,2024-03-23 06:45:00,101.0,71.0,131.0
+Hôpital Douglas,2024-03-19 23:45:00,105.0,71.0,138.0
+Hôpital Douglas,2024-03-20 00:45:00,107.0,73.0,142.0
+Hôpital Douglas,2024-03-20 01:45:00,109.0,75.0,145.0
+Hôpital Douglas,2024-03-20 02:45:00,112.0,78.0,146.0
+Hôpital Douglas,2024-03-20 03:45:00,114.0,80.0,148.0
+Hôpital Douglas,2024-03-20 04:45:00,117.0,81.0,152.0
+Hôpital Douglas,2024-03-20 05:45:00,119.0,86.0,156.0
+Hôpital Douglas,2024-03-20 06:45:00,121.0,85.0,155.0
+Hôpital Douglas,2024-03-20 07:45:00,123.0,89.0,160.0
+Hôpital Douglas,2024-03-20 08:45:00,125.0,91.0,159.0
+Hôpital Douglas,2024-03-20 09:45:00,127.0,90.0,160.0
+Hôpital Douglas,2024-03-20 10:45:00,127.0,95.0,163.0
+Hôpital Douglas,2024-03-20 11:45:00,127.0,94.0,164.0
+Hôpital Douglas,2024-03-20 12:45:00,126.0,91.0,161.0
+Hôpital Douglas,2024-03-20 13:45:00,124.0,93.0,159.0
+Hôpital Douglas,2024-03-20 14:45:00,122.0,89.0,157.0
+Hôpital Douglas,2024-03-20 15:45:00,119.0,86.0,155.0
+Hôpital Douglas,2024-03-20 16:45:00,116.0,82.0,150.0
+Hôpital Douglas,2024-03-20 17:45:00,113.0,76.0,148.0
+Hôpital Douglas,2024-03-20 18:45:00,110.0,76.0,145.0
+Hôpital Douglas,2024-03-20 19:45:00,106.0,71.0,143.0
+Hôpital Douglas,2024-03-20 20:45:00,103.0,68.0,137.0
+Hôpital Douglas,2024-03-20 21:45:00,101.0,66.0,137.0
+Hôpital Douglas,2024-03-20 22:45:00,100.0,65.0,135.0
+Hôpital Douglas,2024-03-20 23:45:00,101.0,64.0,136.0
+Hôpital Douglas,2024-03-21 00:45:00,102.0,66.0,136.0
+Hôpital Douglas,2024-03-21 01:45:00,104.0,69.0,139.0
+Hôpital Douglas,2024-03-21 02:45:00,106.0,72.0,143.0
+Hôpital Douglas,2024-03-21 03:45:00,109.0,72.0,143.0
+Hôpital Douglas,2024-03-21 04:45:00,111.0,78.0,147.0
+Hôpital Douglas,2024-03-21 05:45:00,113.0,78.0,148.0
+Hôpital Douglas,2024-03-21 06:45:00,115.0,79.0,150.0
+Hôpital Douglas,2024-03-21 07:45:00,117.0,79.0,152.0
+Hôpital Douglas,2024-03-21 08:45:00,119.0,83.0,153.0
+Hôpital Douglas,2024-03-21 09:45:00,121.0,87.0,154.0
+Hôpital Douglas,2024-03-21 10:45:00,122.0,85.0,155.0
+Hôpital Douglas,2024-03-21 11:45:00,122.0,89.0,156.0
+Hôpital Douglas,2024-03-21 12:45:00,121.0,85.0,157.0
+Hôpital Douglas,2024-03-21 13:45:00,119.0,84.0,152.0
+Hôpital Douglas,2024-03-21 14:45:00,117.0,79.0,152.0
+Hôpital Douglas,2024-03-21 15:45:00,115.0,78.0,151.0
+Hôpital Douglas,2024-03-21 16:45:00,112.0,77.0,147.0
+Hôpital Douglas,2024-03-21 17:45:00,109.0,77.0,144.0
+Hôpital Douglas,2024-03-21 18:45:00,106.0,69.0,141.0
+Hôpital Douglas,2024-03-21 19:45:00,103.0,67.0,140.0
+Hôpital Douglas,2024-03-21 20:45:00,100.0,67.0,135.0
+Hôpital Douglas,2024-03-21 21:45:00,98.0,63.0,133.0
+Hôpital Douglas,2024-03-21 22:45:00,98.0,63.0,134.0
+Hôpital Douglas,2024-03-21 23:45:00,98.0,62.0,134.0
+Hôpital Douglas,2024-03-22 00:45:00,100.0,64.0,132.0
+Hôpital Douglas,2024-03-22 01:45:00,102.0,68.0,139.0
+Hôpital Douglas,2024-03-22 02:45:00,104.0,69.0,140.0
+Hôpital Douglas,2024-03-22 03:45:00,107.0,73.0,140.0
+Hôpital Douglas,2024-03-22 04:45:00,109.0,74.0,144.0
+Hôpital Douglas,2024-03-22 05:45:00,111.0,77.0,144.0
+Hôpital Douglas,2024-03-22 06:45:00,113.0,76.0,145.0
+Hôpital Douglas,2024-03-22 07:45:00,115.0,81.0,149.0
+Hôpital Douglas,2024-03-22 08:45:00,117.0,84.0,153.0
+Hôpital Douglas,2024-03-22 09:45:00,119.0,87.0,152.0
+Hôpital Douglas,2024-03-22 10:45:00,120.0,85.0,152.0
+Hôpital Douglas,2024-03-22 11:45:00,119.0,84.0,153.0
+Hôpital Douglas,2024-03-22 12:45:00,118.0,86.0,153.0
+Hôpital Douglas,2024-03-22 13:45:00,116.0,82.0,151.0
+Hôpital Douglas,2024-03-22 14:45:00,114.0,80.0,149.0
+Hôpital Douglas,2024-03-22 15:45:00,111.0,78.0,146.0
+Hôpital Douglas,2024-03-22 16:45:00,108.0,73.0,140.0
+Hôpital Douglas,2024-03-22 17:45:00,104.0,69.0,139.0
+Hôpital Douglas,2024-03-22 18:45:00,100.0,66.0,136.0
+Hôpital Douglas,2024-03-22 19:45:00,97.0,62.0,133.0
+Hôpital Douglas,2024-03-22 20:45:00,94.0,60.0,128.0
+Hôpital Douglas,2024-03-22 21:45:00,91.0,57.0,128.0
+Hôpital Douglas,2024-03-22 22:45:00,90.0,55.0,127.0
+Hôpital Douglas,2024-03-22 23:45:00,90.0,56.0,126.0
+Hôpital Douglas,2024-03-23 00:45:00,91.0,55.0,127.0
+Hôpital Douglas,2024-03-23 01:45:00,92.0,54.0,127.0
+Hôpital Douglas,2024-03-23 02:45:00,94.0,60.0,128.0
+Hôpital Douglas,2024-03-23 03:45:00,96.0,62.0,129.0
+Hôpital Douglas,2024-03-23 04:45:00,98.0,65.0,133.0
+Hôpital Douglas,2024-03-23 05:45:00,99.0,63.0,135.0
+Hôpital Douglas,2024-03-23 06:45:00,101.0,66.0,134.0
+Hôpital Maisonneuve-Rosemont,2024-03-19 23:45:00,98.0,30.0,166.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 00:45:00,102.0,33.0,171.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 01:45:00,104.0,37.0,178.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 02:45:00,104.0,38.0,175.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 03:45:00,106.0,42.0,179.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 04:45:00,108.0,41.0,178.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 05:45:00,111.0,45.0,181.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 06:45:00,111.0,38.0,183.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 07:45:00,110.0,44.0,182.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 08:45:00,110.0,43.0,181.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 09:45:00,112.0,45.0,180.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 10:45:00,116.0,45.0,181.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 11:45:00,118.0,45.0,188.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 12:45:00,115.0,48.0,189.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 13:45:00,109.0,41.0,180.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 14:45:00,100.0,33.0,170.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 15:45:00,94.0,22.0,160.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 16:45:00,90.0,19.0,162.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 17:45:00,88.0,19.0,159.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 18:45:00,86.0,16.0,159.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 19:45:00,85.0,16.0,151.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 20:45:00,84.0,20.0,153.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 21:45:00,88.0,21.0,159.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 22:45:00,94.0,25.0,163.0
+Hôpital Maisonneuve-Rosemont,2024-03-20 23:45:00,101.0,29.0,169.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 00:45:00,105.0,30.0,174.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 01:45:00,107.0,39.0,173.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 02:45:00,108.0,40.0,173.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 03:45:00,109.0,34.0,176.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 04:45:00,111.0,39.0,178.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 05:45:00,114.0,45.0,182.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 06:45:00,114.0,44.0,180.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 07:45:00,113.0,44.0,186.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 08:45:00,112.0,39.0,182.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 09:45:00,114.0,45.0,182.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 10:45:00,117.0,51.0,184.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 11:45:00,119.0,41.0,185.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 12:45:00,116.0,46.0,181.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 13:45:00,109.0,33.0,177.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 14:45:00,100.0,29.0,174.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 15:45:00,93.0,25.0,162.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 16:45:00,89.0,23.0,156.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 17:45:00,87.0,19.0,150.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 18:45:00,84.0,10.0,154.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 19:45:00,82.0,15.0,154.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 20:45:00,81.0,15.0,147.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 21:45:00,84.0,11.0,153.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 22:45:00,90.0,19.0,157.0
+Hôpital Maisonneuve-Rosemont,2024-03-21 23:45:00,96.0,31.0,166.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 00:45:00,100.0,31.0,169.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 01:45:00,101.0,37.0,172.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 02:45:00,101.0,33.0,175.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 03:45:00,102.0,32.0,169.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 04:45:00,103.0,40.0,171.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 05:45:00,105.0,35.0,173.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 06:45:00,105.0,34.0,174.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 07:45:00,103.0,33.0,173.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 08:45:00,102.0,34.0,168.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 09:45:00,103.0,39.0,171.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 10:45:00,106.0,39.0,173.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 11:45:00,107.0,34.0,173.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 12:45:00,104.0,29.0,171.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 13:45:00,97.0,29.0,172.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 14:45:00,88.0,21.0,154.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 15:45:00,80.0,15.0,149.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 16:45:00,76.0,8.0,147.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 17:45:00,73.0,2.0,142.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 18:45:00,71.0,3.0,139.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 19:45:00,69.0,-2.0,135.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 20:45:00,69.0,2.0,139.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 21:45:00,72.0,2.0,141.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 22:45:00,78.0,8.0,145.0
+Hôpital Maisonneuve-Rosemont,2024-03-22 23:45:00,85.0,11.0,153.0
+Hôpital Maisonneuve-Rosemont,2024-03-23 00:45:00,89.0,15.0,159.0
+Hôpital Maisonneuve-Rosemont,2024-03-23 01:45:00,91.0,22.0,161.0
+Hôpital Maisonneuve-Rosemont,2024-03-23 02:45:00,92.0,20.0,158.0
+Hôpital Maisonneuve-Rosemont,2024-03-23 03:45:00,93.0,22.0,158.0
+Hôpital Maisonneuve-Rosemont,2024-03-23 04:45:00,96.0,26.0,163.0
+Hôpital Maisonneuve-Rosemont,2024-03-23 05:45:00,99.0,36.0,165.0
+Hôpital Maisonneuve-Rosemont,2024-03-23 06:45:00,100.0,36.0,169.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-19 23:45:00,125.0,109.0,144.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 00:45:00,126.0,107.0,144.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 01:45:00,126.0,109.0,144.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 02:45:00,127.0,108.0,145.0
 Hôpital du Sacré-Cœur de Montréal,2024-03-20 03:45:00,128.0,111.0,146.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 04:45:00,129.0,110.0,145.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 05:45:00,130.0,111.0,148.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 06:45:00,131.0,112.0,150.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 07:45:00,132.0,114.0,150.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 08:45:00,133.0,116.0,151.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 09:45:00,133.0,115.0,152.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 10:45:00,133.0,114.0,150.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 11:45:00,132.0,114.0,152.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 12:45:00,132.0,116.0,151.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 13:45:00,132.0,114.0,150.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 14:45:00,131.0,114.0,149.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 15:45:00,130.0,113.0,148.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 16:45:00,129.0,110.0,147.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 17:45:00,128.0,111.0,145.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 18:45:00,127.0,110.0,145.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 19:45:00,127.0,109.0,146.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 20:45:00,127.0,109.0,145.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 21:45:00,126.0,108.0,144.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 22:45:00,124.0,107.0,143.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-20 23:45:00,124.0,107.0,142.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-21 00:45:00,124.0,107.0,142.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-21 01:45:00,125.0,106.0,142.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-21 02:45:00,126.0,107.0,144.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-21 03:45:00,127.0,109.0,145.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 04:45:00,128.0,111.0,145.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 05:45:00,129.0,113.0,147.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 06:45:00,130.0,111.0,147.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 07:45:00,132.0,113.0,149.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 08:45:00,132.0,115.0,150.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 09:45:00,132.0,113.0,150.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 10:45:00,132.0,114.0,150.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 11:45:00,132.0,114.0,151.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 12:45:00,132.0,116.0,149.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 13:45:00,132.0,112.0,150.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 14:45:00,131.0,113.0,148.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 15:45:00,130.0,111.0,148.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 16:45:00,128.0,111.0,146.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 17:45:00,127.0,109.0,146.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 18:45:00,127.0,110.0,144.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 19:45:00,127.0,108.0,145.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 20:45:00,126.0,108.0,144.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 21:45:00,125.0,107.0,142.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 22:45:00,124.0,106.0,140.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-20 23:45:00,124.0,105.0,141.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 00:45:00,124.0,106.0,143.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 01:45:00,125.0,106.0,144.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 02:45:00,126.0,107.0,143.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 03:45:00,126.0,109.0,144.0
 Hôpital du Sacré-Cœur de Montréal,2024-03-21 04:45:00,127.0,109.0,144.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-21 05:45:00,128.0,112.0,146.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-21 06:45:00,129.0,111.0,148.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-21 07:45:00,131.0,112.0,147.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-21 08:45:00,131.0,114.0,148.0
-Hôpital du Sacré-Cœur de Montréal,2024-03-21 09:45:00,131.0,113.0,149.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 08:45:00,109.0,90.0,128.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 09:45:00,109.0,89.0,128.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 10:45:00,109.0,88.0,130.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 11:45:00,109.0,88.0,130.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 12:45:00,108.0,90.0,129.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 13:45:00,107.0,88.0,126.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 14:45:00,106.0,86.0,125.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 15:45:00,104.0,84.0,124.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 16:45:00,102.0,82.0,121.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 17:45:00,101.0,80.0,121.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 18:45:00,100.0,80.0,120.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 19:45:00,100.0,80.0,119.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 20:45:00,100.0,80.0,120.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 21:45:00,100.0,80.0,120.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-19 22:45:00,100.0,80.0,121.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 05:45:00,128.0,110.0,146.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 06:45:00,129.0,110.0,147.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 07:45:00,130.0,112.0,148.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 08:45:00,131.0,114.0,149.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 09:45:00,131.0,113.0,150.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 10:45:00,131.0,114.0,148.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 11:45:00,131.0,113.0,148.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 12:45:00,130.0,114.0,149.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 13:45:00,130.0,113.0,147.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 14:45:00,129.0,112.0,146.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 15:45:00,127.0,109.0,146.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 16:45:00,126.0,108.0,143.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 17:45:00,125.0,108.0,143.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 18:45:00,124.0,106.0,142.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 19:45:00,123.0,107.0,141.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 20:45:00,123.0,104.0,140.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 21:45:00,121.0,103.0,140.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 22:45:00,120.0,102.0,138.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-21 23:45:00,118.0,101.0,136.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 00:45:00,118.0,100.0,135.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 01:45:00,118.0,101.0,138.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 02:45:00,119.0,101.0,137.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 03:45:00,119.0,102.0,137.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 04:45:00,119.0,101.0,138.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 05:45:00,120.0,101.0,138.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 06:45:00,120.0,102.0,137.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 07:45:00,121.0,104.0,138.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 08:45:00,121.0,103.0,139.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 09:45:00,121.0,103.0,138.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 10:45:00,120.0,102.0,139.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 11:45:00,120.0,103.0,137.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 12:45:00,119.0,100.0,138.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 13:45:00,118.0,100.0,136.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 14:45:00,117.0,98.0,134.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 15:45:00,115.0,98.0,133.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 16:45:00,113.0,95.0,131.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 17:45:00,112.0,95.0,130.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 18:45:00,111.0,94.0,129.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 19:45:00,110.0,92.0,128.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 20:45:00,109.0,91.0,128.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 21:45:00,108.0,90.0,126.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 22:45:00,106.0,90.0,124.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-22 23:45:00,105.0,87.0,123.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-23 00:45:00,105.0,88.0,124.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-23 01:45:00,106.0,88.0,124.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-23 02:45:00,107.0,88.0,125.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-23 03:45:00,107.0,90.0,125.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-23 04:45:00,108.0,90.0,126.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-23 05:45:00,108.0,91.0,126.0
+Hôpital du Sacré-Cœur de Montréal,2024-03-23 06:45:00,109.0,90.0,127.0
 Hôpital en Santé Mentale Albert-Prévost,2024-03-19 23:45:00,100.0,80.0,120.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 00:45:00,100.0,81.0,120.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 01:45:00,100.0,80.0,119.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 02:45:00,100.0,81.0,121.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 03:45:00,100.0,81.0,120.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 04:45:00,100.0,80.0,120.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 05:45:00,100.0,80.0,119.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 06:45:00,100.0,80.0,120.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 07:45:00,101.0,80.0,119.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 08:45:00,101.0,83.0,122.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 09:45:00,101.0,81.0,123.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 10:45:00,101.0,81.0,120.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 11:45:00,101.0,83.0,120.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 12:45:00,101.0,80.0,122.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 13:45:00,99.0,78.0,117.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 14:45:00,98.0,78.0,119.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 15:45:00,96.0,78.0,116.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 16:45:00,95.0,75.0,115.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 17:45:00,94.0,75.0,113.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 18:45:00,93.0,72.0,113.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 19:45:00,94.0,75.0,114.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 20:45:00,94.0,75.0,114.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 21:45:00,95.0,73.0,115.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 22:45:00,95.0,75.0,115.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-20 23:45:00,95.0,75.0,114.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-21 00:45:00,96.0,74.0,116.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-21 01:45:00,96.0,75.0,117.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-21 02:45:00,97.0,76.0,117.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-21 03:45:00,97.0,76.0,115.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-21 04:45:00,97.0,78.0,118.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-21 05:45:00,98.0,78.0,118.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-21 06:45:00,98.0,78.0,118.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-21 07:45:00,99.0,80.0,121.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-21 08:45:00,100.0,80.0,119.0
-Hôpital en Santé Mentale Albert-Prévost,2024-03-21 09:45:00,100.0,80.0,120.0
-Hôpital Fleury,2024-03-19 08:45:00,116.0,88.0,147.0
-Hôpital Fleury,2024-03-19 09:45:00,116.0,86.0,144.0
-Hôpital Fleury,2024-03-19 10:45:00,116.0,88.0,146.0
-Hôpital Fleury,2024-03-19 11:45:00,115.0,86.0,144.0
-Hôpital Fleury,2024-03-19 12:45:00,114.0,85.0,144.0
-Hôpital Fleury,2024-03-19 13:45:00,112.0,82.0,142.0
-Hôpital Fleury,2024-03-19 14:45:00,110.0,81.0,141.0
-Hôpital Fleury,2024-03-19 15:45:00,107.0,78.0,135.0
-Hôpital Fleury,2024-03-19 16:45:00,105.0,74.0,133.0
-Hôpital Fleury,2024-03-19 17:45:00,104.0,73.0,133.0
-Hôpital Fleury,2024-03-19 18:45:00,104.0,74.0,134.0
-Hôpital Fleury,2024-03-19 19:45:00,104.0,75.0,132.0
-Hôpital Fleury,2024-03-19 20:45:00,105.0,75.0,135.0
-Hôpital Fleury,2024-03-19 21:45:00,106.0,76.0,135.0
-Hôpital Fleury,2024-03-19 22:45:00,107.0,76.0,137.0
-Hôpital Fleury,2024-03-19 23:45:00,108.0,81.0,137.0
-Hôpital Fleury,2024-03-20 00:45:00,110.0,78.0,139.0
-Hôpital Fleury,2024-03-20 01:45:00,111.0,82.0,140.0
-Hôpital Fleury,2024-03-20 02:45:00,112.0,83.0,141.0
-Hôpital Fleury,2024-03-20 03:45:00,113.0,85.0,145.0
-Hôpital Fleury,2024-03-20 04:45:00,115.0,84.0,143.0
-Hôpital Fleury,2024-03-20 05:45:00,117.0,88.0,147.0
-Hôpital Fleury,2024-03-20 06:45:00,118.0,87.0,148.0
-Hôpital Fleury,2024-03-20 07:45:00,119.0,89.0,146.0
-Hôpital Fleury,2024-03-20 08:45:00,119.0,89.0,151.0
-Hôpital Fleury,2024-03-20 09:45:00,119.0,90.0,148.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 00:45:00,100.0,80.0,120.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 01:45:00,100.0,82.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 02:45:00,100.0,79.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 03:45:00,100.0,80.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 04:45:00,100.0,82.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 05:45:00,100.0,81.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 06:45:00,100.0,81.0,120.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 07:45:00,101.0,81.0,122.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 08:45:00,101.0,82.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 09:45:00,102.0,79.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 10:45:00,102.0,80.0,123.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 11:45:00,101.0,83.0,122.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 12:45:00,101.0,80.0,120.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 13:45:00,100.0,79.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 14:45:00,98.0,79.0,117.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 15:45:00,96.0,77.0,115.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 16:45:00,95.0,74.0,113.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 17:45:00,94.0,74.0,112.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 18:45:00,94.0,74.0,113.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 19:45:00,94.0,74.0,113.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 20:45:00,94.0,74.0,116.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 21:45:00,95.0,76.0,116.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 22:45:00,95.0,77.0,116.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-20 23:45:00,95.0,74.0,115.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 00:45:00,96.0,77.0,116.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 01:45:00,96.0,76.0,116.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 02:45:00,97.0,77.0,118.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 03:45:00,97.0,79.0,118.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 04:45:00,97.0,78.0,117.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 05:45:00,98.0,78.0,117.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 06:45:00,98.0,78.0,120.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 07:45:00,99.0,79.0,119.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 08:45:00,100.0,81.0,119.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 09:45:00,101.0,80.0,120.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 10:45:00,101.0,81.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 11:45:00,101.0,82.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 12:45:00,100.0,81.0,119.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 13:45:00,100.0,80.0,121.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 14:45:00,98.0,77.0,116.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 15:45:00,97.0,79.0,116.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 16:45:00,95.0,74.0,115.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 17:45:00,94.0,76.0,116.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 18:45:00,94.0,76.0,115.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 19:45:00,94.0,75.0,114.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 20:45:00,94.0,74.0,113.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 21:45:00,95.0,74.0,114.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 22:45:00,95.0,76.0,116.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-21 23:45:00,95.0,74.0,116.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 00:45:00,95.0,73.0,114.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 01:45:00,95.0,74.0,114.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 02:45:00,95.0,74.0,115.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 03:45:00,95.0,75.0,113.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 04:45:00,95.0,74.0,114.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 05:45:00,94.0,75.0,114.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 06:45:00,94.0,73.0,114.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 07:45:00,94.0,76.0,115.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 08:45:00,95.0,75.0,114.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 09:45:00,95.0,75.0,115.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 10:45:00,95.0,75.0,115.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 11:45:00,94.0,74.0,114.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 12:45:00,93.0,73.0,113.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 13:45:00,92.0,71.0,111.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 14:45:00,90.0,70.0,110.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 15:45:00,88.0,66.0,108.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 16:45:00,86.0,66.0,105.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 17:45:00,84.0,65.0,104.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 18:45:00,83.0,63.0,104.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 19:45:00,83.0,63.0,103.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 20:45:00,83.0,63.0,104.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 21:45:00,83.0,63.0,103.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 22:45:00,83.0,64.0,103.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-22 23:45:00,83.0,63.0,103.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-23 00:45:00,83.0,63.0,101.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-23 01:45:00,83.0,63.0,105.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-23 02:45:00,83.0,63.0,102.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-23 03:45:00,83.0,63.0,102.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-23 04:45:00,83.0,62.0,102.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-23 05:45:00,83.0,64.0,102.0
+Hôpital en Santé Mentale Albert-Prévost,2024-03-23 06:45:00,83.0,62.0,103.0
+Hôpital Fleury,2024-03-19 23:45:00,109.0,79.0,140.0
+Hôpital Fleury,2024-03-20 00:45:00,110.0,81.0,139.0
+Hôpital Fleury,2024-03-20 01:45:00,111.0,81.0,140.0
+Hôpital Fleury,2024-03-20 02:45:00,112.0,81.0,144.0
+Hôpital Fleury,2024-03-20 03:45:00,114.0,82.0,143.0
+Hôpital Fleury,2024-03-20 04:45:00,115.0,87.0,145.0
+Hôpital Fleury,2024-03-20 05:45:00,117.0,86.0,147.0
+Hôpital Fleury,2024-03-20 06:45:00,118.0,89.0,147.0
+Hôpital Fleury,2024-03-20 07:45:00,119.0,87.0,149.0
+Hôpital Fleury,2024-03-20 08:45:00,119.0,88.0,151.0
+Hôpital Fleury,2024-03-20 09:45:00,119.0,87.0,148.0
 Hôpital Fleury,2024-03-20 10:45:00,119.0,89.0,150.0
-Hôpital Fleury,2024-03-20 11:45:00,119.0,88.0,149.0
-Hôpital Fleury,2024-03-20 12:45:00,118.0,88.0,147.0
-Hôpital Fleury,2024-03-20 13:45:00,116.0,86.0,145.0
-Hôpital Fleury,2024-03-20 14:45:00,113.0,84.0,144.0
-Hôpital Fleury,2024-03-20 15:45:00,111.0,81.0,139.0
-Hôpital Fleury,2024-03-20 16:45:00,109.0,77.0,139.0
-Hôpital Fleury,2024-03-20 17:45:00,108.0,79.0,138.0
-Hôpital Fleury,2024-03-20 18:45:00,107.0,77.0,136.0
-Hôpital Fleury,2024-03-20 19:45:00,107.0,75.0,136.0
-Hôpital Fleury,2024-03-20 20:45:00,108.0,80.0,140.0
-Hôpital Fleury,2024-03-20 21:45:00,109.0,78.0,141.0
-Hôpital Fleury,2024-03-20 22:45:00,110.0,82.0,140.0
-Hôpital Fleury,2024-03-20 23:45:00,111.0,81.0,140.0
-Hôpital Fleury,2024-03-21 00:45:00,112.0,81.0,142.0
-Hôpital Fleury,2024-03-21 01:45:00,113.0,82.0,143.0
-Hôpital Fleury,2024-03-21 02:45:00,114.0,85.0,142.0
-Hôpital Fleury,2024-03-21 03:45:00,115.0,86.0,144.0
-Hôpital Fleury,2024-03-21 04:45:00,116.0,88.0,146.0
-Hôpital Fleury,2024-03-21 05:45:00,118.0,88.0,148.0
-Hôpital Fleury,2024-03-21 06:45:00,119.0,90.0,146.0
-Hôpital Fleury,2024-03-21 07:45:00,119.0,89.0,150.0
-Hôpital Fleury,2024-03-21 08:45:00,119.0,89.0,148.0
-Hôpital Fleury,2024-03-21 09:45:00,119.0,90.0,147.0
-Hôpital Général de Montréal,2024-03-19 08:45:00,141.0,117.0,167.0
-Hôpital Général de Montréal,2024-03-19 09:45:00,141.0,116.0,168.0
-Hôpital Général de Montréal,2024-03-19 10:45:00,142.0,117.0,168.0
-Hôpital Général de Montréal,2024-03-19 11:45:00,142.0,117.0,168.0
-Hôpital Général de Montréal,2024-03-19 12:45:00,142.0,118.0,170.0
-Hôpital Général de Montréal,2024-03-19 13:45:00,142.0,117.0,169.0
-Hôpital Général de Montréal,2024-03-19 14:45:00,142.0,114.0,168.0
-Hôpital Général de Montréal,2024-03-19 15:45:00,141.0,116.0,167.0
-Hôpital Général de Montréal,2024-03-19 16:45:00,140.0,114.0,167.0
-Hôpital Général de Montréal,2024-03-19 17:45:00,139.0,112.0,166.0
-Hôpital Général de Montréal,2024-03-19 18:45:00,138.0,111.0,163.0
-Hôpital Général de Montréal,2024-03-19 19:45:00,137.0,111.0,162.0
-Hôpital Général de Montréal,2024-03-19 20:45:00,135.0,110.0,162.0
-Hôpital Général de Montréal,2024-03-19 21:45:00,134.0,108.0,161.0
-Hôpital Général de Montréal,2024-03-19 22:45:00,132.0,108.0,158.0
-Hôpital Général de Montréal,2024-03-19 23:45:00,131.0,106.0,157.0
-Hôpital Général de Montréal,2024-03-20 00:45:00,131.0,106.0,156.0
-Hôpital Général de Montréal,2024-03-20 01:45:00,131.0,104.0,156.0
-Hôpital Général de Montréal,2024-03-20 02:45:00,131.0,104.0,157.0
-Hôpital Général de Montréal,2024-03-20 03:45:00,132.0,105.0,158.0
-Hôpital Général de Montréal,2024-03-20 04:45:00,133.0,105.0,158.0
-Hôpital Général de Montréal,2024-03-20 05:45:00,135.0,109.0,161.0
-Hôpital Général de Montréal,2024-03-20 06:45:00,136.0,109.0,163.0
-Hôpital Général de Montréal,2024-03-20 07:45:00,137.0,112.0,163.0
-Hôpital Général de Montréal,2024-03-20 08:45:00,138.0,111.0,163.0
-Hôpital Général de Montréal,2024-03-20 09:45:00,138.0,112.0,166.0
-Hôpital Général de Montréal,2024-03-20 10:45:00,139.0,113.0,164.0
-Hôpital Général de Montréal,2024-03-20 11:45:00,139.0,113.0,165.0
-Hôpital Général de Montréal,2024-03-20 12:45:00,139.0,112.0,165.0
-Hôpital Général de Montréal,2024-03-20 13:45:00,139.0,113.0,165.0
-Hôpital Général de Montréal,2024-03-20 14:45:00,138.0,113.0,165.0
-Hôpital Général de Montréal,2024-03-20 15:45:00,138.0,112.0,163.0
-Hôpital Général de Montréal,2024-03-20 16:45:00,137.0,111.0,163.0
-Hôpital Général de Montréal,2024-03-20 17:45:00,136.0,109.0,161.0
-Hôpital Général de Montréal,2024-03-20 18:45:00,134.0,109.0,160.0
-Hôpital Général de Montréal,2024-03-20 19:45:00,133.0,107.0,159.0
-Hôpital Général de Montréal,2024-03-20 20:45:00,132.0,106.0,156.0
-Hôpital Général de Montréal,2024-03-20 21:45:00,130.0,105.0,156.0
-Hôpital Général de Montréal,2024-03-20 22:45:00,129.0,104.0,157.0
-Hôpital Général de Montréal,2024-03-20 23:45:00,128.0,103.0,153.0
-Hôpital Général de Montréal,2024-03-21 00:45:00,127.0,102.0,152.0
-Hôpital Général de Montréal,2024-03-21 01:45:00,127.0,101.0,153.0
-Hôpital Général de Montréal,2024-03-21 02:45:00,128.0,102.0,154.0
-Hôpital Général de Montréal,2024-03-21 03:45:00,129.0,105.0,156.0
-Hôpital Général de Montréal,2024-03-21 04:45:00,131.0,106.0,158.0
-Hôpital Général de Montréal,2024-03-21 05:45:00,133.0,107.0,156.0
-Hôpital Général de Montréal,2024-03-21 06:45:00,134.0,108.0,160.0
-Hôpital Général de Montréal,2024-03-21 07:45:00,135.0,110.0,162.0
-Hôpital Général de Montréal,2024-03-21 08:45:00,136.0,110.0,161.0
-Hôpital Général de Montréal,2024-03-21 09:45:00,137.0,112.0,163.0
-Hôpital Général du Lakeshore,2024-03-19 08:45:00,144.0,116.0,171.0
-Hôpital Général du Lakeshore,2024-03-19 09:45:00,143.0,113.0,172.0
-Hôpital Général du Lakeshore,2024-03-19 10:45:00,141.0,111.0,171.0
-Hôpital Général du Lakeshore,2024-03-19 11:45:00,140.0,112.0,168.0
-Hôpital Général du Lakeshore,2024-03-19 12:45:00,138.0,108.0,168.0
-Hôpital Général du Lakeshore,2024-03-19 13:45:00,136.0,108.0,164.0
-Hôpital Général du Lakeshore,2024-03-19 14:45:00,134.0,104.0,163.0
-Hôpital Général du Lakeshore,2024-03-19 15:45:00,131.0,102.0,159.0
-Hôpital Général du Lakeshore,2024-03-19 16:45:00,129.0,102.0,160.0
-Hôpital Général du Lakeshore,2024-03-19 17:45:00,128.0,102.0,159.0
-Hôpital Général du Lakeshore,2024-03-19 18:45:00,127.0,100.0,156.0
-Hôpital Général du Lakeshore,2024-03-19 19:45:00,128.0,100.0,157.0
-Hôpital Général du Lakeshore,2024-03-19 20:45:00,128.0,101.0,158.0
-Hôpital Général du Lakeshore,2024-03-19 21:45:00,128.0,99.0,157.0
-Hôpital Général du Lakeshore,2024-03-19 22:45:00,128.0,98.0,156.0
-Hôpital Général du Lakeshore,2024-03-19 23:45:00,128.0,101.0,157.0
-Hôpital Général du Lakeshore,2024-03-20 00:45:00,128.0,98.0,156.0
-Hôpital Général du Lakeshore,2024-03-20 01:45:00,129.0,103.0,157.0
-Hôpital Général du Lakeshore,2024-03-20 02:45:00,131.0,102.0,160.0
-Hôpital Général du Lakeshore,2024-03-20 03:45:00,133.0,105.0,161.0
-Hôpital Général du Lakeshore,2024-03-20 04:45:00,134.0,103.0,164.0
-Hôpital Général du Lakeshore,2024-03-20 05:45:00,136.0,106.0,166.0
-Hôpital Général du Lakeshore,2024-03-20 06:45:00,137.0,105.0,166.0
-Hôpital Général du Lakeshore,2024-03-20 07:45:00,137.0,106.0,167.0
-Hôpital Général du Lakeshore,2024-03-20 08:45:00,136.0,108.0,165.0
-Hôpital Général du Lakeshore,2024-03-20 09:45:00,135.0,105.0,163.0
-Hôpital Général du Lakeshore,2024-03-20 10:45:00,133.0,105.0,162.0
-Hôpital Général du Lakeshore,2024-03-20 11:45:00,132.0,104.0,162.0
-Hôpital Général du Lakeshore,2024-03-20 12:45:00,130.0,100.0,160.0
-Hôpital Général du Lakeshore,2024-03-20 13:45:00,128.0,100.0,157.0
-Hôpital Général du Lakeshore,2024-03-20 14:45:00,126.0,100.0,154.0
-Hôpital Général du Lakeshore,2024-03-20 15:45:00,124.0,96.0,152.0
-Hôpital Général du Lakeshore,2024-03-20 16:45:00,123.0,93.0,150.0
-Hôpital Général du Lakeshore,2024-03-20 17:45:00,122.0,90.0,151.0
-Hôpital Général du Lakeshore,2024-03-20 18:45:00,122.0,92.0,149.0
-Hôpital Général du Lakeshore,2024-03-20 19:45:00,122.0,94.0,150.0
-Hôpital Général du Lakeshore,2024-03-20 20:45:00,123.0,95.0,152.0
-Hôpital Général du Lakeshore,2024-03-20 21:45:00,124.0,94.0,153.0
-Hôpital Général du Lakeshore,2024-03-20 22:45:00,124.0,95.0,151.0
-Hôpital Général du Lakeshore,2024-03-20 23:45:00,125.0,98.0,153.0
-Hôpital Général du Lakeshore,2024-03-21 00:45:00,126.0,99.0,155.0
-Hôpital Général du Lakeshore,2024-03-21 01:45:00,127.0,100.0,157.0
-Hôpital Général du Lakeshore,2024-03-21 02:45:00,130.0,101.0,158.0
-Hôpital Général du Lakeshore,2024-03-21 03:45:00,132.0,103.0,159.0
-Hôpital Général du Lakeshore,2024-03-21 04:45:00,134.0,103.0,162.0
-Hôpital Général du Lakeshore,2024-03-21 05:45:00,136.0,105.0,164.0
-Hôpital Général du Lakeshore,2024-03-21 06:45:00,137.0,108.0,166.0
-Hôpital Général du Lakeshore,2024-03-21 07:45:00,138.0,109.0,166.0
-Hôpital Général du Lakeshore,2024-03-21 08:45:00,138.0,109.0,168.0
-Hôpital Général du Lakeshore,2024-03-21 09:45:00,137.0,107.0,166.0
-Hôpital Général Juif,2024-03-19 08:45:00,176.0,145.0,205.0
-Hôpital Général Juif,2024-03-19 09:45:00,178.0,148.0,211.0
-Hôpital Général Juif,2024-03-19 10:45:00,180.0,149.0,211.0
-Hôpital Général Juif,2024-03-19 11:45:00,182.0,151.0,213.0
-Hôpital Général Juif,2024-03-19 12:45:00,183.0,151.0,215.0
-Hôpital Général Juif,2024-03-19 13:45:00,183.0,150.0,214.0
-Hôpital Général Juif,2024-03-19 14:45:00,182.0,151.0,214.0
-Hôpital Général Juif,2024-03-19 15:45:00,181.0,150.0,212.0
-Hôpital Général Juif,2024-03-19 16:45:00,179.0,147.0,209.0
-Hôpital Général Juif,2024-03-19 17:45:00,178.0,145.0,209.0
-Hôpital Général Juif,2024-03-19 18:45:00,176.0,146.0,209.0
-Hôpital Général Juif,2024-03-19 19:45:00,175.0,146.0,205.0
-Hôpital Général Juif,2024-03-19 20:45:00,173.0,141.0,203.0
-Hôpital Général Juif,2024-03-19 21:45:00,171.0,141.0,204.0
-Hôpital Général Juif,2024-03-19 22:45:00,170.0,140.0,201.0
-Hôpital Général Juif,2024-03-19 23:45:00,169.0,139.0,200.0
+Hôpital Fleury,2024-03-20 11:45:00,119.0,90.0,147.0
+Hôpital Fleury,2024-03-20 12:45:00,118.0,89.0,146.0
+Hôpital Fleury,2024-03-20 13:45:00,116.0,87.0,145.0
+Hôpital Fleury,2024-03-20 14:45:00,114.0,84.0,141.0
+Hôpital Fleury,2024-03-20 15:45:00,111.0,82.0,142.0
+Hôpital Fleury,2024-03-20 16:45:00,109.0,78.0,139.0
+Hôpital Fleury,2024-03-20 17:45:00,108.0,78.0,136.0
+Hôpital Fleury,2024-03-20 18:45:00,107.0,76.0,136.0
+Hôpital Fleury,2024-03-20 19:45:00,108.0,78.0,136.0
+Hôpital Fleury,2024-03-20 20:45:00,108.0,79.0,134.0
+Hôpital Fleury,2024-03-20 21:45:00,109.0,79.0,136.0
+Hôpital Fleury,2024-03-20 22:45:00,110.0,80.0,138.0
+Hôpital Fleury,2024-03-20 23:45:00,111.0,80.0,142.0
+Hôpital Fleury,2024-03-21 00:45:00,112.0,84.0,144.0
+Hôpital Fleury,2024-03-21 01:45:00,113.0,85.0,144.0
+Hôpital Fleury,2024-03-21 02:45:00,114.0,85.0,145.0
+Hôpital Fleury,2024-03-21 03:45:00,115.0,85.0,145.0
+Hôpital Fleury,2024-03-21 04:45:00,116.0,87.0,144.0
+Hôpital Fleury,2024-03-21 05:45:00,118.0,87.0,148.0
+Hôpital Fleury,2024-03-21 06:45:00,119.0,91.0,148.0
+Hôpital Fleury,2024-03-21 07:45:00,119.0,89.0,147.0
+Hôpital Fleury,2024-03-21 08:45:00,119.0,92.0,149.0
+Hôpital Fleury,2024-03-21 09:45:00,119.0,87.0,147.0
+Hôpital Fleury,2024-03-21 10:45:00,119.0,88.0,150.0
+Hôpital Fleury,2024-03-21 11:45:00,118.0,87.0,147.0
+Hôpital Fleury,2024-03-21 12:45:00,117.0,86.0,147.0
+Hôpital Fleury,2024-03-21 13:45:00,115.0,85.0,143.0
+Hôpital Fleury,2024-03-21 14:45:00,112.0,84.0,142.0
+Hôpital Fleury,2024-03-21 15:45:00,109.0,79.0,138.0
+Hôpital Fleury,2024-03-21 16:45:00,107.0,78.0,136.0
+Hôpital Fleury,2024-03-21 17:45:00,106.0,74.0,136.0
+Hôpital Fleury,2024-03-21 18:45:00,105.0,77.0,135.0
+Hôpital Fleury,2024-03-21 19:45:00,105.0,75.0,133.0
+Hôpital Fleury,2024-03-21 20:45:00,105.0,74.0,134.0
+Hôpital Fleury,2024-03-21 21:45:00,106.0,74.0,136.0
+Hôpital Fleury,2024-03-21 22:45:00,107.0,76.0,135.0
+Hôpital Fleury,2024-03-21 23:45:00,108.0,79.0,138.0
+Hôpital Fleury,2024-03-22 00:45:00,108.0,78.0,136.0
+Hôpital Fleury,2024-03-22 01:45:00,109.0,78.0,138.0
+Hôpital Fleury,2024-03-22 02:45:00,110.0,79.0,139.0
+Hôpital Fleury,2024-03-22 03:45:00,110.0,82.0,139.0
+Hôpital Fleury,2024-03-22 04:45:00,112.0,80.0,142.0
+Hôpital Fleury,2024-03-22 05:45:00,113.0,84.0,142.0
+Hôpital Fleury,2024-03-22 06:45:00,113.0,81.0,144.0
+Hôpital Fleury,2024-03-22 07:45:00,114.0,83.0,144.0
+Hôpital Fleury,2024-03-22 08:45:00,113.0,84.0,144.0
+Hôpital Fleury,2024-03-22 09:45:00,113.0,82.0,144.0
+Hôpital Fleury,2024-03-22 10:45:00,112.0,82.0,142.0
+Hôpital Fleury,2024-03-22 11:45:00,111.0,83.0,141.0
+Hôpital Fleury,2024-03-22 12:45:00,110.0,81.0,139.0
+Hôpital Fleury,2024-03-22 13:45:00,108.0,81.0,138.0
+Hôpital Fleury,2024-03-22 14:45:00,104.0,74.0,134.0
+Hôpital Fleury,2024-03-22 15:45:00,101.0,72.0,131.0
+Hôpital Fleury,2024-03-22 16:45:00,99.0,69.0,128.0
+Hôpital Fleury,2024-03-22 17:45:00,97.0,67.0,125.0
+Hôpital Fleury,2024-03-22 18:45:00,96.0,65.0,126.0
+Hôpital Fleury,2024-03-22 19:45:00,96.0,66.0,127.0
+Hôpital Fleury,2024-03-22 20:45:00,96.0,67.0,128.0
+Hôpital Fleury,2024-03-22 21:45:00,96.0,64.0,127.0
+Hôpital Fleury,2024-03-22 22:45:00,97.0,67.0,129.0
+Hôpital Fleury,2024-03-22 23:45:00,98.0,68.0,126.0
+Hôpital Fleury,2024-03-23 00:45:00,99.0,68.0,128.0
+Hôpital Fleury,2024-03-23 01:45:00,99.0,70.0,130.0
+Hôpital Fleury,2024-03-23 02:45:00,100.0,72.0,130.0
+Hôpital Fleury,2024-03-23 03:45:00,101.0,70.0,130.0
+Hôpital Fleury,2024-03-23 04:45:00,102.0,73.0,132.0
+Hôpital Fleury,2024-03-23 05:45:00,103.0,73.0,136.0
+Hôpital Fleury,2024-03-23 06:45:00,104.0,75.0,133.0
+Hôpital Général de Montréal,2024-03-19 23:45:00,132.0,104.0,156.0
+Hôpital Général de Montréal,2024-03-20 00:45:00,131.0,105.0,154.0
+Hôpital Général de Montréal,2024-03-20 01:45:00,131.0,105.0,157.0
+Hôpital Général de Montréal,2024-03-20 02:45:00,131.0,104.0,155.0
+Hôpital Général de Montréal,2024-03-20 03:45:00,132.0,108.0,158.0
+Hôpital Général de Montréal,2024-03-20 04:45:00,134.0,108.0,160.0
+Hôpital Général de Montréal,2024-03-20 05:45:00,135.0,109.0,159.0
+Hôpital Général de Montréal,2024-03-20 06:45:00,136.0,112.0,164.0
+Hôpital Général de Montréal,2024-03-20 07:45:00,137.0,111.0,163.0
+Hôpital Général de Montréal,2024-03-20 08:45:00,138.0,111.0,164.0
+Hôpital Général de Montréal,2024-03-20 09:45:00,139.0,112.0,166.0
+Hôpital Général de Montréal,2024-03-20 10:45:00,139.0,111.0,165.0
+Hôpital Général de Montréal,2024-03-20 11:45:00,139.0,114.0,165.0
+Hôpital Général de Montréal,2024-03-20 12:45:00,139.0,115.0,167.0
+Hôpital Général de Montréal,2024-03-20 13:45:00,139.0,114.0,164.0
+Hôpital Général de Montréal,2024-03-20 14:45:00,139.0,112.0,163.0
+Hôpital Général de Montréal,2024-03-20 15:45:00,138.0,114.0,163.0
+Hôpital Général de Montréal,2024-03-20 16:45:00,137.0,113.0,163.0
+Hôpital Général de Montréal,2024-03-20 17:45:00,136.0,110.0,161.0
+Hôpital Général de Montréal,2024-03-20 18:45:00,135.0,110.0,162.0
+Hôpital Général de Montréal,2024-03-20 19:45:00,133.0,109.0,159.0
+Hôpital Général de Montréal,2024-03-20 20:45:00,132.0,106.0,159.0
+Hôpital Général de Montréal,2024-03-20 21:45:00,130.0,106.0,157.0
+Hôpital Général de Montréal,2024-03-20 22:45:00,129.0,104.0,156.0
+Hôpital Général de Montréal,2024-03-20 23:45:00,128.0,100.0,154.0
+Hôpital Général de Montréal,2024-03-21 00:45:00,127.0,103.0,155.0
+Hôpital Général de Montréal,2024-03-21 01:45:00,128.0,103.0,153.0
+Hôpital Général de Montréal,2024-03-21 02:45:00,128.0,103.0,155.0
+Hôpital Général de Montréal,2024-03-21 03:45:00,130.0,102.0,154.0
+Hôpital Général de Montréal,2024-03-21 04:45:00,131.0,106.0,157.0
+Hôpital Général de Montréal,2024-03-21 05:45:00,133.0,106.0,158.0
+Hôpital Général de Montréal,2024-03-21 06:45:00,134.0,107.0,163.0
+Hôpital Général de Montréal,2024-03-21 07:45:00,136.0,110.0,163.0
+Hôpital Général de Montréal,2024-03-21 08:45:00,137.0,111.0,164.0
+Hôpital Général de Montréal,2024-03-21 09:45:00,138.0,113.0,163.0
+Hôpital Général de Montréal,2024-03-21 10:45:00,138.0,112.0,163.0
+Hôpital Général de Montréal,2024-03-21 11:45:00,139.0,113.0,165.0
+Hôpital Général de Montréal,2024-03-21 12:45:00,139.0,114.0,166.0
+Hôpital Général de Montréal,2024-03-21 13:45:00,139.0,114.0,164.0
+Hôpital Général de Montréal,2024-03-21 14:45:00,139.0,113.0,166.0
+Hôpital Général de Montréal,2024-03-21 15:45:00,139.0,113.0,165.0
+Hôpital Général de Montréal,2024-03-21 16:45:00,138.0,114.0,164.0
+Hôpital Général de Montréal,2024-03-21 17:45:00,137.0,110.0,163.0
+Hôpital Général de Montréal,2024-03-21 18:45:00,137.0,110.0,161.0
+Hôpital Général de Montréal,2024-03-21 19:45:00,136.0,110.0,162.0
+Hôpital Général de Montréal,2024-03-21 20:45:00,134.0,108.0,159.0
+Hôpital Général de Montréal,2024-03-21 21:45:00,133.0,109.0,160.0
+Hôpital Général de Montréal,2024-03-21 22:45:00,132.0,104.0,157.0
+Hôpital Général de Montréal,2024-03-21 23:45:00,131.0,107.0,157.0
+Hôpital Général de Montréal,2024-03-22 00:45:00,131.0,105.0,156.0
+Hôpital Général de Montréal,2024-03-22 01:45:00,131.0,103.0,156.0
+Hôpital Général de Montréal,2024-03-22 02:45:00,131.0,105.0,156.0
+Hôpital Général de Montréal,2024-03-22 03:45:00,132.0,106.0,159.0
+Hôpital Général de Montréal,2024-03-22 04:45:00,134.0,107.0,160.0
+Hôpital Général de Montréal,2024-03-22 05:45:00,135.0,109.0,163.0
+Hôpital Général de Montréal,2024-03-22 06:45:00,137.0,111.0,161.0
+Hôpital Général de Montréal,2024-03-22 07:45:00,138.0,111.0,165.0
+Hôpital Général de Montréal,2024-03-22 08:45:00,138.0,113.0,164.0
+Hôpital Général de Montréal,2024-03-22 09:45:00,139.0,113.0,164.0
+Hôpital Général de Montréal,2024-03-22 10:45:00,139.0,112.0,165.0
+Hôpital Général de Montréal,2024-03-22 11:45:00,139.0,113.0,165.0
+Hôpital Général de Montréal,2024-03-22 12:45:00,139.0,113.0,165.0
+Hôpital Général de Montréal,2024-03-22 13:45:00,139.0,111.0,165.0
+Hôpital Général de Montréal,2024-03-22 14:45:00,138.0,113.0,164.0
+Hôpital Général de Montréal,2024-03-22 15:45:00,137.0,112.0,164.0
+Hôpital Général de Montréal,2024-03-22 16:45:00,136.0,108.0,161.0
+Hôpital Général de Montréal,2024-03-22 17:45:00,134.0,107.0,157.0
+Hôpital Général de Montréal,2024-03-22 18:45:00,133.0,105.0,159.0
+Hôpital Général de Montréal,2024-03-22 19:45:00,131.0,106.0,156.0
+Hôpital Général de Montréal,2024-03-22 20:45:00,129.0,102.0,154.0
+Hôpital Général de Montréal,2024-03-22 21:45:00,127.0,101.0,152.0
+Hôpital Général de Montréal,2024-03-22 22:45:00,125.0,99.0,151.0
+Hôpital Général de Montréal,2024-03-22 23:45:00,124.0,99.0,150.0
+Hôpital Général de Montréal,2024-03-23 00:45:00,122.0,95.0,148.0
+Hôpital Général de Montréal,2024-03-23 01:45:00,122.0,96.0,148.0
+Hôpital Général de Montréal,2024-03-23 02:45:00,122.0,96.0,148.0
+Hôpital Général de Montréal,2024-03-23 03:45:00,123.0,96.0,147.0
+Hôpital Général de Montréal,2024-03-23 04:45:00,124.0,100.0,149.0
+Hôpital Général de Montréal,2024-03-23 05:45:00,125.0,97.0,149.0
+Hôpital Général de Montréal,2024-03-23 06:45:00,125.0,101.0,153.0
+Hôpital Général du Lakeshore,2024-03-19 22:46:00,129.0,100.0,159.0
+Hôpital Général du Lakeshore,2024-03-19 23:46:00,129.0,99.0,157.0
+Hôpital Général du Lakeshore,2024-03-20 00:46:00,129.0,101.0,157.0
+Hôpital Général du Lakeshore,2024-03-20 01:46:00,130.0,100.0,159.0
+Hôpital Général du Lakeshore,2024-03-20 02:46:00,132.0,104.0,163.0
+Hôpital Général du Lakeshore,2024-03-20 03:46:00,134.0,105.0,160.0
+Hôpital Général du Lakeshore,2024-03-20 04:46:00,135.0,105.0,165.0
+Hôpital Général du Lakeshore,2024-03-20 05:46:00,137.0,107.0,165.0
+Hôpital Général du Lakeshore,2024-03-20 06:46:00,137.0,106.0,165.0
+Hôpital Général du Lakeshore,2024-03-20 07:46:00,138.0,111.0,166.0
+Hôpital Général du Lakeshore,2024-03-20 08:46:00,137.0,109.0,164.0
+Hôpital Général du Lakeshore,2024-03-20 09:46:00,136.0,106.0,166.0
+Hôpital Général du Lakeshore,2024-03-20 10:46:00,134.0,105.0,163.0
+Hôpital Général du Lakeshore,2024-03-20 11:46:00,133.0,104.0,160.0
+Hôpital Général du Lakeshore,2024-03-20 12:46:00,131.0,103.0,159.0
+Hôpital Général du Lakeshore,2024-03-20 13:46:00,129.0,99.0,158.0
+Hôpital Général du Lakeshore,2024-03-20 14:46:00,127.0,99.0,158.0
+Hôpital Général du Lakeshore,2024-03-20 15:46:00,125.0,97.0,153.0
+Hôpital Général du Lakeshore,2024-03-20 16:46:00,123.0,96.0,152.0
+Hôpital Général du Lakeshore,2024-03-20 17:46:00,122.0,95.0,154.0
+Hôpital Général du Lakeshore,2024-03-20 18:46:00,122.0,93.0,153.0
+Hôpital Général du Lakeshore,2024-03-20 19:46:00,123.0,96.0,150.0
+Hôpital Général du Lakeshore,2024-03-20 20:46:00,124.0,93.0,154.0
+Hôpital Général du Lakeshore,2024-03-20 21:46:00,125.0,97.0,156.0
+Hôpital Général du Lakeshore,2024-03-20 22:46:00,125.0,98.0,153.0
+Hôpital Général du Lakeshore,2024-03-20 23:46:00,126.0,97.0,154.0
+Hôpital Général du Lakeshore,2024-03-21 00:46:00,127.0,96.0,157.0
+Hôpital Général du Lakeshore,2024-03-21 01:46:00,128.0,99.0,160.0
+Hôpital Général du Lakeshore,2024-03-21 02:46:00,130.0,104.0,159.0
+Hôpital Général du Lakeshore,2024-03-21 03:46:00,133.0,103.0,161.0
+Hôpital Général du Lakeshore,2024-03-21 04:46:00,135.0,106.0,164.0
+Hôpital Général du Lakeshore,2024-03-21 05:46:00,137.0,107.0,166.0
+Hôpital Général du Lakeshore,2024-03-21 06:46:00,138.0,111.0,167.0
+Hôpital Général du Lakeshore,2024-03-21 07:46:00,139.0,111.0,167.0
+Hôpital Général du Lakeshore,2024-03-21 08:46:00,139.0,109.0,168.0
+Hôpital Général du Lakeshore,2024-03-21 09:46:00,138.0,109.0,167.0
+Hôpital Général du Lakeshore,2024-03-21 10:46:00,137.0,109.0,168.0
+Hôpital Général du Lakeshore,2024-03-21 11:46:00,135.0,108.0,166.0
+Hôpital Général du Lakeshore,2024-03-21 12:46:00,134.0,106.0,164.0
+Hôpital Général du Lakeshore,2024-03-21 13:46:00,132.0,102.0,158.0
+Hôpital Général du Lakeshore,2024-03-21 14:46:00,130.0,101.0,157.0
+Hôpital Général du Lakeshore,2024-03-21 15:46:00,128.0,101.0,156.0
+Hôpital Général du Lakeshore,2024-03-21 16:46:00,127.0,96.0,155.0
+Hôpital Général du Lakeshore,2024-03-21 17:46:00,126.0,99.0,153.0
+Hôpital Général du Lakeshore,2024-03-21 18:46:00,126.0,97.0,154.0
+Hôpital Général du Lakeshore,2024-03-21 19:46:00,126.0,97.0,154.0
+Hôpital Général du Lakeshore,2024-03-21 20:46:00,127.0,99.0,153.0
+Hôpital Général du Lakeshore,2024-03-21 21:46:00,127.0,97.0,155.0
+Hôpital Général du Lakeshore,2024-03-21 22:46:00,127.0,97.0,156.0
+Hôpital Général du Lakeshore,2024-03-21 23:46:00,127.0,101.0,157.0
+Hôpital Général du Lakeshore,2024-03-22 00:46:00,128.0,100.0,156.0
+Hôpital Général du Lakeshore,2024-03-22 01:46:00,129.0,102.0,157.0
+Hôpital Général du Lakeshore,2024-03-22 02:46:00,131.0,102.0,160.0
+Hôpital Général du Lakeshore,2024-03-22 03:46:00,133.0,105.0,159.0
+Hôpital Général du Lakeshore,2024-03-22 04:46:00,134.0,107.0,163.0
+Hôpital Général du Lakeshore,2024-03-22 05:46:00,136.0,107.0,164.0
+Hôpital Général du Lakeshore,2024-03-22 06:46:00,137.0,107.0,163.0
+Hôpital Général du Lakeshore,2024-03-22 07:46:00,137.0,107.0,164.0
+Hôpital Général du Lakeshore,2024-03-22 08:46:00,136.0,107.0,166.0
+Hôpital Général du Lakeshore,2024-03-22 09:46:00,135.0,105.0,164.0
+Hôpital Général du Lakeshore,2024-03-22 10:46:00,133.0,106.0,163.0
+Hôpital Général du Lakeshore,2024-03-22 11:46:00,131.0,102.0,157.0
+Hôpital Général du Lakeshore,2024-03-22 12:46:00,129.0,100.0,158.0
+Hôpital Général du Lakeshore,2024-03-22 13:46:00,127.0,99.0,155.0
+Hôpital Général du Lakeshore,2024-03-22 14:46:00,125.0,98.0,153.0
+Hôpital Général du Lakeshore,2024-03-22 15:46:00,122.0,93.0,152.0
+Hôpital Général du Lakeshore,2024-03-22 16:46:00,120.0,91.0,149.0
+Hôpital Général du Lakeshore,2024-03-22 17:46:00,119.0,93.0,147.0
+Hôpital Général du Lakeshore,2024-03-22 18:46:00,118.0,91.0,148.0
+Hôpital Général du Lakeshore,2024-03-22 19:46:00,119.0,91.0,146.0
+Hôpital Général du Lakeshore,2024-03-22 20:46:00,119.0,90.0,148.0
+Hôpital Général du Lakeshore,2024-03-22 21:46:00,119.0,90.0,148.0
+Hôpital Général du Lakeshore,2024-03-22 22:46:00,119.0,91.0,146.0
+Hôpital Général du Lakeshore,2024-03-22 23:46:00,119.0,91.0,147.0
+Hôpital Général du Lakeshore,2024-03-23 00:46:00,120.0,91.0,151.0
+Hôpital Général du Lakeshore,2024-03-23 01:46:00,121.0,93.0,151.0
+Hôpital Général du Lakeshore,2024-03-23 02:46:00,123.0,95.0,151.0
+Hôpital Général du Lakeshore,2024-03-23 03:46:00,125.0,98.0,152.0
+Hôpital Général du Lakeshore,2024-03-23 04:46:00,126.0,98.0,157.0
+Hôpital Général du Lakeshore,2024-03-23 05:46:00,128.0,98.0,157.0
+Hôpital Général Juif,2024-03-19 23:45:00,169.0,137.0,198.0
 Hôpital Général Juif,2024-03-20 00:45:00,168.0,136.0,200.0
-Hôpital Général Juif,2024-03-20 01:45:00,167.0,137.0,197.0
-Hôpital Général Juif,2024-03-20 02:45:00,167.0,137.0,198.0
-Hôpital Général Juif,2024-03-20 03:45:00,168.0,136.0,198.0
-Hôpital Général Juif,2024-03-20 04:45:00,169.0,138.0,199.0
-Hôpital Général Juif,2024-03-20 05:45:00,170.0,140.0,200.0
-Hôpital Général Juif,2024-03-20 06:45:00,172.0,141.0,202.0
-Hôpital Général Juif,2024-03-20 07:45:00,173.0,142.0,205.0
-Hôpital Général Juif,2024-03-20 08:45:00,175.0,142.0,208.0
-Hôpital Général Juif,2024-03-20 09:45:00,178.0,148.0,209.0
-Hôpital Général Juif,2024-03-20 10:45:00,180.0,148.0,213.0
-Hôpital Général Juif,2024-03-20 11:45:00,182.0,150.0,215.0
-Hôpital Général Juif,2024-03-20 12:45:00,183.0,151.0,215.0
-Hôpital Général Juif,2024-03-20 13:45:00,182.0,151.0,214.0
-Hôpital Général Juif,2024-03-20 14:45:00,181.0,151.0,215.0
-Hôpital Général Juif,2024-03-20 15:45:00,180.0,149.0,212.0
-Hôpital Général Juif,2024-03-20 16:45:00,179.0,148.0,209.0
-Hôpital Général Juif,2024-03-20 17:45:00,177.0,145.0,208.0
-Hôpital Général Juif,2024-03-20 18:45:00,176.0,145.0,207.0
-Hôpital Général Juif,2024-03-20 19:45:00,174.0,144.0,207.0
-Hôpital Général Juif,2024-03-20 20:45:00,172.0,141.0,205.0
-Hôpital Général Juif,2024-03-20 21:45:00,171.0,141.0,200.0
-Hôpital Général Juif,2024-03-20 22:45:00,169.0,139.0,202.0
-Hôpital Général Juif,2024-03-20 23:45:00,168.0,138.0,198.0
-Hôpital Général Juif,2024-03-21 00:45:00,167.0,134.0,197.0
-Hôpital Général Juif,2024-03-21 01:45:00,166.0,134.0,199.0
-Hôpital Général Juif,2024-03-21 02:45:00,166.0,132.0,198.0
-Hôpital Général Juif,2024-03-21 03:45:00,167.0,137.0,201.0
-Hôpital Général Juif,2024-03-21 04:45:00,168.0,138.0,198.0
-Hôpital Général Juif,2024-03-21 05:45:00,170.0,139.0,201.0
-Hôpital Général Juif,2024-03-21 06:45:00,171.0,143.0,206.0
-Hôpital Général Juif,2024-03-21 07:45:00,173.0,141.0,203.0
-Hôpital Général Juif,2024-03-21 08:45:00,175.0,141.0,206.0
-Hôpital Général Juif,2024-03-21 09:45:00,177.0,149.0,210.0
-Hôpital Jean-Talon,2024-03-19 08:45:00,105.0,72.0,139.0
-Hôpital Jean-Talon,2024-03-19 09:45:00,110.0,74.0,146.0
-Hôpital Jean-Talon,2024-03-19 10:45:00,115.0,80.0,148.0
-Hôpital Jean-Talon,2024-03-19 11:45:00,120.0,88.0,156.0
-Hôpital Jean-Talon,2024-03-19 12:45:00,123.0,87.0,157.0
-Hôpital Jean-Talon,2024-03-19 13:45:00,126.0,89.0,160.0
-Hôpital Jean-Talon,2024-03-19 14:45:00,129.0,92.0,164.0
-Hôpital Jean-Talon,2024-03-19 15:45:00,129.0,98.0,166.0
-Hôpital Jean-Talon,2024-03-19 16:45:00,128.0,94.0,164.0
-Hôpital Jean-Talon,2024-03-19 17:45:00,124.0,87.0,158.0
-Hôpital Jean-Talon,2024-03-19 18:45:00,120.0,85.0,153.0
-Hôpital Jean-Talon,2024-03-19 19:45:00,116.0,80.0,153.0
-Hôpital Jean-Talon,2024-03-19 20:45:00,114.0,78.0,147.0
-Hôpital Jean-Talon,2024-03-19 21:45:00,111.0,77.0,146.0
-Hôpital Jean-Talon,2024-03-19 22:45:00,108.0,73.0,144.0
-Hôpital Jean-Talon,2024-03-19 23:45:00,103.0,67.0,137.0
+Hôpital Général Juif,2024-03-20 01:45:00,167.0,136.0,200.0
+Hôpital Général Juif,2024-03-20 02:45:00,167.0,138.0,200.0
+Hôpital Général Juif,2024-03-20 03:45:00,168.0,137.0,201.0
+Hôpital Général Juif,2024-03-20 04:45:00,169.0,137.0,199.0
+Hôpital Général Juif,2024-03-20 05:45:00,170.0,138.0,203.0
+Hôpital Général Juif,2024-03-20 06:45:00,172.0,141.0,203.0
+Hôpital Général Juif,2024-03-20 07:45:00,173.0,144.0,204.0
+Hôpital Général Juif,2024-03-20 08:45:00,175.0,146.0,208.0
+Hôpital Général Juif,2024-03-20 09:45:00,178.0,149.0,208.0
+Hôpital Général Juif,2024-03-20 10:45:00,180.0,150.0,213.0
+Hôpital Général Juif,2024-03-20 11:45:00,182.0,149.0,212.0
+Hôpital Général Juif,2024-03-20 12:45:00,183.0,153.0,215.0
+Hôpital Général Juif,2024-03-20 13:45:00,183.0,152.0,214.0
+Hôpital Général Juif,2024-03-20 14:45:00,182.0,148.0,214.0
+Hôpital Général Juif,2024-03-20 15:45:00,180.0,151.0,210.0
+Hôpital Général Juif,2024-03-20 16:45:00,179.0,147.0,211.0
+Hôpital Général Juif,2024-03-20 17:45:00,177.0,145.0,207.0
+Hôpital Général Juif,2024-03-20 18:45:00,176.0,146.0,209.0
+Hôpital Général Juif,2024-03-20 19:45:00,174.0,144.0,206.0
+Hôpital Général Juif,2024-03-20 20:45:00,172.0,141.0,203.0
+Hôpital Général Juif,2024-03-20 21:45:00,171.0,141.0,202.0
+Hôpital Général Juif,2024-03-20 22:45:00,169.0,138.0,201.0
+Hôpital Général Juif,2024-03-20 23:45:00,168.0,137.0,200.0
+Hôpital Général Juif,2024-03-21 00:45:00,167.0,137.0,198.0
+Hôpital Général Juif,2024-03-21 01:45:00,167.0,138.0,197.0
+Hôpital Général Juif,2024-03-21 02:45:00,167.0,133.0,199.0
+Hôpital Général Juif,2024-03-21 03:45:00,167.0,135.0,197.0
+Hôpital Général Juif,2024-03-21 04:45:00,168.0,137.0,198.0
+Hôpital Général Juif,2024-03-21 05:45:00,170.0,137.0,200.0
+Hôpital Général Juif,2024-03-21 06:45:00,171.0,138.0,202.0
+Hôpital Général Juif,2024-03-21 07:45:00,173.0,141.0,206.0
+Hôpital Général Juif,2024-03-21 08:45:00,175.0,142.0,206.0
+Hôpital Général Juif,2024-03-21 09:45:00,177.0,145.0,210.0
+Hôpital Général Juif,2024-03-21 10:45:00,180.0,148.0,211.0
+Hôpital Général Juif,2024-03-21 11:45:00,182.0,152.0,215.0
+Hôpital Général Juif,2024-03-21 12:45:00,182.0,152.0,215.0
+Hôpital Général Juif,2024-03-21 13:45:00,182.0,151.0,213.0
+Hôpital Général Juif,2024-03-21 14:45:00,181.0,150.0,215.0
+Hôpital Général Juif,2024-03-21 15:45:00,180.0,150.0,212.0
+Hôpital Général Juif,2024-03-21 16:45:00,178.0,148.0,210.0
+Hôpital Général Juif,2024-03-21 17:45:00,177.0,142.0,207.0
+Hôpital Général Juif,2024-03-21 18:45:00,175.0,144.0,207.0
+Hôpital Général Juif,2024-03-21 19:45:00,173.0,142.0,203.0
+Hôpital Général Juif,2024-03-21 20:45:00,171.0,139.0,203.0
+Hôpital Général Juif,2024-03-21 21:45:00,170.0,140.0,199.0
+Hôpital Général Juif,2024-03-21 22:45:00,168.0,134.0,199.0
+Hôpital Général Juif,2024-03-21 23:45:00,167.0,135.0,198.0
+Hôpital Général Juif,2024-03-22 00:45:00,165.0,135.0,195.0
+Hôpital Général Juif,2024-03-22 01:45:00,165.0,134.0,195.0
+Hôpital Général Juif,2024-03-22 02:45:00,164.0,135.0,196.0
+Hôpital Général Juif,2024-03-22 03:45:00,165.0,134.0,196.0
+Hôpital Général Juif,2024-03-22 04:45:00,166.0,134.0,197.0
+Hôpital Général Juif,2024-03-22 05:45:00,167.0,135.0,200.0
+Hôpital Général Juif,2024-03-22 06:45:00,168.0,135.0,201.0
+Hôpital Général Juif,2024-03-22 07:45:00,169.0,138.0,201.0
+Hôpital Général Juif,2024-03-22 08:45:00,171.0,139.0,201.0
+Hôpital Général Juif,2024-03-22 09:45:00,173.0,141.0,205.0
+Hôpital Général Juif,2024-03-22 10:45:00,175.0,144.0,207.0
+Hôpital Général Juif,2024-03-22 11:45:00,176.0,146.0,207.0
+Hôpital Général Juif,2024-03-22 12:45:00,177.0,147.0,207.0
+Hôpital Général Juif,2024-03-22 13:45:00,176.0,143.0,207.0
+Hôpital Général Juif,2024-03-22 14:45:00,174.0,146.0,208.0
+Hôpital Général Juif,2024-03-22 15:45:00,173.0,142.0,204.0
+Hôpital Général Juif,2024-03-22 16:45:00,171.0,137.0,202.0
+Hôpital Général Juif,2024-03-22 17:45:00,169.0,137.0,200.0
+Hôpital Général Juif,2024-03-22 18:45:00,167.0,134.0,197.0
+Hôpital Général Juif,2024-03-22 19:45:00,164.0,132.0,195.0
+Hôpital Général Juif,2024-03-22 20:45:00,162.0,131.0,193.0
+Hôpital Général Juif,2024-03-22 21:45:00,160.0,128.0,193.0
+Hôpital Général Juif,2024-03-22 22:45:00,158.0,126.0,188.0
+Hôpital Général Juif,2024-03-22 23:45:00,156.0,124.0,186.0
+Hôpital Général Juif,2024-03-23 00:45:00,154.0,121.0,186.0
+Hôpital Général Juif,2024-03-23 01:45:00,153.0,124.0,183.0
+Hôpital Général Juif,2024-03-23 02:45:00,152.0,121.0,182.0
+Hôpital Général Juif,2024-03-23 03:45:00,153.0,122.0,187.0
+Hôpital Général Juif,2024-03-23 04:45:00,153.0,120.0,184.0
+Hôpital Général Juif,2024-03-23 05:45:00,154.0,123.0,182.0
+Hôpital Général Juif,2024-03-23 06:45:00,155.0,124.0,187.0
+Hôpital Jean-Talon,2024-03-19 23:45:00,103.0,69.0,137.0
 Hôpital Jean-Talon,2024-03-20 00:45:00,98.0,65.0,133.0
-Hôpital Jean-Talon,2024-03-20 01:45:00,95.0,59.0,129.0
-Hôpital Jean-Talon,2024-03-20 02:45:00,94.0,61.0,130.0
-Hôpital Jean-Talon,2024-03-20 03:45:00,93.0,57.0,128.0
-Hôpital Jean-Talon,2024-03-20 04:45:00,93.0,57.0,128.0
-Hôpital Jean-Talon,2024-03-20 05:45:00,93.0,56.0,128.0
-Hôpital Jean-Talon,2024-03-20 06:45:00,94.0,60.0,127.0
-Hôpital Jean-Talon,2024-03-20 07:45:00,96.0,63.0,131.0
-Hôpital Jean-Talon,2024-03-20 08:45:00,101.0,66.0,135.0
-Hôpital Jean-Talon,2024-03-20 09:45:00,106.0,72.0,141.0
-Hôpital Jean-Talon,2024-03-20 10:45:00,112.0,78.0,148.0
-Hôpital Jean-Talon,2024-03-20 11:45:00,116.0,84.0,152.0
-Hôpital Jean-Talon,2024-03-20 12:45:00,120.0,86.0,155.0
-Hôpital Jean-Talon,2024-03-20 13:45:00,123.0,88.0,158.0
+Hôpital Jean-Talon,2024-03-20 01:45:00,95.0,60.0,127.0
+Hôpital Jean-Talon,2024-03-20 02:45:00,93.0,59.0,128.0
+Hôpital Jean-Talon,2024-03-20 03:45:00,93.0,59.0,130.0
+Hôpital Jean-Talon,2024-03-20 04:45:00,93.0,61.0,128.0
+Hôpital Jean-Talon,2024-03-20 05:45:00,93.0,60.0,126.0
+Hôpital Jean-Talon,2024-03-20 06:45:00,93.0,59.0,125.0
+Hôpital Jean-Talon,2024-03-20 07:45:00,96.0,62.0,133.0
+Hôpital Jean-Talon,2024-03-20 08:45:00,100.0,66.0,137.0
+Hôpital Jean-Talon,2024-03-20 09:45:00,106.0,71.0,139.0
+Hôpital Jean-Talon,2024-03-20 10:45:00,111.0,76.0,145.0
+Hôpital Jean-Talon,2024-03-20 11:45:00,116.0,82.0,151.0
+Hôpital Jean-Talon,2024-03-20 12:45:00,119.0,85.0,158.0
+Hôpital Jean-Talon,2024-03-20 13:45:00,123.0,89.0,154.0
 Hôpital Jean-Talon,2024-03-20 14:45:00,126.0,91.0,160.0
-Hôpital Jean-Talon,2024-03-20 15:45:00,127.0,96.0,163.0
-Hôpital Jean-Talon,2024-03-20 16:45:00,126.0,90.0,159.0
-Hôpital Jean-Talon,2024-03-20 17:45:00,122.0,90.0,158.0
-Hôpital Jean-Talon,2024-03-20 18:45:00,118.0,83.0,152.0
-Hôpital Jean-Talon,2024-03-20 19:45:00,115.0,86.0,150.0
+Hôpital Jean-Talon,2024-03-20 15:45:00,127.0,92.0,162.0
+Hôpital Jean-Talon,2024-03-20 16:45:00,125.0,91.0,158.0
+Hôpital Jean-Talon,2024-03-20 17:45:00,122.0,86.0,156.0
+Hôpital Jean-Talon,2024-03-20 18:45:00,118.0,85.0,153.0
+Hôpital Jean-Talon,2024-03-20 19:45:00,115.0,81.0,151.0
 Hôpital Jean-Talon,2024-03-20 20:45:00,112.0,79.0,147.0
-Hôpital Jean-Talon,2024-03-20 21:45:00,110.0,78.0,144.0
-Hôpital Jean-Talon,2024-03-20 22:45:00,107.0,74.0,141.0
-Hôpital Jean-Talon,2024-03-20 23:45:00,102.0,66.0,138.0
-Hôpital Jean-Talon,2024-03-21 00:45:00,98.0,65.0,133.0
-Hôpital Jean-Talon,2024-03-21 01:45:00,94.0,59.0,128.0
-Hôpital Jean-Talon,2024-03-21 02:45:00,93.0,57.0,126.0
-Hôpital Jean-Talon,2024-03-21 03:45:00,92.0,58.0,128.0
-Hôpital Jean-Talon,2024-03-21 04:45:00,92.0,59.0,131.0
-Hôpital Jean-Talon,2024-03-21 05:45:00,92.0,58.0,127.0
-Hôpital Jean-Talon,2024-03-21 06:45:00,92.0,57.0,127.0
-Hôpital Jean-Talon,2024-03-21 07:45:00,95.0,60.0,127.0
-Hôpital Jean-Talon,2024-03-21 08:45:00,99.0,65.0,131.0
-Hôpital Jean-Talon,2024-03-21 09:45:00,104.0,70.0,137.0
-Hôpital Notre-Dame,2024-03-19 08:45:00,110.0,86.0,132.0
-Hôpital Notre-Dame,2024-03-19 09:45:00,111.0,89.0,134.0
-Hôpital Notre-Dame,2024-03-19 10:45:00,112.0,91.0,133.0
-Hôpital Notre-Dame,2024-03-19 11:45:00,112.0,90.0,134.0
-Hôpital Notre-Dame,2024-03-19 12:45:00,112.0,89.0,134.0
-Hôpital Notre-Dame,2024-03-19 13:45:00,111.0,88.0,135.0
-Hôpital Notre-Dame,2024-03-19 14:45:00,110.0,89.0,132.0
-Hôpital Notre-Dame,2024-03-19 15:45:00,109.0,87.0,131.0
-Hôpital Notre-Dame,2024-03-19 16:45:00,109.0,86.0,131.0
-Hôpital Notre-Dame,2024-03-19 17:45:00,109.0,86.0,130.0
-Hôpital Notre-Dame,2024-03-19 18:45:00,108.0,86.0,131.0
-Hôpital Notre-Dame,2024-03-19 19:45:00,107.0,86.0,129.0
-Hôpital Notre-Dame,2024-03-19 20:45:00,105.0,83.0,127.0
-Hôpital Notre-Dame,2024-03-19 21:45:00,103.0,80.0,124.0
-Hôpital Notre-Dame,2024-03-19 22:45:00,101.0,79.0,123.0
+Hôpital Jean-Talon,2024-03-20 21:45:00,110.0,75.0,144.0
+Hôpital Jean-Talon,2024-03-20 22:45:00,106.0,69.0,141.0
+Hôpital Jean-Talon,2024-03-20 23:45:00,102.0,70.0,134.0
+Hôpital Jean-Talon,2024-03-21 00:45:00,97.0,64.0,133.0
+Hôpital Jean-Talon,2024-03-21 01:45:00,94.0,58.0,129.0
+Hôpital Jean-Talon,2024-03-21 02:45:00,92.0,58.0,127.0
+Hôpital Jean-Talon,2024-03-21 03:45:00,92.0,59.0,128.0
+Hôpital Jean-Talon,2024-03-21 04:45:00,92.0,57.0,128.0
+Hôpital Jean-Talon,2024-03-21 05:45:00,91.0,57.0,126.0
+Hôpital Jean-Talon,2024-03-21 06:45:00,92.0,56.0,126.0
+Hôpital Jean-Talon,2024-03-21 07:45:00,94.0,59.0,128.0
+Hôpital Jean-Talon,2024-03-21 08:45:00,99.0,62.0,132.0
+Hôpital Jean-Talon,2024-03-21 09:45:00,104.0,68.0,140.0
+Hôpital Jean-Talon,2024-03-21 10:45:00,109.0,77.0,143.0
+Hôpital Jean-Talon,2024-03-21 11:45:00,113.0,79.0,148.0
+Hôpital Jean-Talon,2024-03-21 12:45:00,117.0,79.0,150.0
+Hôpital Jean-Talon,2024-03-21 13:45:00,120.0,86.0,155.0
+Hôpital Jean-Talon,2024-03-21 14:45:00,123.0,89.0,158.0
+Hôpital Jean-Talon,2024-03-21 15:45:00,124.0,89.0,156.0
+Hôpital Jean-Talon,2024-03-21 16:45:00,122.0,87.0,157.0
+Hôpital Jean-Talon,2024-03-21 17:45:00,119.0,81.0,152.0
+Hôpital Jean-Talon,2024-03-21 18:45:00,115.0,81.0,150.0
+Hôpital Jean-Talon,2024-03-21 19:45:00,111.0,75.0,146.0
+Hôpital Jean-Talon,2024-03-21 20:45:00,108.0,77.0,143.0
+Hôpital Jean-Talon,2024-03-21 21:45:00,106.0,71.0,141.0
+Hôpital Jean-Talon,2024-03-21 22:45:00,103.0,68.0,140.0
+Hôpital Jean-Talon,2024-03-21 23:45:00,98.0,63.0,132.0
+Hôpital Jean-Talon,2024-03-22 00:45:00,94.0,58.0,130.0
+Hôpital Jean-Talon,2024-03-22 01:45:00,91.0,56.0,126.0
+Hôpital Jean-Talon,2024-03-22 02:45:00,89.0,56.0,124.0
+Hôpital Jean-Talon,2024-03-22 03:45:00,89.0,56.0,125.0
+Hôpital Jean-Talon,2024-03-22 04:45:00,89.0,53.0,122.0
+Hôpital Jean-Talon,2024-03-22 05:45:00,89.0,55.0,124.0
+Hôpital Jean-Talon,2024-03-22 06:45:00,90.0,55.0,126.0
+Hôpital Jean-Talon,2024-03-22 07:45:00,92.0,59.0,126.0
+Hôpital Jean-Talon,2024-03-22 08:45:00,97.0,63.0,132.0
+Hôpital Jean-Talon,2024-03-22 09:45:00,103.0,69.0,138.0
+Hôpital Jean-Talon,2024-03-22 10:45:00,108.0,74.0,144.0
+Hôpital Jean-Talon,2024-03-22 11:45:00,113.0,79.0,146.0
+Hôpital Jean-Talon,2024-03-22 12:45:00,117.0,81.0,152.0
+Hôpital Jean-Talon,2024-03-22 13:45:00,120.0,87.0,155.0
+Hôpital Jean-Talon,2024-03-22 14:45:00,123.0,91.0,159.0
+Hôpital Jean-Talon,2024-03-22 15:45:00,124.0,92.0,161.0
+Hôpital Jean-Talon,2024-03-22 16:45:00,123.0,88.0,157.0
+Hôpital Jean-Talon,2024-03-22 17:45:00,120.0,86.0,153.0
+Hôpital Jean-Talon,2024-03-22 18:45:00,116.0,81.0,150.0
+Hôpital Jean-Talon,2024-03-22 19:45:00,112.0,77.0,147.0
+Hôpital Jean-Talon,2024-03-22 20:45:00,110.0,77.0,145.0
+Hôpital Jean-Talon,2024-03-22 21:45:00,107.0,70.0,141.0
+Hôpital Jean-Talon,2024-03-22 22:45:00,104.0,70.0,140.0
+Hôpital Jean-Talon,2024-03-22 23:45:00,99.0,63.0,134.0
+Hôpital Jean-Talon,2024-03-23 00:45:00,94.0,59.0,127.0
+Hôpital Jean-Talon,2024-03-23 01:45:00,91.0,58.0,125.0
+Hôpital Jean-Talon,2024-03-23 02:45:00,89.0,56.0,124.0
+Hôpital Jean-Talon,2024-03-23 03:45:00,89.0,55.0,123.0
+Hôpital Jean-Talon,2024-03-23 04:45:00,88.0,57.0,124.0
+Hôpital Jean-Talon,2024-03-23 05:45:00,88.0,54.0,121.0
+Hôpital Jean-Talon,2024-03-23 06:45:00,88.0,54.0,121.0
 Hôpital Notre-Dame,2024-03-19 23:45:00,100.0,78.0,122.0
-Hôpital Notre-Dame,2024-03-20 00:45:00,100.0,77.0,122.0
-Hôpital Notre-Dame,2024-03-20 01:45:00,100.0,77.0,124.0
-Hôpital Notre-Dame,2024-03-20 02:45:00,101.0,79.0,123.0
-Hôpital Notre-Dame,2024-03-20 03:45:00,101.0,79.0,123.0
-Hôpital Notre-Dame,2024-03-20 04:45:00,103.0,80.0,126.0
+Hôpital Notre-Dame,2024-03-20 00:45:00,100.0,78.0,124.0
+Hôpital Notre-Dame,2024-03-20 01:45:00,100.0,78.0,122.0
+Hôpital Notre-Dame,2024-03-20 02:45:00,101.0,79.0,125.0
+Hôpital Notre-Dame,2024-03-20 03:45:00,101.0,78.0,123.0
+Hôpital Notre-Dame,2024-03-20 04:45:00,103.0,80.0,124.0
 Hôpital Notre-Dame,2024-03-20 05:45:00,104.0,82.0,128.0
-Hôpital Notre-Dame,2024-03-20 06:45:00,106.0,83.0,127.0
-Hôpital Notre-Dame,2024-03-20 07:45:00,107.0,86.0,131.0
-Hôpital Notre-Dame,2024-03-20 08:45:00,108.0,88.0,129.0
-Hôpital Notre-Dame,2024-03-20 09:45:00,109.0,87.0,133.0
-Hôpital Notre-Dame,2024-03-20 10:45:00,110.0,87.0,134.0
-Hôpital Notre-Dame,2024-03-20 11:45:00,110.0,87.0,133.0
+Hôpital Notre-Dame,2024-03-20 06:45:00,106.0,81.0,129.0
+Hôpital Notre-Dame,2024-03-20 07:45:00,107.0,85.0,130.0
+Hôpital Notre-Dame,2024-03-20 08:45:00,108.0,84.0,131.0
+Hôpital Notre-Dame,2024-03-20 09:45:00,109.0,87.0,132.0
+Hôpital Notre-Dame,2024-03-20 10:45:00,110.0,88.0,133.0
+Hôpital Notre-Dame,2024-03-20 11:45:00,110.0,87.0,131.0
 Hôpital Notre-Dame,2024-03-20 12:45:00,110.0,87.0,133.0
-Hôpital Notre-Dame,2024-03-20 13:45:00,109.0,87.0,133.0
-Hôpital Notre-Dame,2024-03-20 14:45:00,108.0,86.0,130.0
-Hôpital Notre-Dame,2024-03-20 15:45:00,107.0,84.0,127.0
-Hôpital Notre-Dame,2024-03-20 16:45:00,106.0,83.0,130.0
-Hôpital Notre-Dame,2024-03-20 17:45:00,106.0,84.0,131.0
-Hôpital Notre-Dame,2024-03-20 18:45:00,106.0,82.0,128.0
-Hôpital Notre-Dame,2024-03-20 19:45:00,105.0,84.0,128.0
-Hôpital Notre-Dame,2024-03-20 20:45:00,103.0,80.0,125.0
-Hôpital Notre-Dame,2024-03-20 21:45:00,101.0,78.0,124.0
-Hôpital Notre-Dame,2024-03-20 22:45:00,99.0,76.0,121.0
+Hôpital Notre-Dame,2024-03-20 13:45:00,109.0,87.0,131.0
+Hôpital Notre-Dame,2024-03-20 14:45:00,108.0,85.0,131.0
+Hôpital Notre-Dame,2024-03-20 15:45:00,107.0,83.0,125.0
+Hôpital Notre-Dame,2024-03-20 16:45:00,106.0,84.0,128.0
+Hôpital Notre-Dame,2024-03-20 17:45:00,106.0,83.0,128.0
+Hôpital Notre-Dame,2024-03-20 18:45:00,106.0,82.0,129.0
+Hôpital Notre-Dame,2024-03-20 19:45:00,105.0,83.0,127.0
+Hôpital Notre-Dame,2024-03-20 20:45:00,103.0,80.0,124.0
+Hôpital Notre-Dame,2024-03-20 21:45:00,101.0,78.0,125.0
+Hôpital Notre-Dame,2024-03-20 22:45:00,99.0,78.0,121.0
 Hôpital Notre-Dame,2024-03-20 23:45:00,98.0,76.0,121.0
-Hôpital Notre-Dame,2024-03-21 00:45:00,98.0,74.0,119.0
-Hôpital Notre-Dame,2024-03-21 01:45:00,98.0,74.0,120.0
-Hôpital Notre-Dame,2024-03-21 02:45:00,98.0,75.0,121.0
-Hôpital Notre-Dame,2024-03-21 03:45:00,99.0,76.0,121.0
-Hôpital Notre-Dame,2024-03-21 04:45:00,100.0,77.0,122.0
-Hôpital Notre-Dame,2024-03-21 05:45:00,102.0,81.0,125.0
-Hôpital Notre-Dame,2024-03-21 06:45:00,104.0,80.0,125.0
-Hôpital Notre-Dame,2024-03-21 07:45:00,105.0,81.0,128.0
-Hôpital Notre-Dame,2024-03-21 08:45:00,106.0,83.0,128.0
+Hôpital Notre-Dame,2024-03-21 00:45:00,98.0,75.0,120.0
+Hôpital Notre-Dame,2024-03-21 01:45:00,98.0,76.0,121.0
+Hôpital Notre-Dame,2024-03-21 02:45:00,98.0,76.0,120.0
+Hôpital Notre-Dame,2024-03-21 03:45:00,99.0,76.0,122.0
+Hôpital Notre-Dame,2024-03-21 04:45:00,100.0,78.0,124.0
+Hôpital Notre-Dame,2024-03-21 05:45:00,102.0,80.0,125.0
+Hôpital Notre-Dame,2024-03-21 06:45:00,104.0,81.0,127.0
+Hôpital Notre-Dame,2024-03-21 07:45:00,105.0,82.0,130.0
+Hôpital Notre-Dame,2024-03-21 08:45:00,106.0,84.0,128.0
 Hôpital Notre-Dame,2024-03-21 09:45:00,107.0,84.0,129.0
-Hôpital Royal Victoria,2024-03-19 08:45:00,168.0,146.0,193.0
-Hôpital Royal Victoria,2024-03-19 09:45:00,169.0,146.0,192.0
-Hôpital Royal Victoria,2024-03-19 10:45:00,170.0,146.0,192.0
-Hôpital Royal Victoria,2024-03-19 11:45:00,169.0,146.0,193.0
-Hôpital Royal Victoria,2024-03-19 12:45:00,168.0,144.0,190.0
-Hôpital Royal Victoria,2024-03-19 13:45:00,166.0,143.0,190.0
-Hôpital Royal Victoria,2024-03-19 14:45:00,163.0,140.0,186.0
-Hôpital Royal Victoria,2024-03-19 15:45:00,161.0,137.0,184.0
-Hôpital Royal Victoria,2024-03-19 16:45:00,158.0,137.0,182.0
-Hôpital Royal Victoria,2024-03-19 17:45:00,156.0,133.0,181.0
-Hôpital Royal Victoria,2024-03-19 18:45:00,154.0,132.0,178.0
-Hôpital Royal Victoria,2024-03-19 19:45:00,153.0,130.0,177.0
-Hôpital Royal Victoria,2024-03-19 20:45:00,152.0,129.0,176.0
-Hôpital Royal Victoria,2024-03-19 21:45:00,151.0,128.0,175.0
-Hôpital Royal Victoria,2024-03-19 22:45:00,151.0,127.0,174.0
-Hôpital Royal Victoria,2024-03-19 23:45:00,150.0,127.0,175.0
-Hôpital Royal Victoria,2024-03-20 00:45:00,151.0,127.0,173.0
-Hôpital Royal Victoria,2024-03-20 01:45:00,152.0,128.0,176.0
-Hôpital Royal Victoria,2024-03-20 02:45:00,154.0,131.0,178.0
-Hôpital Royal Victoria,2024-03-20 03:45:00,156.0,130.0,179.0
-Hôpital Royal Victoria,2024-03-20 04:45:00,157.0,132.0,181.0
-Hôpital Royal Victoria,2024-03-20 05:45:00,158.0,135.0,180.0
-Hôpital Royal Victoria,2024-03-20 06:45:00,159.0,137.0,183.0
-Hôpital Royal Victoria,2024-03-20 07:45:00,161.0,137.0,185.0
-Hôpital Royal Victoria,2024-03-20 08:45:00,163.0,140.0,188.0
-Hôpital Royal Victoria,2024-03-20 09:45:00,164.0,140.0,188.0
-Hôpital Royal Victoria,2024-03-20 10:45:00,164.0,142.0,187.0
-Hôpital Royal Victoria,2024-03-20 11:45:00,164.0,141.0,187.0
-Hôpital Royal Victoria,2024-03-20 12:45:00,162.0,139.0,186.0
-Hôpital Royal Victoria,2024-03-20 13:45:00,161.0,136.0,184.0
-Hôpital Royal Victoria,2024-03-20 14:45:00,158.0,134.0,183.0
-Hôpital Royal Victoria,2024-03-20 15:45:00,156.0,133.0,179.0
-Hôpital Royal Victoria,2024-03-20 16:45:00,154.0,130.0,177.0
+Hôpital Notre-Dame,2024-03-21 10:45:00,107.0,84.0,129.0
+Hôpital Notre-Dame,2024-03-21 11:45:00,108.0,86.0,133.0
+Hôpital Notre-Dame,2024-03-21 12:45:00,108.0,84.0,129.0
+Hôpital Notre-Dame,2024-03-21 13:45:00,106.0,84.0,129.0
+Hôpital Notre-Dame,2024-03-21 14:45:00,105.0,84.0,127.0
+Hôpital Notre-Dame,2024-03-21 15:45:00,104.0,84.0,126.0
+Hôpital Notre-Dame,2024-03-21 16:45:00,103.0,82.0,126.0
+Hôpital Notre-Dame,2024-03-21 17:45:00,103.0,81.0,126.0
+Hôpital Notre-Dame,2024-03-21 18:45:00,103.0,80.0,126.0
+Hôpital Notre-Dame,2024-03-21 19:45:00,102.0,79.0,122.0
+Hôpital Notre-Dame,2024-03-21 20:45:00,100.0,77.0,122.0
+Hôpital Notre-Dame,2024-03-21 21:45:00,97.0,74.0,118.0
+Hôpital Notre-Dame,2024-03-21 22:45:00,96.0,72.0,119.0
+Hôpital Notre-Dame,2024-03-21 23:45:00,95.0,71.0,118.0
+Hôpital Notre-Dame,2024-03-22 00:45:00,94.0,71.0,115.0
+Hôpital Notre-Dame,2024-03-22 01:45:00,94.0,71.0,116.0
+Hôpital Notre-Dame,2024-03-22 02:45:00,94.0,71.0,118.0
+Hôpital Notre-Dame,2024-03-22 03:45:00,95.0,73.0,119.0
+Hôpital Notre-Dame,2024-03-22 04:45:00,96.0,73.0,119.0
+Hôpital Notre-Dame,2024-03-22 05:45:00,98.0,76.0,120.0
+Hôpital Notre-Dame,2024-03-22 06:45:00,99.0,76.0,124.0
+Hôpital Notre-Dame,2024-03-22 07:45:00,101.0,79.0,122.0
+Hôpital Notre-Dame,2024-03-22 08:45:00,102.0,80.0,126.0
+Hôpital Notre-Dame,2024-03-22 09:45:00,102.0,81.0,127.0
+Hôpital Notre-Dame,2024-03-22 10:45:00,103.0,80.0,125.0
+Hôpital Notre-Dame,2024-03-22 11:45:00,103.0,81.0,127.0
+Hôpital Notre-Dame,2024-03-22 12:45:00,103.0,81.0,126.0
+Hôpital Notre-Dame,2024-03-22 13:45:00,102.0,80.0,126.0
+Hôpital Notre-Dame,2024-03-22 14:45:00,101.0,77.0,123.0
+Hôpital Notre-Dame,2024-03-22 15:45:00,99.0,77.0,121.0
+Hôpital Notre-Dame,2024-03-22 16:45:00,99.0,75.0,122.0
+Hôpital Notre-Dame,2024-03-22 17:45:00,99.0,76.0,121.0
+Hôpital Notre-Dame,2024-03-22 18:45:00,98.0,76.0,120.0
+Hôpital Notre-Dame,2024-03-22 19:45:00,97.0,75.0,119.0
+Hôpital Notre-Dame,2024-03-22 20:45:00,95.0,70.0,118.0
+Hôpital Notre-Dame,2024-03-22 21:45:00,93.0,71.0,116.0
+Hôpital Notre-Dame,2024-03-22 22:45:00,91.0,68.0,114.0
+Hôpital Notre-Dame,2024-03-22 23:45:00,90.0,67.0,113.0
+Hôpital Notre-Dame,2024-03-23 00:45:00,90.0,68.0,114.0
+Hôpital Notre-Dame,2024-03-23 01:45:00,90.0,67.0,114.0
+Hôpital Notre-Dame,2024-03-23 02:45:00,90.0,68.0,112.0
+Hôpital Notre-Dame,2024-03-23 03:45:00,91.0,69.0,113.0
+Hôpital Notre-Dame,2024-03-23 04:45:00,92.0,69.0,114.0
+Hôpital Notre-Dame,2024-03-23 05:45:00,94.0,72.0,116.0
+Hôpital Notre-Dame,2024-03-23 06:45:00,95.0,70.0,118.0
+Hôpital Royal Victoria,2024-03-19 23:45:00,150.0,127.0,172.0
+Hôpital Royal Victoria,2024-03-20 00:45:00,151.0,128.0,172.0
+Hôpital Royal Victoria,2024-03-20 01:45:00,152.0,130.0,174.0
+Hôpital Royal Victoria,2024-03-20 02:45:00,154.0,129.0,178.0
+Hôpital Royal Victoria,2024-03-20 03:45:00,156.0,132.0,178.0
+Hôpital Royal Victoria,2024-03-20 04:45:00,157.0,135.0,181.0
+Hôpital Royal Victoria,2024-03-20 05:45:00,158.0,134.0,181.0
+Hôpital Royal Victoria,2024-03-20 06:45:00,160.0,136.0,184.0
+Hôpital Royal Victoria,2024-03-20 07:45:00,161.0,139.0,185.0
+Hôpital Royal Victoria,2024-03-20 08:45:00,163.0,139.0,187.0
+Hôpital Royal Victoria,2024-03-20 09:45:00,164.0,141.0,187.0
+Hôpital Royal Victoria,2024-03-20 10:45:00,164.0,140.0,187.0
+Hôpital Royal Victoria,2024-03-20 11:45:00,164.0,143.0,187.0
+Hôpital Royal Victoria,2024-03-20 12:45:00,163.0,139.0,185.0
+Hôpital Royal Victoria,2024-03-20 13:45:00,161.0,137.0,185.0
+Hôpital Royal Victoria,2024-03-20 14:45:00,158.0,135.0,181.0
+Hôpital Royal Victoria,2024-03-20 15:45:00,156.0,133.0,180.0
+Hôpital Royal Victoria,2024-03-20 16:45:00,154.0,133.0,177.0
 Hôpital Royal Victoria,2024-03-20 17:45:00,152.0,129.0,175.0
-Hôpital Royal Victoria,2024-03-20 18:45:00,150.0,127.0,172.0
-Hôpital Royal Victoria,2024-03-20 19:45:00,150.0,127.0,174.0
+Hôpital Royal Victoria,2024-03-20 18:45:00,150.0,128.0,174.0
+Hôpital Royal Victoria,2024-03-20 19:45:00,150.0,124.0,173.0
 Hôpital Royal Victoria,2024-03-20 20:45:00,149.0,126.0,173.0
-Hôpital Royal Victoria,2024-03-20 21:45:00,148.0,123.0,171.0
-Hôpital Royal Victoria,2024-03-20 22:45:00,148.0,125.0,172.0
-Hôpital Royal Victoria,2024-03-20 23:45:00,148.0,125.0,169.0
+Hôpital Royal Victoria,2024-03-20 21:45:00,149.0,126.0,172.0
+Hôpital Royal Victoria,2024-03-20 22:45:00,148.0,126.0,171.0
+Hôpital Royal Victoria,2024-03-20 23:45:00,148.0,125.0,173.0
 Hôpital Royal Victoria,2024-03-21 00:45:00,149.0,126.0,171.0
-Hôpital Royal Victoria,2024-03-21 01:45:00,151.0,127.0,174.0
-Hôpital Royal Victoria,2024-03-21 02:45:00,154.0,132.0,176.0
-Hôpital Royal Victoria,2024-03-21 03:45:00,156.0,134.0,179.0
-Hôpital Royal Victoria,2024-03-21 04:45:00,157.0,135.0,182.0
-Hôpital Royal Victoria,2024-03-21 05:45:00,159.0,135.0,181.0
-Hôpital Royal Victoria,2024-03-21 06:45:00,161.0,137.0,186.0
-Hôpital Royal Victoria,2024-03-21 07:45:00,162.0,138.0,184.0
-Hôpital Royal Victoria,2024-03-21 08:45:00,165.0,140.0,187.0
-Hôpital Royal Victoria,2024-03-21 09:45:00,166.0,143.0,190.0
-Hôpital Santa Cabrini,2024-03-19 08:45:00,121.0,91.0,149.0
-Hôpital Santa Cabrini,2024-03-19 09:45:00,123.0,92.0,153.0
-Hôpital Santa Cabrini,2024-03-19 10:45:00,125.0,97.0,154.0
-Hôpital Santa Cabrini,2024-03-19 11:45:00,127.0,97.0,158.0
-Hôpital Santa Cabrini,2024-03-19 12:45:00,129.0,98.0,157.0
-Hôpital Santa Cabrini,2024-03-19 13:45:00,130.0,101.0,159.0
-Hôpital Santa Cabrini,2024-03-19 14:45:00,131.0,101.0,164.0
-Hôpital Santa Cabrini,2024-03-19 15:45:00,131.0,99.0,160.0
-Hôpital Santa Cabrini,2024-03-19 16:45:00,129.0,100.0,159.0
-Hôpital Santa Cabrini,2024-03-19 17:45:00,128.0,99.0,158.0
-Hôpital Santa Cabrini,2024-03-19 18:45:00,126.0,96.0,156.0
-Hôpital Santa Cabrini,2024-03-19 19:45:00,124.0,96.0,154.0
-Hôpital Santa Cabrini,2024-03-19 20:45:00,121.0,92.0,150.0
-Hôpital Santa Cabrini,2024-03-19 21:45:00,118.0,88.0,147.0
-Hôpital Santa Cabrini,2024-03-19 22:45:00,115.0,87.0,144.0
-Hôpital Santa Cabrini,2024-03-19 23:45:00,113.0,83.0,140.0
-Hôpital Santa Cabrini,2024-03-20 00:45:00,113.0,83.0,143.0
-Hôpital Santa Cabrini,2024-03-20 01:45:00,114.0,84.0,142.0
-Hôpital Santa Cabrini,2024-03-20 02:45:00,114.0,84.0,143.0
-Hôpital Santa Cabrini,2024-03-20 03:45:00,115.0,82.0,143.0
-Hôpital Santa Cabrini,2024-03-20 04:45:00,114.0,87.0,145.0
-Hôpital Santa Cabrini,2024-03-20 05:45:00,114.0,85.0,146.0
-Hôpital Santa Cabrini,2024-03-20 06:45:00,115.0,85.0,142.0
-Hôpital Santa Cabrini,2024-03-20 07:45:00,116.0,89.0,144.0
-Hôpital Santa Cabrini,2024-03-20 08:45:00,117.0,87.0,149.0
-Hôpital Santa Cabrini,2024-03-20 09:45:00,119.0,89.0,148.0
-Hôpital Santa Cabrini,2024-03-20 10:45:00,120.0,93.0,151.0
-Hôpital Santa Cabrini,2024-03-20 11:45:00,122.0,92.0,152.0
-Hôpital Santa Cabrini,2024-03-20 12:45:00,124.0,94.0,151.0
-Hôpital Santa Cabrini,2024-03-20 13:45:00,125.0,95.0,154.0
-Hôpital Santa Cabrini,2024-03-20 14:45:00,125.0,97.0,156.0
-Hôpital Santa Cabrini,2024-03-20 15:45:00,125.0,95.0,155.0
-Hôpital Santa Cabrini,2024-03-20 16:45:00,123.0,96.0,152.0
-Hôpital Santa Cabrini,2024-03-20 17:45:00,121.0,89.0,150.0
-Hôpital Santa Cabrini,2024-03-20 18:45:00,119.0,90.0,148.0
-Hôpital Santa Cabrini,2024-03-20 19:45:00,117.0,86.0,149.0
-Hôpital Santa Cabrini,2024-03-20 20:45:00,115.0,86.0,144.0
-Hôpital Santa Cabrini,2024-03-20 21:45:00,112.0,82.0,141.0
-Hôpital Santa Cabrini,2024-03-20 22:45:00,109.0,79.0,136.0
+Hôpital Royal Victoria,2024-03-21 01:45:00,151.0,127.0,175.0
+Hôpital Royal Victoria,2024-03-21 02:45:00,154.0,130.0,177.0
+Hôpital Royal Victoria,2024-03-21 03:45:00,156.0,132.0,179.0
+Hôpital Royal Victoria,2024-03-21 04:45:00,158.0,135.0,181.0
+Hôpital Royal Victoria,2024-03-21 05:45:00,159.0,137.0,183.0
+Hôpital Royal Victoria,2024-03-21 06:45:00,161.0,139.0,184.0
+Hôpital Royal Victoria,2024-03-21 07:45:00,163.0,139.0,185.0
+Hôpital Royal Victoria,2024-03-21 08:45:00,165.0,142.0,190.0
+Hôpital Royal Victoria,2024-03-21 09:45:00,166.0,144.0,189.0
+Hôpital Royal Victoria,2024-03-21 10:45:00,167.0,145.0,190.0
+Hôpital Royal Victoria,2024-03-21 11:45:00,167.0,144.0,191.0
+Hôpital Royal Victoria,2024-03-21 12:45:00,166.0,144.0,189.0
+Hôpital Royal Victoria,2024-03-21 13:45:00,164.0,140.0,188.0
+Hôpital Royal Victoria,2024-03-21 14:45:00,162.0,139.0,186.0
+Hôpital Royal Victoria,2024-03-21 15:45:00,160.0,135.0,183.0
+Hôpital Royal Victoria,2024-03-21 16:45:00,158.0,136.0,182.0
+Hôpital Royal Victoria,2024-03-21 17:45:00,156.0,132.0,179.0
+Hôpital Royal Victoria,2024-03-21 18:45:00,155.0,133.0,178.0
+Hôpital Royal Victoria,2024-03-21 19:45:00,154.0,131.0,178.0
+Hôpital Royal Victoria,2024-03-21 20:45:00,154.0,130.0,177.0
+Hôpital Royal Victoria,2024-03-21 21:45:00,153.0,129.0,176.0
+Hôpital Royal Victoria,2024-03-21 22:45:00,152.0,131.0,175.0
+Hôpital Royal Victoria,2024-03-21 23:45:00,152.0,129.0,174.0
+Hôpital Royal Victoria,2024-03-22 00:45:00,153.0,130.0,175.0
+Hôpital Royal Victoria,2024-03-22 01:45:00,155.0,132.0,176.0
+Hôpital Royal Victoria,2024-03-22 02:45:00,157.0,135.0,181.0
+Hôpital Royal Victoria,2024-03-22 03:45:00,159.0,135.0,181.0
+Hôpital Royal Victoria,2024-03-22 04:45:00,160.0,137.0,183.0
+Hôpital Royal Victoria,2024-03-22 05:45:00,161.0,138.0,184.0
+Hôpital Royal Victoria,2024-03-22 06:45:00,162.0,140.0,186.0
+Hôpital Royal Victoria,2024-03-22 07:45:00,163.0,141.0,187.0
+Hôpital Royal Victoria,2024-03-22 08:45:00,165.0,142.0,187.0
+Hôpital Royal Victoria,2024-03-22 09:45:00,166.0,143.0,189.0
+Hôpital Royal Victoria,2024-03-22 10:45:00,166.0,143.0,190.0
+Hôpital Royal Victoria,2024-03-22 11:45:00,165.0,141.0,190.0
+Hôpital Royal Victoria,2024-03-22 12:45:00,164.0,142.0,186.0
+Hôpital Royal Victoria,2024-03-22 13:45:00,161.0,137.0,184.0
+Hôpital Royal Victoria,2024-03-22 14:45:00,159.0,136.0,182.0
+Hôpital Royal Victoria,2024-03-22 15:45:00,156.0,133.0,178.0
+Hôpital Royal Victoria,2024-03-22 16:45:00,153.0,129.0,176.0
+Hôpital Royal Victoria,2024-03-22 17:45:00,150.0,127.0,174.0
+Hôpital Royal Victoria,2024-03-22 18:45:00,149.0,127.0,172.0
+Hôpital Royal Victoria,2024-03-22 19:45:00,147.0,123.0,172.0
+Hôpital Royal Victoria,2024-03-22 20:45:00,146.0,124.0,171.0
+Hôpital Royal Victoria,2024-03-22 21:45:00,145.0,122.0,169.0
+Hôpital Royal Victoria,2024-03-22 22:45:00,144.0,121.0,166.0
+Hôpital Royal Victoria,2024-03-22 23:45:00,143.0,121.0,168.0
+Hôpital Royal Victoria,2024-03-23 00:45:00,144.0,121.0,166.0
+Hôpital Royal Victoria,2024-03-23 01:45:00,145.0,121.0,166.0
+Hôpital Royal Victoria,2024-03-23 02:45:00,147.0,125.0,173.0
+Hôpital Royal Victoria,2024-03-23 03:45:00,149.0,125.0,172.0
+Hôpital Royal Victoria,2024-03-23 04:45:00,150.0,126.0,174.0
+Hôpital Royal Victoria,2024-03-23 05:45:00,151.0,128.0,174.0
+Hôpital Royal Victoria,2024-03-23 06:45:00,152.0,130.0,175.0
+Hôpital Santa Cabrini,2024-03-19 23:45:00,113.0,83.0,144.0
+Hôpital Santa Cabrini,2024-03-20 00:45:00,113.0,82.0,140.0
+Hôpital Santa Cabrini,2024-03-20 01:45:00,113.0,84.0,144.0
+Hôpital Santa Cabrini,2024-03-20 02:45:00,114.0,87.0,145.0
+Hôpital Santa Cabrini,2024-03-20 03:45:00,114.0,84.0,145.0
+Hôpital Santa Cabrini,2024-03-20 04:45:00,114.0,85.0,143.0
+Hôpital Santa Cabrini,2024-03-20 05:45:00,114.0,85.0,143.0
+Hôpital Santa Cabrini,2024-03-20 06:45:00,115.0,85.0,143.0
+Hôpital Santa Cabrini,2024-03-20 07:45:00,116.0,87.0,144.0
+Hôpital Santa Cabrini,2024-03-20 08:45:00,117.0,87.0,147.0
+Hôpital Santa Cabrini,2024-03-20 09:45:00,119.0,91.0,148.0
+Hôpital Santa Cabrini,2024-03-20 10:45:00,120.0,89.0,148.0
+Hôpital Santa Cabrini,2024-03-20 11:45:00,122.0,92.0,151.0
+Hôpital Santa Cabrini,2024-03-20 12:45:00,123.0,94.0,154.0
+Hôpital Santa Cabrini,2024-03-20 13:45:00,125.0,94.0,155.0
+Hôpital Santa Cabrini,2024-03-20 14:45:00,125.0,96.0,154.0
+Hôpital Santa Cabrini,2024-03-20 15:45:00,125.0,95.0,154.0
+Hôpital Santa Cabrini,2024-03-20 16:45:00,123.0,91.0,151.0
+Hôpital Santa Cabrini,2024-03-20 17:45:00,121.0,91.0,151.0
+Hôpital Santa Cabrini,2024-03-20 18:45:00,119.0,90.0,150.0
+Hôpital Santa Cabrini,2024-03-20 19:45:00,117.0,89.0,147.0
+Hôpital Santa Cabrini,2024-03-20 20:45:00,115.0,83.0,145.0
+Hôpital Santa Cabrini,2024-03-20 21:45:00,112.0,81.0,141.0
+Hôpital Santa Cabrini,2024-03-20 22:45:00,109.0,78.0,141.0
 Hôpital Santa Cabrini,2024-03-20 23:45:00,107.0,79.0,136.0
 Hôpital Santa Cabrini,2024-03-21 00:45:00,107.0,77.0,137.0
-Hôpital Santa Cabrini,2024-03-21 01:45:00,108.0,79.0,138.0
-Hôpital Santa Cabrini,2024-03-21 02:45:00,109.0,79.0,137.0
-Hôpital Santa Cabrini,2024-03-21 03:45:00,109.0,78.0,139.0
-Hôpital Santa Cabrini,2024-03-21 04:45:00,109.0,78.0,138.0
-Hôpital Santa Cabrini,2024-03-21 05:45:00,110.0,81.0,139.0
-Hôpital Santa Cabrini,2024-03-21 06:45:00,110.0,83.0,142.0
-Hôpital Santa Cabrini,2024-03-21 07:45:00,112.0,82.0,142.0
-Hôpital Santa Cabrini,2024-03-21 08:45:00,114.0,83.0,144.0
-Hôpital Santa Cabrini,2024-03-21 09:45:00,116.0,87.0,145.0
-Institut de Cardiologie de Montréal,2024-03-19 08:45:00,66.0,44.0,90.0
-Institut de Cardiologie de Montréal,2024-03-19 09:45:00,67.0,45.0,89.0
-Institut de Cardiologie de Montréal,2024-03-19 10:45:00,68.0,46.0,91.0
-Institut de Cardiologie de Montréal,2024-03-19 11:45:00,70.0,47.0,93.0
-Institut de Cardiologie de Montréal,2024-03-19 12:45:00,71.0,49.0,92.0
-Institut de Cardiologie de Montréal,2024-03-19 13:45:00,73.0,51.0,95.0
-Institut de Cardiologie de Montréal,2024-03-19 14:45:00,73.0,52.0,94.0
-Institut de Cardiologie de Montréal,2024-03-19 15:45:00,71.0,49.0,94.0
-Institut de Cardiologie de Montréal,2024-03-19 16:45:00,69.0,47.0,93.0
-Institut de Cardiologie de Montréal,2024-03-19 17:45:00,68.0,46.0,89.0
-Institut de Cardiologie de Montréal,2024-03-19 18:45:00,66.0,44.0,89.0
-Institut de Cardiologie de Montréal,2024-03-19 19:45:00,65.0,43.0,87.0
-Institut de Cardiologie de Montréal,2024-03-19 20:45:00,64.0,41.0,87.0
-Institut de Cardiologie de Montréal,2024-03-19 21:45:00,62.0,40.0,83.0
-Institut de Cardiologie de Montréal,2024-03-19 22:45:00,60.0,37.0,83.0
-Institut de Cardiologie de Montréal,2024-03-19 23:45:00,59.0,36.0,83.0
-Institut de Cardiologie de Montréal,2024-03-20 00:45:00,59.0,35.0,79.0
-Institut de Cardiologie de Montréal,2024-03-20 01:45:00,60.0,35.0,82.0
-Institut de Cardiologie de Montréal,2024-03-20 02:45:00,61.0,38.0,82.0
-Institut de Cardiologie de Montréal,2024-03-20 03:45:00,62.0,39.0,84.0
-Institut de Cardiologie de Montréal,2024-03-20 04:45:00,63.0,41.0,86.0
-Institut de Cardiologie de Montréal,2024-03-20 05:45:00,63.0,41.0,86.0
-Institut de Cardiologie de Montréal,2024-03-20 06:45:00,64.0,43.0,88.0
-Institut de Cardiologie de Montréal,2024-03-20 07:45:00,65.0,43.0,89.0
-Institut de Cardiologie de Montréal,2024-03-20 08:45:00,66.0,44.0,88.0
-Institut de Cardiologie de Montréal,2024-03-20 09:45:00,66.0,44.0,89.0
-Institut de Cardiologie de Montréal,2024-03-20 10:45:00,67.0,45.0,88.0
-Institut de Cardiologie de Montréal,2024-03-20 11:45:00,68.0,46.0,91.0
-Institut de Cardiologie de Montréal,2024-03-20 12:45:00,69.0,46.0,92.0
-Institut de Cardiologie de Montréal,2024-03-20 13:45:00,69.0,48.0,90.0
-Institut de Cardiologie de Montréal,2024-03-20 14:45:00,69.0,45.0,91.0
-Institut de Cardiologie de Montréal,2024-03-20 15:45:00,67.0,45.0,89.0
-Institut de Cardiologie de Montréal,2024-03-20 16:45:00,65.0,42.0,87.0
-Institut de Cardiologie de Montréal,2024-03-20 17:45:00,63.0,40.0,84.0
-Institut de Cardiologie de Montréal,2024-03-20 18:45:00,61.0,39.0,84.0
-Institut de Cardiologie de Montréal,2024-03-20 19:45:00,60.0,37.0,82.0
-Institut de Cardiologie de Montréal,2024-03-20 20:45:00,58.0,37.0,82.0
-Institut de Cardiologie de Montréal,2024-03-20 21:45:00,56.0,31.0,78.0
-Institut de Cardiologie de Montréal,2024-03-20 22:45:00,53.0,31.0,75.0
-Institut de Cardiologie de Montréal,2024-03-20 23:45:00,52.0,30.0,76.0
-Institut de Cardiologie de Montréal,2024-03-21 00:45:00,52.0,30.0,75.0
-Institut de Cardiologie de Montréal,2024-03-21 01:45:00,53.0,30.0,77.0
-Institut de Cardiologie de Montréal,2024-03-21 02:45:00,55.0,32.0,78.0
-Institut de Cardiologie de Montréal,2024-03-21 03:45:00,56.0,33.0,78.0
-Institut de Cardiologie de Montréal,2024-03-21 04:45:00,56.0,33.0,78.0
-Institut de Cardiologie de Montréal,2024-03-21 05:45:00,57.0,37.0,82.0
-Institut de Cardiologie de Montréal,2024-03-21 06:45:00,58.0,36.0,80.0
+Hôpital Santa Cabrini,2024-03-21 01:45:00,108.0,77.0,138.0
+Hôpital Santa Cabrini,2024-03-21 02:45:00,109.0,81.0,137.0
+Hôpital Santa Cabrini,2024-03-21 03:45:00,109.0,79.0,136.0
+Hôpital Santa Cabrini,2024-03-21 04:45:00,109.0,80.0,139.0
+Hôpital Santa Cabrini,2024-03-21 05:45:00,109.0,79.0,139.0
+Hôpital Santa Cabrini,2024-03-21 06:45:00,110.0,80.0,141.0
+Hôpital Santa Cabrini,2024-03-21 07:45:00,112.0,84.0,143.0
+Hôpital Santa Cabrini,2024-03-21 08:45:00,114.0,86.0,142.0
+Hôpital Santa Cabrini,2024-03-21 09:45:00,115.0,86.0,144.0
+Hôpital Santa Cabrini,2024-03-21 10:45:00,117.0,89.0,149.0
+Hôpital Santa Cabrini,2024-03-21 11:45:00,119.0,88.0,148.0
+Hôpital Santa Cabrini,2024-03-21 12:45:00,121.0,91.0,152.0
+Hôpital Santa Cabrini,2024-03-21 13:45:00,123.0,94.0,152.0
+Hôpital Santa Cabrini,2024-03-21 14:45:00,124.0,91.0,153.0
+Hôpital Santa Cabrini,2024-03-21 15:45:00,123.0,95.0,154.0
+Hôpital Santa Cabrini,2024-03-21 16:45:00,122.0,96.0,153.0
+Hôpital Santa Cabrini,2024-03-21 17:45:00,121.0,91.0,151.0
+Hôpital Santa Cabrini,2024-03-21 18:45:00,119.0,89.0,147.0
+Hôpital Santa Cabrini,2024-03-21 19:45:00,117.0,89.0,147.0
+Hôpital Santa Cabrini,2024-03-21 20:45:00,115.0,86.0,144.0
+Hôpital Santa Cabrini,2024-03-21 21:45:00,112.0,83.0,141.0
+Hôpital Santa Cabrini,2024-03-21 22:45:00,109.0,80.0,141.0
+Hôpital Santa Cabrini,2024-03-21 23:45:00,108.0,76.0,135.0
+Hôpital Santa Cabrini,2024-03-22 00:45:00,107.0,78.0,138.0
+Hôpital Santa Cabrini,2024-03-22 01:45:00,108.0,80.0,139.0
+Hôpital Santa Cabrini,2024-03-22 02:45:00,109.0,79.0,141.0
+Hôpital Santa Cabrini,2024-03-22 03:45:00,110.0,79.0,139.0
+Hôpital Santa Cabrini,2024-03-22 04:45:00,110.0,79.0,140.0
+Hôpital Santa Cabrini,2024-03-22 05:45:00,110.0,80.0,139.0
+Hôpital Santa Cabrini,2024-03-22 06:45:00,110.0,79.0,140.0
+Hôpital Santa Cabrini,2024-03-22 07:45:00,112.0,82.0,142.0
+Hôpital Santa Cabrini,2024-03-22 08:45:00,113.0,82.0,142.0
+Hôpital Santa Cabrini,2024-03-22 09:45:00,115.0,86.0,143.0
+Hôpital Santa Cabrini,2024-03-22 10:45:00,116.0,86.0,147.0
+Hôpital Santa Cabrini,2024-03-22 11:45:00,118.0,88.0,147.0
+Hôpital Santa Cabrini,2024-03-22 12:45:00,120.0,93.0,147.0
+Hôpital Santa Cabrini,2024-03-22 13:45:00,121.0,89.0,151.0
+Hôpital Santa Cabrini,2024-03-22 14:45:00,121.0,92.0,150.0
+Hôpital Santa Cabrini,2024-03-22 15:45:00,121.0,91.0,149.0
+Hôpital Santa Cabrini,2024-03-22 16:45:00,119.0,88.0,151.0
+Hôpital Santa Cabrini,2024-03-22 17:45:00,117.0,87.0,146.0
+Hôpital Santa Cabrini,2024-03-22 18:45:00,115.0,84.0,142.0
+Hôpital Santa Cabrini,2024-03-22 19:45:00,112.0,80.0,141.0
+Hôpital Santa Cabrini,2024-03-22 20:45:00,109.0,79.0,140.0
+Hôpital Santa Cabrini,2024-03-22 21:45:00,106.0,78.0,134.0
+Hôpital Santa Cabrini,2024-03-22 22:45:00,103.0,73.0,134.0
+Hôpital Santa Cabrini,2024-03-22 23:45:00,101.0,71.0,132.0
+Hôpital Santa Cabrini,2024-03-23 00:45:00,100.0,70.0,132.0
+Hôpital Santa Cabrini,2024-03-23 01:45:00,101.0,73.0,129.0
+Hôpital Santa Cabrini,2024-03-23 02:45:00,101.0,71.0,131.0
+Hôpital Santa Cabrini,2024-03-23 03:45:00,101.0,70.0,130.0
+Hôpital Santa Cabrini,2024-03-23 04:45:00,101.0,71.0,131.0
+Hôpital Santa Cabrini,2024-03-23 05:45:00,100.0,70.0,131.0
+Hôpital Santa Cabrini,2024-03-23 06:45:00,101.0,72.0,130.0
+Institut de Cardiologie de Montréal,2024-03-19 23:45:00,58.0,35.0,80.0
+Institut de Cardiologie de Montréal,2024-03-20 00:45:00,59.0,36.0,82.0
+Institut de Cardiologie de Montréal,2024-03-20 01:45:00,60.0,36.0,82.0
+Institut de Cardiologie de Montréal,2024-03-20 02:45:00,61.0,39.0,83.0
+Institut de Cardiologie de Montréal,2024-03-20 03:45:00,62.0,39.0,86.0
+Institut de Cardiologie de Montréal,2024-03-20 04:45:00,63.0,39.0,85.0
+Institut de Cardiologie de Montréal,2024-03-20 05:45:00,63.0,40.0,86.0
+Institut de Cardiologie de Montréal,2024-03-20 06:45:00,64.0,41.0,89.0
+Institut de Cardiologie de Montréal,2024-03-20 07:45:00,65.0,42.0,87.0
+Institut de Cardiologie de Montréal,2024-03-20 08:45:00,66.0,43.0,86.0
+Institut de Cardiologie de Montréal,2024-03-20 09:45:00,66.0,43.0,87.0
+Institut de Cardiologie de Montréal,2024-03-20 10:45:00,66.0,42.0,89.0
+Institut de Cardiologie de Montréal,2024-03-20 11:45:00,67.0,44.0,90.0
+Institut de Cardiologie de Montréal,2024-03-20 12:45:00,68.0,45.0,90.0
+Institut de Cardiologie de Montréal,2024-03-20 13:45:00,69.0,47.0,92.0
+Institut de Cardiologie de Montréal,2024-03-20 14:45:00,69.0,47.0,91.0
+Institut de Cardiologie de Montréal,2024-03-20 15:45:00,67.0,45.0,90.0
+Institut de Cardiologie de Montréal,2024-03-20 16:45:00,65.0,43.0,87.0
+Institut de Cardiologie de Montréal,2024-03-20 17:45:00,62.0,40.0,85.0
+Institut de Cardiologie de Montréal,2024-03-20 18:45:00,61.0,38.0,83.0
+Institut de Cardiologie de Montréal,2024-03-20 19:45:00,60.0,38.0,83.0
+Institut de Cardiologie de Montréal,2024-03-20 20:45:00,58.0,36.0,80.0
+Institut de Cardiologie de Montréal,2024-03-20 21:45:00,55.0,31.0,78.0
+Institut de Cardiologie de Montréal,2024-03-20 22:45:00,53.0,31.0,76.0
+Institut de Cardiologie de Montréal,2024-03-20 23:45:00,52.0,29.0,76.0
+Institut de Cardiologie de Montréal,2024-03-21 00:45:00,52.0,28.0,76.0
+Institut de Cardiologie de Montréal,2024-03-21 01:45:00,53.0,32.0,76.0
+Institut de Cardiologie de Montréal,2024-03-21 02:45:00,54.0,33.0,78.0
+Institut de Cardiologie de Montréal,2024-03-21 03:45:00,55.0,32.0,78.0
+Institut de Cardiologie de Montréal,2024-03-21 04:45:00,56.0,32.0,79.0
+Institut de Cardiologie de Montréal,2024-03-21 05:45:00,57.0,34.0,78.0
+Institut de Cardiologie de Montréal,2024-03-21 06:45:00,58.0,35.0,80.0
 Institut de Cardiologie de Montréal,2024-03-21 07:45:00,59.0,37.0,82.0
 Institut de Cardiologie de Montréal,2024-03-21 08:45:00,60.0,36.0,81.0
-Institut de Cardiologie de Montréal,2024-03-21 09:45:00,61.0,39.0,84.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 08:45:00,58.0,35.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 09:45:00,58.0,34.0,82.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 10:45:00,59.0,37.0,83.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 11:45:00,59.0,37.0,83.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 12:45:00,59.0,35.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 13:45:00,58.0,35.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 14:45:00,58.0,36.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 15:45:00,57.0,34.0,80.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 16:45:00,57.0,32.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 17:45:00,57.0,35.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 18:45:00,58.0,33.0,79.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 19:45:00,57.0,33.0,80.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 20:45:00,57.0,33.0,79.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 21:45:00,57.0,34.0,80.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 22:45:00,57.0,33.0,80.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-19 23:45:00,57.0,31.0,79.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 00:45:00,58.0,35.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 01:45:00,58.0,36.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 02:45:00,60.0,37.0,82.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 03:45:00,61.0,36.0,84.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 04:45:00,62.0,40.0,83.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 05:45:00,62.0,41.0,86.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 06:45:00,62.0,37.0,85.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 07:45:00,61.0,38.0,84.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 08:45:00,60.0,38.0,83.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 09:45:00,60.0,36.0,83.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 10:45:00,60.0,37.0,83.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 11:45:00,60.0,38.0,85.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 12:45:00,60.0,37.0,83.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 13:45:00,59.0,36.0,84.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 14:45:00,58.0,34.0,82.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 15:45:00,58.0,35.0,80.0
+Institut de Cardiologie de Montréal,2024-03-21 09:45:00,60.0,39.0,84.0
+Institut de Cardiologie de Montréal,2024-03-21 10:45:00,61.0,38.0,83.0
+Institut de Cardiologie de Montréal,2024-03-21 11:45:00,62.0,40.0,85.0
+Institut de Cardiologie de Montréal,2024-03-21 12:45:00,64.0,43.0,86.0
+Institut de Cardiologie de Montréal,2024-03-21 13:45:00,65.0,45.0,86.0
+Institut de Cardiologie de Montréal,2024-03-21 14:45:00,64.0,41.0,86.0
+Institut de Cardiologie de Montréal,2024-03-21 15:45:00,63.0,40.0,86.0
+Institut de Cardiologie de Montréal,2024-03-21 16:45:00,61.0,40.0,83.0
+Institut de Cardiologie de Montréal,2024-03-21 17:45:00,59.0,36.0,82.0
+Institut de Cardiologie de Montréal,2024-03-21 18:45:00,58.0,36.0,79.0
+Institut de Cardiologie de Montréal,2024-03-21 19:45:00,56.0,33.0,78.0
+Institut de Cardiologie de Montréal,2024-03-21 20:45:00,55.0,31.0,78.0
+Institut de Cardiologie de Montréal,2024-03-21 21:45:00,53.0,30.0,75.0
+Institut de Cardiologie de Montréal,2024-03-21 22:45:00,51.0,29.0,73.0
+Institut de Cardiologie de Montréal,2024-03-21 23:45:00,49.0,28.0,70.0
+Institut de Cardiologie de Montréal,2024-03-22 00:45:00,50.0,26.0,74.0
+Institut de Cardiologie de Montréal,2024-03-22 01:45:00,51.0,28.0,73.0
+Institut de Cardiologie de Montréal,2024-03-22 02:45:00,52.0,27.0,73.0
+Institut de Cardiologie de Montréal,2024-03-22 03:45:00,53.0,31.0,76.0
+Institut de Cardiologie de Montréal,2024-03-22 04:45:00,54.0,30.0,78.0
+Institut de Cardiologie de Montréal,2024-03-22 05:45:00,54.0,32.0,79.0
+Institut de Cardiologie de Montréal,2024-03-22 06:45:00,55.0,33.0,78.0
+Institut de Cardiologie de Montréal,2024-03-22 07:45:00,56.0,32.0,78.0
+Institut de Cardiologie de Montréal,2024-03-22 08:45:00,57.0,35.0,79.0
+Institut de Cardiologie de Montréal,2024-03-22 09:45:00,57.0,35.0,80.0
+Institut de Cardiologie de Montréal,2024-03-22 10:45:00,58.0,35.0,80.0
+Institut de Cardiologie de Montréal,2024-03-22 11:45:00,58.0,36.0,81.0
+Institut de Cardiologie de Montréal,2024-03-22 12:45:00,60.0,37.0,82.0
+Institut de Cardiologie de Montréal,2024-03-22 13:45:00,60.0,38.0,82.0
+Institut de Cardiologie de Montréal,2024-03-22 14:45:00,60.0,37.0,81.0
+Institut de Cardiologie de Montréal,2024-03-22 15:45:00,58.0,33.0,79.0
+Institut de Cardiologie de Montréal,2024-03-22 16:45:00,55.0,35.0,77.0
+Institut de Cardiologie de Montréal,2024-03-22 17:45:00,53.0,30.0,77.0
+Institut de Cardiologie de Montréal,2024-03-22 18:45:00,52.0,28.0,73.0
+Institut de Cardiologie de Montréal,2024-03-22 19:45:00,50.0,28.0,72.0
+Institut de Cardiologie de Montréal,2024-03-22 20:45:00,48.0,26.0,70.0
+Institut de Cardiologie de Montréal,2024-03-22 21:45:00,46.0,23.0,70.0
+Institut de Cardiologie de Montréal,2024-03-22 22:45:00,43.0,21.0,64.0
+Institut de Cardiologie de Montréal,2024-03-22 23:45:00,42.0,18.0,64.0
+Institut de Cardiologie de Montréal,2024-03-23 00:45:00,42.0,19.0,66.0
+Institut de Cardiologie de Montréal,2024-03-23 01:45:00,43.0,19.0,64.0
+Institut de Cardiologie de Montréal,2024-03-23 02:45:00,44.0,22.0,66.0
+Institut de Cardiologie de Montréal,2024-03-23 03:45:00,44.0,23.0,66.0
+Institut de Cardiologie de Montréal,2024-03-23 04:45:00,45.0,22.0,68.0
+Institut de Cardiologie de Montréal,2024-03-23 05:45:00,46.0,23.0,69.0
+Institut de Cardiologie de Montréal,2024-03-23 06:45:00,46.0,24.0,70.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-19 23:45:00,56.0,34.0,78.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 00:45:00,57.0,33.0,79.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 01:45:00,58.0,35.0,83.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 02:45:00,59.0,37.0,81.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 03:45:00,60.0,36.0,82.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 04:45:00,61.0,39.0,85.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 05:45:00,62.0,39.0,84.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 06:45:00,61.0,39.0,85.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 07:45:00,61.0,37.0,83.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 08:45:00,60.0,36.0,82.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 09:45:00,60.0,35.0,82.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 10:45:00,60.0,37.0,84.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 11:45:00,60.0,36.0,84.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 12:45:00,60.0,35.0,83.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 13:45:00,59.0,37.0,82.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 14:45:00,58.0,35.0,80.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 15:45:00,57.0,32.0,78.0
 Institut Universitaire en Santé Mentale de Montréal,2024-03-20 16:45:00,57.0,35.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 17:45:00,58.0,34.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 18:45:00,58.0,33.0,82.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 19:45:00,57.0,34.0,81.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 20:45:00,57.0,33.0,80.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 21:45:00,56.0,33.0,80.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 22:45:00,56.0,35.0,79.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-20 23:45:00,57.0,34.0,79.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-21 00:45:00,57.0,35.0,80.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-21 01:45:00,58.0,35.0,82.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-21 02:45:00,59.0,37.0,84.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-21 03:45:00,60.0,37.0,84.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-21 04:45:00,61.0,37.0,85.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-21 05:45:00,62.0,40.0,85.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-21 06:45:00,61.0,38.0,85.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-21 07:45:00,60.0,36.0,85.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-21 08:45:00,60.0,37.0,83.0
-Institut Universitaire en Santé Mentale de Montréal,2024-03-21 09:45:00,59.0,37.0,83.0
-Hôpital de Montréal pour Enfants,2024-03-19 08:45:00,107.0,62.0,150.0
-Hôpital de Montréal pour Enfants,2024-03-19 09:45:00,109.0,67.0,149.0
-Hôpital de Montréal pour Enfants,2024-03-19 10:45:00,112.0,68.0,157.0
-Hôpital de Montréal pour Enfants,2024-03-19 11:45:00,117.0,73.0,162.0
-Hôpital de Montréal pour Enfants,2024-03-19 12:45:00,123.0,81.0,167.0
-Hôpital de Montréal pour Enfants,2024-03-19 13:45:00,127.0,84.0,170.0
-Hôpital de Montréal pour Enfants,2024-03-19 14:45:00,129.0,85.0,178.0
-Hôpital de Montréal pour Enfants,2024-03-19 15:45:00,128.0,81.0,174.0
-Hôpital de Montréal pour Enfants,2024-03-19 16:45:00,127.0,82.0,169.0
-Hôpital de Montréal pour Enfants,2024-03-19 17:45:00,128.0,84.0,172.0
-Hôpital de Montréal pour Enfants,2024-03-19 18:45:00,131.0,88.0,176.0
-Hôpital de Montréal pour Enfants,2024-03-19 19:45:00,134.0,89.0,180.0
-Hôpital de Montréal pour Enfants,2024-03-19 20:45:00,135.0,94.0,179.0
-Hôpital de Montréal pour Enfants,2024-03-19 21:45:00,133.0,89.0,173.0
-Hôpital de Montréal pour Enfants,2024-03-19 22:45:00,128.0,84.0,173.0
-Hôpital de Montréal pour Enfants,2024-03-19 23:45:00,121.0,77.0,164.0
-Hôpital de Montréal pour Enfants,2024-03-20 00:45:00,116.0,72.0,161.0
-Hôpital de Montréal pour Enfants,2024-03-20 01:45:00,113.0,65.0,157.0
-Hôpital de Montréal pour Enfants,2024-03-20 02:45:00,112.0,67.0,155.0
-Hôpital de Montréal pour Enfants,2024-03-20 03:45:00,110.0,68.0,155.0
-Hôpital de Montréal pour Enfants,2024-03-20 04:45:00,109.0,68.0,151.0
-Hôpital de Montréal pour Enfants,2024-03-20 05:45:00,108.0,63.0,151.0
-Hôpital de Montréal pour Enfants,2024-03-20 06:45:00,106.0,65.0,147.0
-Hôpital de Montréal pour Enfants,2024-03-20 07:45:00,106.0,64.0,150.0
-Hôpital de Montréal pour Enfants,2024-03-20 08:45:00,106.0,61.0,149.0
-Hôpital de Montréal pour Enfants,2024-03-20 09:45:00,109.0,64.0,151.0
-Hôpital de Montréal pour Enfants,2024-03-20 10:45:00,113.0,71.0,157.0
-Hôpital de Montréal pour Enfants,2024-03-20 11:45:00,118.0,73.0,162.0
-Hôpital de Montréal pour Enfants,2024-03-20 12:45:00,124.0,78.0,165.0
-Hôpital de Montréal pour Enfants,2024-03-20 13:45:00,128.0,85.0,169.0
-Hôpital de Montréal pour Enfants,2024-03-20 14:45:00,130.0,84.0,175.0
-Hôpital de Montréal pour Enfants,2024-03-20 15:45:00,130.0,88.0,174.0
-Hôpital de Montréal pour Enfants,2024-03-20 16:45:00,129.0,85.0,173.0
-Hôpital de Montréal pour Enfants,2024-03-20 17:45:00,130.0,83.0,176.0
-Hôpital de Montréal pour Enfants,2024-03-20 18:45:00,133.0,89.0,178.0
-Hôpital de Montréal pour Enfants,2024-03-20 19:45:00,137.0,95.0,181.0
-Hôpital de Montréal pour Enfants,2024-03-20 20:45:00,138.0,94.0,184.0
-Hôpital de Montréal pour Enfants,2024-03-20 21:45:00,136.0,93.0,178.0
-Hôpital de Montréal pour Enfants,2024-03-20 22:45:00,130.0,87.0,173.0
-Hôpital de Montréal pour Enfants,2024-03-20 23:45:00,124.0,82.0,165.0
-Hôpital de Montréal pour Enfants,2024-03-21 00:45:00,118.0,72.0,161.0
-Hôpital de Montréal pour Enfants,2024-03-21 01:45:00,115.0,73.0,160.0
-Hôpital de Montréal pour Enfants,2024-03-21 02:45:00,113.0,73.0,158.0
-Hôpital de Montréal pour Enfants,2024-03-21 03:45:00,112.0,69.0,155.0
-Hôpital de Montréal pour Enfants,2024-03-21 04:45:00,110.0,63.0,154.0
-Hôpital de Montréal pour Enfants,2024-03-21 05:45:00,108.0,66.0,153.0
-Hôpital de Montréal pour Enfants,2024-03-21 06:45:00,106.0,65.0,149.0
-Hôpital de Montréal pour Enfants,2024-03-21 07:45:00,105.0,60.0,149.0
-Hôpital de Montréal pour Enfants,2024-03-21 08:45:00,105.0,59.0,148.0
-Hôpital de Montréal pour Enfants,2024-03-21 09:45:00,107.0,66.0,148.0
-Total Montréal,2024-03-19 08:45:00,126.0,117.0,135.0
-Total Montréal,2024-03-19 09:45:00,128.0,118.0,137.0
-Total Montréal,2024-03-19 10:45:00,129.0,120.0,138.0
-Total Montréal,2024-03-19 11:45:00,130.0,121.0,139.0
-Total Montréal,2024-03-19 12:45:00,130.0,121.0,139.0
-Total Montréal,2024-03-19 13:45:00,130.0,121.0,140.0
-Total Montréal,2024-03-19 14:45:00,129.0,120.0,139.0
-Total Montréal,2024-03-19 15:45:00,128.0,118.0,138.0
-Total Montréal,2024-03-19 16:45:00,126.0,117.0,136.0
-Total Montréal,2024-03-19 17:45:00,125.0,115.0,135.0
-Total Montréal,2024-03-19 18:45:00,124.0,114.0,133.0
-Total Montréal,2024-03-19 19:45:00,123.0,113.0,132.0
-Total Montréal,2024-03-19 20:45:00,122.0,113.0,131.0
-Total Montréal,2024-03-19 21:45:00,121.0,111.0,130.0
-Total Montréal,2024-03-19 22:45:00,119.0,110.0,128.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 17:45:00,57.0,34.0,79.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 18:45:00,57.0,35.0,79.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 19:45:00,57.0,35.0,79.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 20:45:00,56.0,33.0,80.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 21:45:00,56.0,33.0,78.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 22:45:00,56.0,32.0,78.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-20 23:45:00,56.0,32.0,79.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 00:45:00,57.0,33.0,82.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 01:45:00,58.0,34.0,80.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 02:45:00,59.0,35.0,81.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 03:45:00,60.0,37.0,82.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 04:45:00,61.0,39.0,85.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 05:45:00,61.0,37.0,83.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 06:45:00,61.0,38.0,84.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 07:45:00,60.0,39.0,83.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 08:45:00,59.0,36.0,82.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 09:45:00,59.0,36.0,83.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 10:45:00,59.0,37.0,83.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 11:45:00,59.0,35.0,82.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 12:45:00,59.0,35.0,81.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 13:45:00,58.0,34.0,82.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 14:45:00,57.0,34.0,80.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 15:45:00,56.0,32.0,80.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 16:45:00,56.0,33.0,79.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 17:45:00,56.0,33.0,77.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 18:45:00,56.0,32.0,78.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 19:45:00,55.0,31.0,78.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 20:45:00,55.0,31.0,76.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 21:45:00,54.0,31.0,76.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 22:45:00,54.0,31.0,76.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-21 23:45:00,54.0,30.0,76.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 00:45:00,54.0,30.0,76.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 01:45:00,55.0,32.0,77.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 02:45:00,56.0,33.0,78.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 03:45:00,57.0,33.0,80.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 04:45:00,57.0,34.0,82.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 05:45:00,57.0,33.0,80.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 06:45:00,56.0,34.0,79.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 07:45:00,55.0,31.0,78.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 08:45:00,54.0,31.0,77.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 09:45:00,53.0,30.0,76.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 10:45:00,53.0,30.0,75.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 11:45:00,53.0,29.0,75.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 12:45:00,52.0,28.0,74.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 13:45:00,51.0,28.0,73.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 14:45:00,49.0,27.0,73.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 15:45:00,48.0,24.0,73.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 16:45:00,47.0,27.0,70.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 17:45:00,47.0,25.0,70.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 18:45:00,46.0,24.0,69.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 19:45:00,45.0,22.0,68.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 20:45:00,44.0,22.0,67.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 21:45:00,43.0,20.0,69.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 22:45:00,42.0,22.0,65.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-22 23:45:00,42.0,19.0,66.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-23 00:45:00,42.0,19.0,64.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-23 01:45:00,42.0,20.0,63.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-23 02:45:00,43.0,20.0,66.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-23 03:45:00,43.0,20.0,66.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-23 04:45:00,44.0,21.0,67.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-23 05:45:00,43.0,20.0,65.0
+Institut Universitaire en Santé Mentale de Montréal,2024-03-23 06:45:00,42.0,21.0,65.0
+Hôpital de Montréal pour Enfants,2024-03-19 23:45:00,121.0,76.0,165.0
+Hôpital de Montréal pour Enfants,2024-03-20 00:45:00,116.0,71.0,157.0
+Hôpital de Montréal pour Enfants,2024-03-20 01:45:00,113.0,67.0,154.0
+Hôpital de Montréal pour Enfants,2024-03-20 02:45:00,111.0,67.0,157.0
+Hôpital de Montréal pour Enfants,2024-03-20 03:45:00,110.0,67.0,153.0
+Hôpital de Montréal pour Enfants,2024-03-20 04:45:00,109.0,66.0,155.0
+Hôpital de Montréal pour Enfants,2024-03-20 05:45:00,107.0,63.0,155.0
+Hôpital de Montréal pour Enfants,2024-03-20 06:45:00,106.0,65.0,149.0
+Hôpital de Montréal pour Enfants,2024-03-20 07:45:00,105.0,57.0,149.0
+Hôpital de Montréal pour Enfants,2024-03-20 08:45:00,106.0,60.0,151.0
+Hôpital de Montréal pour Enfants,2024-03-20 09:45:00,108.0,67.0,152.0
+Hôpital de Montréal pour Enfants,2024-03-20 10:45:00,112.0,64.0,157.0
+Hôpital de Montréal pour Enfants,2024-03-20 11:45:00,117.0,72.0,159.0
+Hôpital de Montréal pour Enfants,2024-03-20 12:45:00,123.0,80.0,164.0
+Hôpital de Montréal pour Enfants,2024-03-20 13:45:00,128.0,84.0,171.0
+Hôpital de Montréal pour Enfants,2024-03-20 14:45:00,130.0,82.0,171.0
+Hôpital de Montréal pour Enfants,2024-03-20 15:45:00,129.0,88.0,174.0
+Hôpital de Montréal pour Enfants,2024-03-20 16:45:00,129.0,83.0,169.0
+Hôpital de Montréal pour Enfants,2024-03-20 17:45:00,130.0,84.0,174.0
+Hôpital de Montréal pour Enfants,2024-03-20 18:45:00,133.0,88.0,178.0
+Hôpital de Montréal pour Enfants,2024-03-20 19:45:00,136.0,91.0,181.0
+Hôpital de Montréal pour Enfants,2024-03-20 20:45:00,137.0,95.0,183.0
+Hôpital de Montréal pour Enfants,2024-03-20 21:45:00,135.0,91.0,180.0
+Hôpital de Montréal pour Enfants,2024-03-20 22:45:00,130.0,89.0,171.0
+Hôpital de Montréal pour Enfants,2024-03-20 23:45:00,123.0,80.0,167.0
+Hôpital de Montréal pour Enfants,2024-03-21 00:45:00,118.0,76.0,160.0
+Hôpital de Montréal pour Enfants,2024-03-21 01:45:00,115.0,71.0,159.0
+Hôpital de Montréal pour Enfants,2024-03-21 02:45:00,113.0,72.0,159.0
+Hôpital de Montréal pour Enfants,2024-03-21 03:45:00,111.0,69.0,156.0
+Hôpital de Montréal pour Enfants,2024-03-21 04:45:00,110.0,65.0,151.0
+Hôpital de Montréal pour Enfants,2024-03-21 05:45:00,108.0,63.0,155.0
+Hôpital de Montréal pour Enfants,2024-03-21 06:45:00,106.0,61.0,149.0
+Hôpital de Montréal pour Enfants,2024-03-21 07:45:00,105.0,63.0,147.0
+Hôpital de Montréal pour Enfants,2024-03-21 08:45:00,105.0,61.0,148.0
+Hôpital de Montréal pour Enfants,2024-03-21 09:45:00,106.0,61.0,148.0
+Hôpital de Montréal pour Enfants,2024-03-21 10:45:00,110.0,66.0,156.0
+Hôpital de Montréal pour Enfants,2024-03-21 11:45:00,115.0,73.0,157.0
+Hôpital de Montréal pour Enfants,2024-03-21 12:45:00,120.0,75.0,162.0
+Hôpital de Montréal pour Enfants,2024-03-21 13:45:00,124.0,78.0,165.0
+Hôpital de Montréal pour Enfants,2024-03-21 14:45:00,125.0,79.0,166.0
+Hôpital de Montréal pour Enfants,2024-03-21 15:45:00,124.0,82.0,169.0
+Hôpital de Montréal pour Enfants,2024-03-21 16:45:00,123.0,80.0,164.0
+Hôpital de Montréal pour Enfants,2024-03-21 17:45:00,123.0,80.0,168.0
+Hôpital de Montréal pour Enfants,2024-03-21 18:45:00,126.0,84.0,169.0
+Hôpital de Montréal pour Enfants,2024-03-21 19:45:00,129.0,87.0,169.0
+Hôpital de Montréal pour Enfants,2024-03-21 20:45:00,130.0,87.0,174.0
+Hôpital de Montréal pour Enfants,2024-03-21 21:45:00,127.0,82.0,173.0
+Hôpital de Montréal pour Enfants,2024-03-21 22:45:00,121.0,78.0,167.0
+Hôpital de Montréal pour Enfants,2024-03-21 23:45:00,115.0,72.0,158.0
+Hôpital de Montréal pour Enfants,2024-03-22 00:45:00,109.0,67.0,156.0
+Hôpital de Montréal pour Enfants,2024-03-22 01:45:00,106.0,65.0,150.0
+Hôpital de Montréal pour Enfants,2024-03-22 02:45:00,104.0,58.0,147.0
+Hôpital de Montréal pour Enfants,2024-03-22 03:45:00,103.0,61.0,143.0
+Hôpital de Montréal pour Enfants,2024-03-22 04:45:00,101.0,62.0,145.0
+Hôpital de Montréal pour Enfants,2024-03-22 05:45:00,99.0,53.0,142.0
+Hôpital de Montréal pour Enfants,2024-03-22 06:45:00,98.0,54.0,142.0
+Hôpital de Montréal pour Enfants,2024-03-22 07:45:00,97.0,51.0,142.0
+Hôpital de Montréal pour Enfants,2024-03-22 08:45:00,98.0,55.0,141.0
+Hôpital de Montréal pour Enfants,2024-03-22 09:45:00,100.0,56.0,146.0
+Hôpital de Montréal pour Enfants,2024-03-22 10:45:00,103.0,60.0,147.0
+Hôpital de Montréal pour Enfants,2024-03-22 11:45:00,109.0,67.0,156.0
+Hôpital de Montréal pour Enfants,2024-03-22 12:45:00,115.0,72.0,159.0
+Hôpital de Montréal pour Enfants,2024-03-22 13:45:00,119.0,72.0,165.0
+Hôpital de Montréal pour Enfants,2024-03-22 14:45:00,121.0,76.0,162.0
+Hôpital de Montréal pour Enfants,2024-03-22 15:45:00,121.0,80.0,168.0
+Hôpital de Montréal pour Enfants,2024-03-22 16:45:00,120.0,76.0,164.0
+Hôpital de Montréal pour Enfants,2024-03-22 17:45:00,122.0,77.0,165.0
+Hôpital de Montréal pour Enfants,2024-03-22 18:45:00,125.0,80.0,169.0
+Hôpital de Montréal pour Enfants,2024-03-22 19:45:00,128.0,86.0,172.0
+Hôpital de Montréal pour Enfants,2024-03-22 20:45:00,130.0,86.0,172.0
+Hôpital de Montréal pour Enfants,2024-03-22 21:45:00,128.0,86.0,173.0
+Hôpital de Montréal pour Enfants,2024-03-22 22:45:00,122.0,78.0,165.0
+Hôpital de Montréal pour Enfants,2024-03-22 23:45:00,116.0,71.0,158.0
+Hôpital de Montréal pour Enfants,2024-03-23 00:45:00,111.0,69.0,153.0
+Hôpital de Montréal pour Enfants,2024-03-23 01:45:00,108.0,66.0,149.0
+Hôpital de Montréal pour Enfants,2024-03-23 02:45:00,107.0,62.0,148.0
+Hôpital de Montréal pour Enfants,2024-03-23 03:45:00,106.0,66.0,150.0
+Hôpital de Montréal pour Enfants,2024-03-23 04:45:00,104.0,62.0,150.0
+Hôpital de Montréal pour Enfants,2024-03-23 05:45:00,103.0,60.0,147.0
+Hôpital de Montréal pour Enfants,2024-03-23 06:45:00,101.0,56.0,144.0
 Total Montréal,2024-03-19 23:45:00,119.0,109.0,127.0
-Total Montréal,2024-03-20 00:45:00,118.0,109.0,127.0
-Total Montréal,2024-03-20 01:45:00,119.0,109.0,128.0
-Total Montréal,2024-03-20 02:45:00,119.0,110.0,130.0
+Total Montréal,2024-03-20 00:45:00,118.0,109.0,128.0
+Total Montréal,2024-03-20 01:45:00,119.0,110.0,128.0
+Total Montréal,2024-03-20 02:45:00,119.0,110.0,129.0
 Total Montréal,2024-03-20 03:45:00,120.0,111.0,129.0
-Total Montréal,2024-03-20 04:45:00,120.0,111.0,130.0
-Total Montréal,2024-03-20 05:45:00,121.0,111.0,130.0
-Total Montréal,2024-03-20 06:45:00,121.0,112.0,130.0
+Total Montréal,2024-03-20 04:45:00,120.0,111.0,129.0
+Total Montréal,2024-03-20 05:45:00,121.0,112.0,130.0
+Total Montréal,2024-03-20 06:45:00,121.0,112.0,131.0
 Total Montréal,2024-03-20 07:45:00,122.0,113.0,132.0
-Total Montréal,2024-03-20 08:45:00,123.0,114.0,132.0
-Total Montréal,2024-03-20 09:45:00,125.0,116.0,134.0
+Total Montréal,2024-03-20 08:45:00,123.0,115.0,133.0
+Total Montréal,2024-03-20 09:45:00,125.0,115.0,134.0
 Total Montréal,2024-03-20 10:45:00,126.0,117.0,135.0
-Total Montréal,2024-03-20 11:45:00,127.0,118.0,137.0
-Total Montréal,2024-03-20 12:45:00,127.0,117.0,136.0
-Total Montréal,2024-03-20 13:45:00,127.0,118.0,137.0
+Total Montréal,2024-03-20 11:45:00,127.0,118.0,136.0
+Total Montréal,2024-03-20 12:45:00,127.0,118.0,137.0
+Total Montréal,2024-03-20 13:45:00,127.0,118.0,136.0
 Total Montréal,2024-03-20 14:45:00,126.0,117.0,135.0
 Total Montréal,2024-03-20 15:45:00,125.0,115.0,134.0
-Total Montréal,2024-03-20 16:45:00,123.0,114.0,132.0
+Total Montréal,2024-03-20 16:45:00,123.0,113.0,132.0
 Total Montréal,2024-03-20 17:45:00,122.0,113.0,131.0
-Total Montréal,2024-03-20 18:45:00,121.0,112.0,130.0
+Total Montréal,2024-03-20 18:45:00,121.0,111.0,130.0
 Total Montréal,2024-03-20 19:45:00,120.0,111.0,129.0
-Total Montréal,2024-03-20 20:45:00,119.0,109.0,129.0
-Total Montréal,2024-03-20 21:45:00,118.0,109.0,127.0
+Total Montréal,2024-03-20 20:45:00,119.0,110.0,128.0
+Total Montréal,2024-03-20 21:45:00,118.0,108.0,127.0
 Total Montréal,2024-03-20 22:45:00,117.0,108.0,126.0
-Total Montréal,2024-03-20 23:45:00,116.0,107.0,126.0
-Total Montréal,2024-03-21 00:45:00,116.0,107.0,125.0
-Total Montréal,2024-03-21 01:45:00,116.0,107.0,125.0
-Total Montréal,2024-03-21 02:45:00,117.0,108.0,128.0
-Total Montréal,2024-03-21 03:45:00,118.0,110.0,127.0
-Total Montréal,2024-03-21 04:45:00,119.0,109.0,129.0
-Total Montréal,2024-03-21 05:45:00,119.0,110.0,129.0
-Total Montréal,2024-03-21 06:45:00,120.0,110.0,129.0
-Total Montréal,2024-03-21 07:45:00,121.0,112.0,129.0
-Total Montréal,2024-03-21 08:45:00,122.0,113.0,133.0
-Total Montréal,2024-03-21 09:45:00,124.0,115.0,134.0
+Total Montréal,2024-03-20 23:45:00,116.0,107.0,125.0
+Total Montréal,2024-03-21 00:45:00,116.0,107.0,126.0
+Total Montréal,2024-03-21 01:45:00,116.0,108.0,126.0
+Total Montréal,2024-03-21 02:45:00,117.0,108.0,126.0
+Total Montréal,2024-03-21 03:45:00,118.0,109.0,127.0
+Total Montréal,2024-03-21 04:45:00,119.0,110.0,127.0
+Total Montréal,2024-03-21 05:45:00,119.0,109.0,128.0
+Total Montréal,2024-03-21 06:45:00,120.0,111.0,129.0
+Total Montréal,2024-03-21 07:45:00,121.0,112.0,130.0
+Total Montréal,2024-03-21 08:45:00,122.0,113.0,131.0
+Total Montréal,2024-03-21 09:45:00,124.0,114.0,133.0
+Total Montréal,2024-03-21 10:45:00,125.0,115.0,135.0
+Total Montréal,2024-03-21 11:45:00,126.0,117.0,136.0
+Total Montréal,2024-03-21 12:45:00,126.0,117.0,136.0
+Total Montréal,2024-03-21 13:45:00,126.0,117.0,136.0
+Total Montréal,2024-03-21 14:45:00,125.0,116.0,135.0
+Total Montréal,2024-03-21 15:45:00,124.0,115.0,133.0
+Total Montréal,2024-03-21 16:45:00,122.0,113.0,133.0
+Total Montréal,2024-03-21 17:45:00,121.0,112.0,130.0
+Total Montréal,2024-03-21 18:45:00,120.0,111.0,129.0
+Total Montréal,2024-03-21 19:45:00,119.0,109.0,129.0
+Total Montréal,2024-03-21 20:45:00,118.0,109.0,128.0
+Total Montréal,2024-03-21 21:45:00,117.0,108.0,126.0
+Total Montréal,2024-03-21 22:45:00,116.0,107.0,126.0
+Total Montréal,2024-03-21 23:45:00,115.0,106.0,124.0
+Total Montréal,2024-03-22 00:45:00,114.0,106.0,123.0
+Total Montréal,2024-03-22 01:45:00,115.0,105.0,123.0
+Total Montréal,2024-03-22 02:45:00,115.0,107.0,125.0
+Total Montréal,2024-03-22 03:45:00,116.0,107.0,126.0
+Total Montréal,2024-03-22 04:45:00,116.0,108.0,126.0
+Total Montréal,2024-03-22 05:45:00,116.0,107.0,125.0
+Total Montréal,2024-03-22 06:45:00,117.0,108.0,127.0
+Total Montréal,2024-03-22 07:45:00,117.0,108.0,127.0
+Total Montréal,2024-03-22 08:45:00,119.0,110.0,128.0
+Total Montréal,2024-03-22 09:45:00,120.0,111.0,130.0
+Total Montréal,2024-03-22 10:45:00,121.0,111.0,130.0
+Total Montréal,2024-03-22 11:45:00,122.0,112.0,130.0
+Total Montréal,2024-03-22 12:45:00,122.0,112.0,130.0
+Total Montréal,2024-03-22 13:45:00,121.0,112.0,130.0
+Total Montréal,2024-03-22 14:45:00,120.0,111.0,129.0
+Total Montréal,2024-03-22 15:45:00,118.0,108.0,128.0
+Total Montréal,2024-03-22 16:45:00,117.0,107.0,126.0
+Total Montréal,2024-03-22 17:45:00,115.0,106.0,124.0
+Total Montréal,2024-03-22 18:45:00,113.0,104.0,123.0
+Total Montréal,2024-03-22 19:45:00,112.0,103.0,121.0
+Total Montréal,2024-03-22 20:45:00,111.0,101.0,120.0
+Total Montréal,2024-03-22 21:45:00,110.0,101.0,119.0
+Total Montréal,2024-03-22 22:45:00,108.0,98.0,117.0
+Total Montréal,2024-03-22 23:45:00,107.0,98.0,116.0
+Total Montréal,2024-03-23 00:45:00,106.0,97.0,116.0
+Total Montréal,2024-03-23 01:45:00,107.0,98.0,116.0
+Total Montréal,2024-03-23 02:45:00,107.0,97.0,117.0
+Total Montréal,2024-03-23 03:45:00,108.0,98.0,116.0
+Total Montréal,2024-03-23 04:45:00,108.0,99.0,117.0
+Total Montréal,2024-03-23 05:45:00,108.0,99.0,118.0
+Total Montréal,2024-03-23 06:45:00,108.0,98.0,117.0
