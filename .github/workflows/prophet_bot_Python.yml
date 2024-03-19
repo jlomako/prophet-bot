@@ -29,14 +29,8 @@ jobs:
       - name: Run script 1
         run: python script.py
         
-      - name: Clear workspace
-        run: |
-          git rm -r .
-          mkdir data
-        
       - name: Run script 2
         run: python script_hourly.py
-        
         
       - name: Commit files
         run: |
