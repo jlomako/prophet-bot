@@ -40,13 +40,14 @@ for hospital in hospitals:
   plot_df.rename(columns={'ds': 'Date'}, inplace=True)
 
   # transform columns with yhats to integers
-  plot_df.iloc[:, 1:4] = plot_df.iloc[:, 1:4].round().astype(int)
+  plot_df.iloc[:, 1:4] = plot_df.iloc[:, 1:4].round().astype(int).values
 
   # sort columns
   plot_df = plot_df.reindex(columns=["name", "Date", "yhat", "yhat_lower", "yhat_upper"])
 
   # append data to dataframe
-  df0 = df0.append(plot_df)
+  # df0 = df0.append(plot_df)
+  df0 = pd.concat([df0, plot_df])
 
 # write dataframe with calculations to file
 df0.to_csv("data/prophet.csv", header=True, index=False)
