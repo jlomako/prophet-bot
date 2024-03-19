@@ -11,3 +11,4 @@ Github action that reads data from <a href="https://github.com/jlomako/hospital-
 * R files have been moved to another repository, see <a href = "https://github.com/jlomako/prophet-bot-R">prophet-bot-R</a>
 * check number of changepoints once more data is available
 * Prophet stopped working => added holiday package to <code>requirements.txt</code> as suggested [here](https://github.com/facebook/prophet/issues/2432)
+* added script for hourly data and predicitions
