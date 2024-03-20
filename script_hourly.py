@@ -37,12 +37,12 @@ for hospital in hospitals:
   m = Prophet(holidays=holidays)
   m.fit(df_hospital)
 
-  # create future df (80 hours)
+  # create future df (90 hours)
   future = m.make_future_dataframe(periods=90, freq='h')
   forecast = m.predict(future)
 
   # add last entries to plot_df
-  plot_df = forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].tail(80)
+  plot_df = forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].tail(100)
 
   # add hospital name
   plot_df = plot_df.assign(name=hospital)
