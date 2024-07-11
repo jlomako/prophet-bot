@@ -1,221 +1,221 @@
 name,Date,yhat,yhat_lower,yhat_upper
-Centre hospitalier de St. Mary,2024-07-11,108.0,86.0,132.0
-Centre hospitalier de St. Mary,2024-07-12,109.0,86.0,133.0
-Centre hospitalier de St. Mary,2024-07-13,98.0,74.0,120.0
-Centre hospitalier de St. Mary,2024-07-14,87.0,63.0,110.0
-Centre hospitalier de St. Mary,2024-07-15,95.0,72.0,118.0
-Centre hospitalier de St. Mary,2024-07-16,106.0,85.0,130.0
-Centre hospitalier de St. Mary,2024-07-17,107.0,85.0,131.0
-Centre hospitalier de St. Mary,2024-07-18,102.0,77.0,124.0
-Centre hospitalier de St. Mary,2024-07-19,102.0,79.0,125.0
-Centre hospitalier de St. Mary,2024-07-20,91.0,69.0,114.0
-Institut universitaire en santé mentale Douglas,2024-07-11,88.0,17.0,156.0
-Institut universitaire en santé mentale Douglas,2024-07-12,83.0,18.0,155.0
-Institut universitaire en santé mentale Douglas,2024-07-13,82.0,9.0,150.0
-Institut universitaire en santé mentale Douglas,2024-07-14,106.0,38.0,175.0
-Institut universitaire en santé mentale Douglas,2024-07-15,119.0,51.0,191.0
-Institut universitaire en santé mentale Douglas,2024-07-16,97.0,28.0,169.0
-Institut universitaire en santé mentale Douglas,2024-07-17,88.0,13.0,156.0
-Institut universitaire en santé mentale Douglas,2024-07-18,92.0,23.0,158.0
-Institut universitaire en santé mentale Douglas,2024-07-19,88.0,21.0,158.0
-Institut universitaire en santé mentale Douglas,2024-07-20,88.0,19.0,163.0
-Hôpital de LaSalle,2024-07-11,104.0,70.0,135.0
-Hôpital de LaSalle,2024-07-12,99.0,69.0,132.0
-Hôpital de LaSalle,2024-07-13,79.0,45.0,111.0
-Hôpital de LaSalle,2024-07-14,79.0,46.0,114.0
-Hôpital de LaSalle,2024-07-15,90.0,58.0,123.0
-Hôpital de LaSalle,2024-07-16,97.0,64.0,128.0
-Hôpital de LaSalle,2024-07-17,101.0,69.0,135.0
-Hôpital de LaSalle,2024-07-18,96.0,63.0,132.0
-Hôpital de LaSalle,2024-07-19,91.0,58.0,125.0
-Hôpital de LaSalle,2024-07-20,71.0,37.0,104.0
-Hôpital général du Lakeshore,2024-07-11,148.0,117.0,177.0
-Hôpital général du Lakeshore,2024-07-12,138.0,111.0,168.0
-Hôpital général du Lakeshore,2024-07-13,128.0,99.0,155.0
-Hôpital général du Lakeshore,2024-07-14,126.0,98.0,155.0
-Hôpital général du Lakeshore,2024-07-15,137.0,110.0,167.0
-Hôpital général du Lakeshore,2024-07-16,138.0,110.0,165.0
-Hôpital général du Lakeshore,2024-07-17,139.0,108.0,168.0
-Hôpital général du Lakeshore,2024-07-18,137.0,108.0,164.0
-Hôpital général du Lakeshore,2024-07-19,126.0,97.0,154.0
-Hôpital général du Lakeshore,2024-07-20,116.0,89.0,146.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-11,189.0,161.0,219.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-12,186.0,158.0,214.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-13,179.0,150.0,209.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-14,166.0,139.0,195.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-15,183.0,155.0,212.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-16,188.0,159.0,217.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-17,184.0,155.0,213.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-18,179.0,148.0,208.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-19,176.0,147.0,204.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-20,169.0,140.0,198.0
-Hôpital de Verdun,2024-07-11,137.0,103.0,173.0
-Hôpital de Verdun,2024-07-12,142.0,108.0,174.0
-Hôpital de Verdun,2024-07-13,123.0,89.0,157.0
-Hôpital de Verdun,2024-07-14,122.0,87.0,155.0
-Hôpital de Verdun,2024-07-15,137.0,101.0,172.0
-Hôpital de Verdun,2024-07-16,148.0,114.0,181.0
-Hôpital de Verdun,2024-07-17,147.0,113.0,181.0
-Hôpital de Verdun,2024-07-18,137.0,101.0,172.0
-Hôpital de Verdun,2024-07-19,140.0,105.0,174.0
-Hôpital de Verdun,2024-07-20,121.0,86.0,158.0
-Hôpital Notre-Dame,2024-07-11,108.0,87.0,128.0
-Hôpital Notre-Dame,2024-07-12,109.0,89.0,131.0
-Hôpital Notre-Dame,2024-07-13,98.0,77.0,120.0
-Hôpital Notre-Dame,2024-07-14,104.0,82.0,124.0
-Hôpital Notre-Dame,2024-07-15,113.0,93.0,134.0
-Hôpital Notre-Dame,2024-07-16,115.0,94.0,135.0
-Hôpital Notre-Dame,2024-07-17,110.0,91.0,131.0
-Hôpital Notre-Dame,2024-07-18,108.0,88.0,129.0
-Hôpital Notre-Dame,2024-07-19,109.0,88.0,130.0
-Hôpital Notre-Dame,2024-07-20,98.0,77.0,119.0
-Hôpital Fleury,2024-07-11,108.0,82.0,134.0
-Hôpital Fleury,2024-07-12,109.0,83.0,135.0
-Hôpital Fleury,2024-07-13,94.0,67.0,119.0
-Hôpital Fleury,2024-07-14,99.0,73.0,124.0
-Hôpital Fleury,2024-07-15,108.0,81.0,136.0
-Hôpital Fleury,2024-07-16,112.0,87.0,138.0
-Hôpital Fleury,2024-07-17,109.0,82.0,134.0
-Hôpital Fleury,2024-07-18,106.0,81.0,134.0
-Hôpital Fleury,2024-07-19,106.0,79.0,133.0
-Hôpital Fleury,2024-07-20,91.0,66.0,117.0
-Hôpital du Sacré-Coeur de Montréal,2024-07-11,123.0,103.0,143.0
-Hôpital du Sacré-Coeur de Montréal,2024-07-12,120.0,101.0,138.0
-Hôpital du Sacré-Coeur de Montréal,2024-07-13,105.0,84.0,124.0
-Hôpital du Sacré-Coeur de Montréal,2024-07-14,113.0,94.0,132.0
-Hôpital du Sacré-Coeur de Montréal,2024-07-15,125.0,105.0,144.0
-Hôpital du Sacré-Coeur de Montréal,2024-07-16,132.0,113.0,151.0
+Centre hospitalier de St. Mary,2024-07-12,109.0,87.0,132.0
+Centre hospitalier de St. Mary,2024-07-13,99.0,77.0,123.0
+Centre hospitalier de St. Mary,2024-07-14,88.0,66.0,112.0
+Centre hospitalier de St. Mary,2024-07-15,96.0,73.0,121.0
+Centre hospitalier de St. Mary,2024-07-16,106.0,82.0,131.0
+Centre hospitalier de St. Mary,2024-07-17,107.0,87.0,132.0
+Centre hospitalier de St. Mary,2024-07-18,102.0,78.0,125.0
+Centre hospitalier de St. Mary,2024-07-19,102.0,80.0,125.0
+Centre hospitalier de St. Mary,2024-07-20,92.0,68.0,114.0
+Centre hospitalier de St. Mary,2024-07-21,81.0,58.0,104.0
+Institut universitaire en santé mentale Douglas,2024-07-12,82.0,12.0,146.0
+Institut universitaire en santé mentale Douglas,2024-07-13,81.0,11.0,156.0
+Institut universitaire en santé mentale Douglas,2024-07-14,105.0,32.0,167.0
+Institut universitaire en santé mentale Douglas,2024-07-15,119.0,47.0,194.0
+Institut universitaire en santé mentale Douglas,2024-07-16,96.0,29.0,163.0
+Institut universitaire en santé mentale Douglas,2024-07-17,88.0,21.0,159.0
+Institut universitaire en santé mentale Douglas,2024-07-18,91.0,22.0,161.0
+Institut universitaire en santé mentale Douglas,2024-07-19,88.0,19.0,159.0
+Institut universitaire en santé mentale Douglas,2024-07-20,88.0,20.0,162.0
+Institut universitaire en santé mentale Douglas,2024-07-21,114.0,42.0,182.0
+Hôpital de LaSalle,2024-07-12,100.0,68.0,136.0
+Hôpital de LaSalle,2024-07-13,80.0,43.0,113.0
+Hôpital de LaSalle,2024-07-14,79.0,47.0,111.0
+Hôpital de LaSalle,2024-07-15,91.0,57.0,121.0
+Hôpital de LaSalle,2024-07-16,97.0,64.0,132.0
+Hôpital de LaSalle,2024-07-17,102.0,67.0,134.0
+Hôpital de LaSalle,2024-07-18,97.0,65.0,129.0
+Hôpital de LaSalle,2024-07-19,92.0,58.0,126.0
+Hôpital de LaSalle,2024-07-20,72.0,35.0,104.0
+Hôpital de LaSalle,2024-07-21,71.0,37.0,104.0
+Hôpital général du Lakeshore,2024-07-12,138.0,108.0,167.0
+Hôpital général du Lakeshore,2024-07-13,128.0,100.0,156.0
+Hôpital général du Lakeshore,2024-07-14,126.0,97.0,156.0
+Hôpital général du Lakeshore,2024-07-15,138.0,108.0,165.0
+Hôpital général du Lakeshore,2024-07-16,138.0,109.0,166.0
+Hôpital général du Lakeshore,2024-07-17,139.0,114.0,168.0
+Hôpital général du Lakeshore,2024-07-18,137.0,110.0,166.0
+Hôpital général du Lakeshore,2024-07-19,126.0,98.0,154.0
+Hôpital général du Lakeshore,2024-07-20,116.0,89.0,142.0
+Hôpital général du Lakeshore,2024-07-21,114.0,87.0,143.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-12,189.0,160.0,219.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-13,182.0,153.0,211.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-14,169.0,140.0,199.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-15,186.0,157.0,215.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-16,191.0,163.0,220.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-17,187.0,158.0,214.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-18,182.0,154.0,213.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-19,178.0,150.0,210.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-20,171.0,142.0,198.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2024-07-21,158.0,130.0,188.0
+Hôpital de Verdun,2024-07-12,141.0,108.0,176.0
+Hôpital de Verdun,2024-07-13,122.0,89.0,157.0
+Hôpital de Verdun,2024-07-14,122.0,89.0,155.0
+Hôpital de Verdun,2024-07-15,137.0,105.0,172.0
+Hôpital de Verdun,2024-07-16,147.0,112.0,177.0
+Hôpital de Verdun,2024-07-17,147.0,113.0,179.0
+Hôpital de Verdun,2024-07-18,136.0,104.0,170.0
+Hôpital de Verdun,2024-07-19,140.0,108.0,173.0
+Hôpital de Verdun,2024-07-20,120.0,85.0,153.0
+Hôpital de Verdun,2024-07-21,119.0,87.0,153.0
+Hôpital Notre-Dame,2024-07-12,110.0,88.0,130.0
+Hôpital Notre-Dame,2024-07-13,99.0,76.0,121.0
+Hôpital Notre-Dame,2024-07-14,105.0,85.0,126.0
+Hôpital Notre-Dame,2024-07-15,114.0,94.0,136.0
+Hôpital Notre-Dame,2024-07-16,116.0,95.0,137.0
+Hôpital Notre-Dame,2024-07-17,111.0,90.0,134.0
+Hôpital Notre-Dame,2024-07-18,109.0,89.0,131.0
+Hôpital Notre-Dame,2024-07-19,110.0,87.0,131.0
+Hôpital Notre-Dame,2024-07-20,99.0,77.0,120.0
+Hôpital Notre-Dame,2024-07-21,104.0,83.0,124.0
+Hôpital Fleury,2024-07-12,108.0,80.0,132.0
+Hôpital Fleury,2024-07-13,93.0,65.0,119.0
+Hôpital Fleury,2024-07-14,98.0,72.0,125.0
+Hôpital Fleury,2024-07-15,107.0,83.0,133.0
+Hôpital Fleury,2024-07-16,111.0,84.0,138.0
+Hôpital Fleury,2024-07-17,107.0,82.0,134.0
+Hôpital Fleury,2024-07-18,105.0,79.0,133.0
+Hôpital Fleury,2024-07-19,105.0,79.0,131.0
+Hôpital Fleury,2024-07-20,90.0,65.0,119.0
+Hôpital Fleury,2024-07-21,95.0,69.0,122.0
+Hôpital du Sacré-Coeur de Montréal,2024-07-12,120.0,102.0,139.0
+Hôpital du Sacré-Coeur de Montréal,2024-07-13,105.0,87.0,125.0
+Hôpital du Sacré-Coeur de Montréal,2024-07-14,114.0,94.0,134.0
+Hôpital du Sacré-Coeur de Montréal,2024-07-15,125.0,107.0,145.0
+Hôpital du Sacré-Coeur de Montréal,2024-07-16,132.0,112.0,151.0
 Hôpital du Sacré-Coeur de Montréal,2024-07-17,125.0,107.0,145.0
-Hôpital du Sacré-Coeur de Montréal,2024-07-18,122.0,102.0,140.0
-Hôpital du Sacré-Coeur de Montréal,2024-07-19,118.0,99.0,135.0
-Hôpital du Sacré-Coeur de Montréal,2024-07-20,102.0,83.0,122.0
-Hôpital Jean-Talon,2024-07-11,84.0,62.0,106.0
-Hôpital Jean-Talon,2024-07-12,82.0,58.0,104.0
-Hôpital Jean-Talon,2024-07-13,77.0,56.0,98.0
-Hôpital Jean-Talon,2024-07-14,75.0,52.0,96.0
-Hôpital Jean-Talon,2024-07-15,82.0,59.0,104.0
-Hôpital Jean-Talon,2024-07-16,85.0,63.0,107.0
-Hôpital Jean-Talon,2024-07-17,86.0,62.0,107.0
-Hôpital Jean-Talon,2024-07-18,81.0,59.0,103.0
-Hôpital Jean-Talon,2024-07-19,79.0,57.0,102.0
-Hôpital Jean-Talon,2024-07-20,75.0,53.0,97.0
-Pavillon Albert-Prévost,2024-07-11,86.0,56.0,113.0
-Pavillon Albert-Prévost,2024-07-12,84.0,57.0,111.0
-Pavillon Albert-Prévost,2024-07-13,75.0,47.0,102.0
-Pavillon Albert-Prévost,2024-07-14,83.0,56.0,110.0
-Pavillon Albert-Prévost,2024-07-15,95.0,68.0,122.0
-Pavillon Albert-Prévost,2024-07-16,81.0,55.0,108.0
-Pavillon Albert-Prévost,2024-07-17,86.0,59.0,114.0
-Pavillon Albert-Prévost,2024-07-18,86.0,58.0,114.0
-Pavillon Albert-Prévost,2024-07-19,84.0,58.0,111.0
-Pavillon Albert-Prévost,2024-07-20,76.0,48.0,102.0
-Institut universitaire en santé mentale de Montréal,2024-07-11,30.0,-1.0,57.0
-Institut universitaire en santé mentale de Montréal,2024-07-12,31.0,1.0,59.0
-Institut universitaire en santé mentale de Montréal,2024-07-13,19.0,-11.0,48.0
-Institut universitaire en santé mentale de Montréal,2024-07-14,27.0,-2.0,53.0
-Institut universitaire en santé mentale de Montréal,2024-07-15,37.0,11.0,68.0
-Institut universitaire en santé mentale de Montréal,2024-07-16,29.0,0.0,58.0
-Institut universitaire en santé mentale de Montréal,2024-07-17,27.0,-1.0,57.0
-Institut universitaire en santé mentale de Montréal,2024-07-18,25.0,-2.0,55.0
-Institut universitaire en santé mentale de Montréal,2024-07-19,26.0,-5.0,54.0
-Institut universitaire en santé mentale de Montréal,2024-07-20,14.0,-14.0,42.0
-Hôpital Maisonneuve-Rosemont,2024-07-11,135.0,115.0,154.0
-Hôpital Maisonneuve-Rosemont,2024-07-12,128.0,108.0,148.0
-Hôpital Maisonneuve-Rosemont,2024-07-13,111.0,91.0,130.0
-Hôpital Maisonneuve-Rosemont,2024-07-14,116.0,97.0,136.0
-Hôpital Maisonneuve-Rosemont,2024-07-15,126.0,107.0,145.0
-Hôpital Maisonneuve-Rosemont,2024-07-16,137.0,118.0,156.0
-Hôpital Maisonneuve-Rosemont,2024-07-17,139.0,118.0,158.0
-Hôpital Maisonneuve-Rosemont,2024-07-18,133.0,115.0,152.0
-Hôpital Maisonneuve-Rosemont,2024-07-19,126.0,106.0,145.0
-Hôpital Maisonneuve-Rosemont,2024-07-20,108.0,89.0,126.0
-Hôpital Santa Cabrini,2024-07-11,119.0,99.0,142.0
-Hôpital Santa Cabrini,2024-07-12,114.0,91.0,135.0
-Hôpital Santa Cabrini,2024-07-13,109.0,87.0,132.0
-Hôpital Santa Cabrini,2024-07-14,105.0,81.0,125.0
-Hôpital Santa Cabrini,2024-07-15,109.0,86.0,133.0
-Hôpital Santa Cabrini,2024-07-16,119.0,96.0,141.0
-Hôpital Santa Cabrini,2024-07-17,117.0,96.0,140.0
-Hôpital Santa Cabrini,2024-07-18,111.0,92.0,133.0
-Hôpital Santa Cabrini,2024-07-19,105.0,81.0,127.0
-Hôpital Santa Cabrini,2024-07-20,99.0,78.0,122.0
-Centre hospitalier de l'Université de Montréal,2024-07-11,129.0,113.0,145.0
-Centre hospitalier de l'Université de Montréal,2024-07-12,130.0,114.0,146.0
-Centre hospitalier de l'Université de Montréal,2024-07-13,118.0,100.0,133.0
+Hôpital du Sacré-Coeur de Montréal,2024-07-18,122.0,102.0,142.0
+Hôpital du Sacré-Coeur de Montréal,2024-07-19,118.0,98.0,138.0
+Hôpital du Sacré-Coeur de Montréal,2024-07-20,102.0,81.0,122.0
+Hôpital du Sacré-Coeur de Montréal,2024-07-21,110.0,92.0,130.0
+Hôpital Jean-Talon,2024-07-12,80.0,59.0,104.0
+Hôpital Jean-Talon,2024-07-13,76.0,52.0,99.0
+Hôpital Jean-Talon,2024-07-14,73.0,50.0,98.0
+Hôpital Jean-Talon,2024-07-15,81.0,59.0,104.0
+Hôpital Jean-Talon,2024-07-16,83.0,60.0,105.0
+Hôpital Jean-Talon,2024-07-17,84.0,62.0,107.0
+Hôpital Jean-Talon,2024-07-18,80.0,57.0,102.0
+Hôpital Jean-Talon,2024-07-19,78.0,56.0,101.0
+Hôpital Jean-Talon,2024-07-20,74.0,51.0,96.0
+Hôpital Jean-Talon,2024-07-21,72.0,50.0,95.0
+Pavillon Albert-Prévost,2024-07-12,83.0,57.0,108.0
+Pavillon Albert-Prévost,2024-07-13,74.0,47.0,100.0
+Pavillon Albert-Prévost,2024-07-14,82.0,55.0,110.0
+Pavillon Albert-Prévost,2024-07-15,94.0,68.0,122.0
+Pavillon Albert-Prévost,2024-07-16,80.0,53.0,107.0
+Pavillon Albert-Prévost,2024-07-17,86.0,59.0,112.0
+Pavillon Albert-Prévost,2024-07-18,85.0,58.0,112.0
+Pavillon Albert-Prévost,2024-07-19,84.0,58.0,109.0
+Pavillon Albert-Prévost,2024-07-20,75.0,48.0,102.0
+Pavillon Albert-Prévost,2024-07-21,84.0,56.0,113.0
+Institut universitaire en santé mentale de Montréal,2024-07-12,31.0,2.0,60.0
+Institut universitaire en santé mentale de Montréal,2024-07-13,20.0,-10.0,50.0
+Institut universitaire en santé mentale de Montréal,2024-07-14,28.0,-2.0,56.0
+Institut universitaire en santé mentale de Montréal,2024-07-15,38.0,8.0,69.0
+Institut universitaire en santé mentale de Montréal,2024-07-16,29.0,1.0,59.0
+Institut universitaire en santé mentale de Montréal,2024-07-17,28.0,-1.0,57.0
+Institut universitaire en santé mentale de Montréal,2024-07-18,26.0,-5.0,55.0
+Institut universitaire en santé mentale de Montréal,2024-07-19,27.0,-3.0,54.0
+Institut universitaire en santé mentale de Montréal,2024-07-20,15.0,-16.0,44.0
+Institut universitaire en santé mentale de Montréal,2024-07-21,23.0,-9.0,51.0
+Hôpital Maisonneuve-Rosemont,2024-07-12,127.0,109.0,147.0
+Hôpital Maisonneuve-Rosemont,2024-07-13,110.0,91.0,129.0
+Hôpital Maisonneuve-Rosemont,2024-07-14,115.0,95.0,135.0
+Hôpital Maisonneuve-Rosemont,2024-07-15,125.0,106.0,146.0
+Hôpital Maisonneuve-Rosemont,2024-07-16,136.0,116.0,155.0
+Hôpital Maisonneuve-Rosemont,2024-07-17,138.0,118.0,157.0
+Hôpital Maisonneuve-Rosemont,2024-07-18,132.0,112.0,151.0
+Hôpital Maisonneuve-Rosemont,2024-07-19,125.0,105.0,143.0
+Hôpital Maisonneuve-Rosemont,2024-07-20,107.0,88.0,125.0
+Hôpital Maisonneuve-Rosemont,2024-07-21,111.0,93.0,130.0
+Hôpital Santa Cabrini,2024-07-12,114.0,92.0,136.0
+Hôpital Santa Cabrini,2024-07-13,110.0,88.0,131.0
+Hôpital Santa Cabrini,2024-07-14,106.0,84.0,128.0
+Hôpital Santa Cabrini,2024-07-15,110.0,90.0,131.0
+Hôpital Santa Cabrini,2024-07-16,120.0,96.0,143.0
+Hôpital Santa Cabrini,2024-07-17,118.0,95.0,141.0
+Hôpital Santa Cabrini,2024-07-18,112.0,91.0,134.0
+Hôpital Santa Cabrini,2024-07-19,105.0,83.0,127.0
+Hôpital Santa Cabrini,2024-07-20,100.0,76.0,123.0
+Hôpital Santa Cabrini,2024-07-21,95.0,71.0,118.0
+Centre hospitalier de l'Université de Montréal,2024-07-12,131.0,114.0,147.0
+Centre hospitalier de l'Université de Montréal,2024-07-13,118.0,102.0,134.0
 Centre hospitalier de l'Université de Montréal,2024-07-14,115.0,98.0,131.0
-Centre hospitalier de l'Université de Montréal,2024-07-15,126.0,108.0,142.0
-Centre hospitalier de l'Université de Montréal,2024-07-16,132.0,116.0,148.0
-Centre hospitalier de l'Université de Montréal,2024-07-17,128.0,113.0,145.0
-Centre hospitalier de l'Université de Montréal,2024-07-18,129.0,112.0,145.0
-Centre hospitalier de l'Université de Montréal,2024-07-19,130.0,113.0,146.0
-Centre hospitalier de l'Université de Montréal,2024-07-20,117.0,101.0,135.0
-Hôpital Royal Victoria,2024-07-11,180.0,153.0,208.0
-Hôpital Royal Victoria,2024-07-12,179.0,153.0,206.0
-Hôpital Royal Victoria,2024-07-13,170.0,143.0,196.0
-Hôpital Royal Victoria,2024-07-14,163.0,134.0,190.0
-Hôpital Royal Victoria,2024-07-15,170.0,142.0,197.0
-Hôpital Royal Victoria,2024-07-16,181.0,151.0,208.0
-Hôpital Royal Victoria,2024-07-17,180.0,152.0,207.0
-Hôpital Royal Victoria,2024-07-18,179.0,151.0,205.0
-Hôpital Royal Victoria,2024-07-19,178.0,151.0,206.0
-Hôpital Royal Victoria,2024-07-20,169.0,142.0,197.0
-Hôpital général de Montréal,2024-07-11,154.0,127.0,179.0
-Hôpital général de Montréal,2024-07-12,154.0,127.0,182.0
-Hôpital général de Montréal,2024-07-13,150.0,121.0,174.0
-Hôpital général de Montréal,2024-07-14,150.0,124.0,178.0
-Hôpital général de Montréal,2024-07-15,158.0,130.0,184.0
-Hôpital général de Montréal,2024-07-16,159.0,132.0,185.0
-Hôpital général de Montréal,2024-07-17,155.0,128.0,183.0
+Centre hospitalier de l'Université de Montréal,2024-07-15,126.0,110.0,144.0
+Centre hospitalier de l'Université de Montréal,2024-07-16,132.0,116.0,149.0
+Centre hospitalier de l'Université de Montréal,2024-07-17,129.0,112.0,145.0
+Centre hospitalier de l'Université de Montréal,2024-07-18,129.0,114.0,145.0
+Centre hospitalier de l'Université de Montréal,2024-07-19,131.0,116.0,146.0
+Centre hospitalier de l'Université de Montréal,2024-07-20,118.0,102.0,134.0
+Centre hospitalier de l'Université de Montréal,2024-07-21,115.0,99.0,133.0
+Hôpital Royal Victoria,2024-07-12,179.0,151.0,207.0
+Hôpital Royal Victoria,2024-07-13,170.0,142.0,197.0
+Hôpital Royal Victoria,2024-07-14,162.0,134.0,190.0
+Hôpital Royal Victoria,2024-07-15,170.0,141.0,197.0
+Hôpital Royal Victoria,2024-07-16,180.0,154.0,207.0
+Hôpital Royal Victoria,2024-07-17,179.0,152.0,206.0
+Hôpital Royal Victoria,2024-07-18,178.0,151.0,207.0
+Hôpital Royal Victoria,2024-07-19,177.0,150.0,205.0
+Hôpital Royal Victoria,2024-07-20,168.0,142.0,195.0
+Hôpital Royal Victoria,2024-07-21,160.0,133.0,186.0
+Hôpital général de Montréal,2024-07-12,154.0,127.0,180.0
+Hôpital général de Montréal,2024-07-13,149.0,122.0,177.0
+Hôpital général de Montréal,2024-07-14,150.0,124.0,177.0
+Hôpital général de Montréal,2024-07-15,157.0,132.0,184.0
+Hôpital général de Montréal,2024-07-16,158.0,133.0,186.0
+Hôpital général de Montréal,2024-07-17,155.0,128.0,180.0
 Hôpital général de Montréal,2024-07-18,158.0,131.0,185.0
-Hôpital général de Montréal,2024-07-19,157.0,132.0,184.0
-Hôpital général de Montréal,2024-07-20,152.0,125.0,182.0
-Hôpital de Montréal pour enfants,2024-07-11,100.0,58.0,143.0
-Hôpital de Montréal pour enfants,2024-07-12,99.0,56.0,142.0
-Hôpital de Montréal pour enfants,2024-07-13,97.0,56.0,141.0
-Hôpital de Montréal pour enfants,2024-07-14,95.0,54.0,139.0
-Hôpital de Montréal pour enfants,2024-07-15,99.0,55.0,144.0
-Hôpital de Montréal pour enfants,2024-07-16,103.0,58.0,143.0
-Hôpital de Montréal pour enfants,2024-07-17,104.0,64.0,148.0
-Hôpital de Montréal pour enfants,2024-07-18,97.0,54.0,138.0
-Hôpital de Montréal pour enfants,2024-07-19,94.0,48.0,136.0
-Hôpital de Montréal pour enfants,2024-07-20,90.0,49.0,131.0
-Campus Lachine,2024-07-11,114.0,88.0,140.0
-Campus Lachine,2024-07-12,114.0,87.0,139.0
+Hôpital général de Montréal,2024-07-19,157.0,130.0,184.0
+Hôpital général de Montréal,2024-07-20,152.0,124.0,178.0
+Hôpital général de Montréal,2024-07-21,153.0,125.0,177.0
+Hôpital de Montréal pour enfants,2024-07-12,100.0,58.0,145.0
+Hôpital de Montréal pour enfants,2024-07-13,98.0,56.0,141.0
+Hôpital de Montréal pour enfants,2024-07-14,96.0,55.0,140.0
+Hôpital de Montréal pour enfants,2024-07-15,101.0,61.0,143.0
+Hôpital de Montréal pour enfants,2024-07-16,103.0,61.0,148.0
+Hôpital de Montréal pour enfants,2024-07-17,105.0,65.0,146.0
+Hôpital de Montréal pour enfants,2024-07-18,98.0,58.0,144.0
+Hôpital de Montréal pour enfants,2024-07-19,95.0,53.0,136.0
+Hôpital de Montréal pour enfants,2024-07-20,90.0,47.0,134.0
+Hôpital de Montréal pour enfants,2024-07-21,86.0,44.0,130.0
+Campus Lachine,2024-07-12,114.0,88.0,141.0
 Campus Lachine,2024-07-13,111.0,84.0,137.0
-Campus Lachine,2024-07-14,103.0,77.0,129.0
-Campus Lachine,2024-07-15,114.0,86.0,141.0
-Campus Lachine,2024-07-16,120.0,92.0,149.0
-Campus Lachine,2024-07-17,122.0,94.0,149.0
-Campus Lachine,2024-07-18,118.0,91.0,145.0
-Campus Lachine,2024-07-19,117.0,91.0,145.0
-Campus Lachine,2024-07-20,114.0,89.0,143.0
-Institut de Cardiologie de Montréal,2024-07-11,57.0,35.0,77.0
-Institut de Cardiologie de Montréal,2024-07-12,55.0,33.0,78.0
-Institut de Cardiologie de Montréal,2024-07-13,39.0,16.0,60.0
-Institut de Cardiologie de Montréal,2024-07-14,36.0,15.0,59.0
-Institut de Cardiologie de Montréal,2024-07-15,44.0,22.0,66.0
-Institut de Cardiologie de Montréal,2024-07-16,52.0,30.0,74.0
-Institut de Cardiologie de Montréal,2024-07-17,54.0,32.0,74.0
-Institut de Cardiologie de Montréal,2024-07-18,52.0,30.0,73.0
-Institut de Cardiologie de Montréal,2024-07-19,50.0,27.0,72.0
-Institut de Cardiologie de Montréal,2024-07-20,34.0,13.0,59.0
-CHU Sainte-Justine,2024-07-11,68.0,34.0,98.0
-CHU Sainte-Justine,2024-07-12,65.0,36.0,98.0
-CHU Sainte-Justine,2024-07-13,57.0,25.0,87.0
-CHU Sainte-Justine,2024-07-14,62.0,29.0,94.0
-CHU Sainte-Justine,2024-07-15,68.0,36.0,101.0
-CHU Sainte-Justine,2024-07-16,70.0,39.0,103.0
-CHU Sainte-Justine,2024-07-17,63.0,34.0,95.0
-CHU Sainte-Justine,2024-07-18,65.0,35.0,96.0
-CHU Sainte-Justine,2024-07-19,64.0,33.0,97.0
-CHU Sainte-Justine,2024-07-20,56.0,24.0,89.0
-Total,2024-07-11,122.0,114.0,131.0
-Total,2024-07-12,120.0,112.0,127.0
+Campus Lachine,2024-07-14,103.0,76.0,131.0
+Campus Lachine,2024-07-15,114.0,88.0,140.0
+Campus Lachine,2024-07-16,121.0,92.0,146.0
+Campus Lachine,2024-07-17,122.0,97.0,148.0
+Campus Lachine,2024-07-18,118.0,94.0,145.0
+Campus Lachine,2024-07-19,118.0,91.0,146.0
+Campus Lachine,2024-07-20,115.0,89.0,140.0
+Campus Lachine,2024-07-21,107.0,80.0,132.0
+Institut de Cardiologie de Montréal,2024-07-12,56.0,33.0,78.0
+Institut de Cardiologie de Montréal,2024-07-13,40.0,18.0,62.0
+Institut de Cardiologie de Montréal,2024-07-14,37.0,15.0,57.0
+Institut de Cardiologie de Montréal,2024-07-15,45.0,24.0,68.0
+Institut de Cardiologie de Montréal,2024-07-16,53.0,31.0,75.0
+Institut de Cardiologie de Montréal,2024-07-17,55.0,31.0,78.0
+Institut de Cardiologie de Montréal,2024-07-18,52.0,32.0,74.0
+Institut de Cardiologie de Montréal,2024-07-19,51.0,27.0,72.0
+Institut de Cardiologie de Montréal,2024-07-20,35.0,13.0,57.0
+Institut de Cardiologie de Montréal,2024-07-21,32.0,10.0,55.0
+CHU Sainte-Justine,2024-07-12,67.0,37.0,97.0
+CHU Sainte-Justine,2024-07-13,58.0,27.0,90.0
+CHU Sainte-Justine,2024-07-14,63.0,32.0,92.0
+CHU Sainte-Justine,2024-07-15,69.0,37.0,99.0
+CHU Sainte-Justine,2024-07-16,71.0,40.0,102.0
+CHU Sainte-Justine,2024-07-17,65.0,33.0,95.0
+CHU Sainte-Justine,2024-07-18,67.0,36.0,98.0
+CHU Sainte-Justine,2024-07-19,65.0,33.0,95.0
+CHU Sainte-Justine,2024-07-20,57.0,25.0,87.0
+CHU Sainte-Justine,2024-07-21,62.0,30.0,91.0
+Total,2024-07-12,120.0,112.0,128.0
 Total,2024-07-13,109.0,101.0,117.0
-Total,2024-07-14,108.0,100.0,117.0
-Total,2024-07-15,118.0,110.0,127.0
-Total,2024-07-16,123.0,115.0,132.0
-Total,2024-07-17,122.0,113.0,130.0
-Total,2024-07-18,119.0,111.0,127.0
-Total,2024-07-19,116.0,107.0,124.0
+Total,2024-07-14,109.0,101.0,117.0
+Total,2024-07-15,119.0,111.0,127.0
+Total,2024-07-16,124.0,115.0,132.0
+Total,2024-07-17,122.0,114.0,130.0
+Total,2024-07-18,119.0,112.0,127.0
+Total,2024-07-19,116.0,108.0,125.0
 Total,2024-07-20,105.0,97.0,113.0
+Total,2024-07-21,104.0,96.0,113.0
