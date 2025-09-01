@@ -1,221 +1,221 @@
 name,Date,yhat,yhat_lower,yhat_upper
-Centre hospitalier de St. Mary,2025-09-01,105.0,81.0,128.0
-Centre hospitalier de St. Mary,2025-09-02,118.0,92.0,141.0
-Centre hospitalier de St. Mary,2025-09-03,119.0,96.0,141.0
-Centre hospitalier de St. Mary,2025-09-04,117.0,95.0,141.0
-Centre hospitalier de St. Mary,2025-09-05,117.0,94.0,141.0
-Centre hospitalier de St. Mary,2025-09-06,109.0,87.0,132.0
-Centre hospitalier de St. Mary,2025-09-07,101.0,78.0,125.0
-Centre hospitalier de St. Mary,2025-09-08,110.0,84.0,133.0
-Centre hospitalier de St. Mary,2025-09-09,123.0,99.0,148.0
-Centre hospitalier de St. Mary,2025-09-10,125.0,102.0,149.0
-Institut universitaire en santé mentale Douglas,2025-09-01,83.0,21.0,150.0
-Institut universitaire en santé mentale Douglas,2025-09-02,74.0,14.0,137.0
-Institut universitaire en santé mentale Douglas,2025-09-03,68.0,7.0,129.0
-Institut universitaire en santé mentale Douglas,2025-09-04,73.0,6.0,133.0
-Institut universitaire en santé mentale Douglas,2025-09-05,68.0,9.0,132.0
-Institut universitaire en santé mentale Douglas,2025-09-06,76.0,10.0,138.0
-Institut universitaire en santé mentale Douglas,2025-09-07,96.0,35.0,155.0
-Institut universitaire en santé mentale Douglas,2025-09-08,99.0,32.0,166.0
-Institut universitaire en santé mentale Douglas,2025-09-09,89.0,25.0,149.0
-Institut universitaire en santé mentale Douglas,2025-09-10,82.0,17.0,143.0
-Hôpital de LaSalle,2025-09-01,126.0,88.0,162.0
+Centre hospitalier de St. Mary,2025-09-02,119.0,95.0,143.0
+Centre hospitalier de St. Mary,2025-09-03,120.0,97.0,145.0
+Centre hospitalier de St. Mary,2025-09-04,118.0,94.0,141.0
+Centre hospitalier de St. Mary,2025-09-05,118.0,91.0,141.0
+Centre hospitalier de St. Mary,2025-09-06,110.0,87.0,134.0
+Centre hospitalier de St. Mary,2025-09-07,102.0,80.0,125.0
+Centre hospitalier de St. Mary,2025-09-08,111.0,88.0,135.0
+Centre hospitalier de St. Mary,2025-09-09,124.0,102.0,149.0
+Centre hospitalier de St. Mary,2025-09-10,125.0,101.0,148.0
+Centre hospitalier de St. Mary,2025-09-11,124.0,99.0,148.0
+Institut universitaire en santé mentale Douglas,2025-09-02,75.0,16.0,132.0
+Institut universitaire en santé mentale Douglas,2025-09-03,68.0,2.0,129.0
+Institut universitaire en santé mentale Douglas,2025-09-04,73.0,13.0,130.0
+Institut universitaire en santé mentale Douglas,2025-09-05,69.0,7.0,131.0
+Institut universitaire en santé mentale Douglas,2025-09-06,76.0,12.0,141.0
+Institut universitaire en santé mentale Douglas,2025-09-07,97.0,35.0,156.0
+Institut universitaire en santé mentale Douglas,2025-09-08,100.0,38.0,161.0
+Institut universitaire en santé mentale Douglas,2025-09-09,90.0,30.0,148.0
+Institut universitaire en santé mentale Douglas,2025-09-10,83.0,22.0,148.0
+Institut universitaire en santé mentale Douglas,2025-09-11,87.0,24.0,151.0
 Hôpital de LaSalle,2025-09-02,133.0,97.0,167.0
-Hôpital de LaSalle,2025-09-03,138.0,104.0,172.0
-Hôpital de LaSalle,2025-09-04,135.0,99.0,168.0
-Hôpital de LaSalle,2025-09-05,135.0,102.0,169.0
-Hôpital de LaSalle,2025-09-06,117.0,84.0,150.0
-Hôpital de LaSalle,2025-09-07,117.0,82.0,151.0
-Hôpital de LaSalle,2025-09-08,129.0,97.0,167.0
-Hôpital de LaSalle,2025-09-09,136.0,101.0,170.0
-Hôpital de LaSalle,2025-09-10,141.0,107.0,176.0
-Hôpital général du Lakeshore,2025-09-01,199.0,171.0,228.0
-Hôpital général du Lakeshore,2025-09-02,202.0,172.0,231.0
-Hôpital général du Lakeshore,2025-09-03,204.0,174.0,235.0
-Hôpital général du Lakeshore,2025-09-04,204.0,175.0,233.0
-Hôpital général du Lakeshore,2025-09-05,196.0,166.0,224.0
-Hôpital général du Lakeshore,2025-09-06,188.0,158.0,217.0
-Hôpital général du Lakeshore,2025-09-07,188.0,161.0,218.0
-Hôpital général du Lakeshore,2025-09-08,204.0,172.0,232.0
-Hôpital général du Lakeshore,2025-09-09,207.0,178.0,238.0
-Hôpital général du Lakeshore,2025-09-10,209.0,178.0,239.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-01,188.0,160.0,217.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-02,191.0,164.0,220.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-03,188.0,160.0,216.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-04,182.0,152.0,212.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-05,181.0,152.0,211.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-06,169.0,139.0,198.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-07,161.0,135.0,190.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-08,182.0,155.0,211.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-09,185.0,156.0,214.0
-L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-10,182.0,150.0,211.0
-Hôpital de Verdun,2025-09-01,107.0,71.0,141.0
-Hôpital de Verdun,2025-09-02,121.0,86.0,156.0
-Hôpital de Verdun,2025-09-03,123.0,87.0,156.0
-Hôpital de Verdun,2025-09-04,114.0,79.0,150.0
-Hôpital de Verdun,2025-09-05,115.0,80.0,150.0
-Hôpital de Verdun,2025-09-06,97.0,62.0,131.0
-Hôpital de Verdun,2025-09-07,95.0,61.0,131.0
-Hôpital de Verdun,2025-09-08,112.0,78.0,148.0
-Hôpital de Verdun,2025-09-09,126.0,92.0,160.0
-Hôpital de Verdun,2025-09-10,128.0,94.0,161.0
-Hôpital Notre-Dame,2025-09-01,104.0,83.0,125.0
-Hôpital Notre-Dame,2025-09-02,107.0,83.0,128.0
-Hôpital Notre-Dame,2025-09-03,104.0,83.0,125.0
-Hôpital Notre-Dame,2025-09-04,101.0,80.0,122.0
-Hôpital Notre-Dame,2025-09-05,101.0,80.0,123.0
-Hôpital Notre-Dame,2025-09-06,92.0,69.0,115.0
-Hôpital Notre-Dame,2025-09-07,94.0,72.0,115.0
-Hôpital Notre-Dame,2025-09-08,101.0,81.0,124.0
-Hôpital Notre-Dame,2025-09-09,105.0,83.0,127.0
-Hôpital Notre-Dame,2025-09-10,102.0,81.0,123.0
-Hôpital Fleury,2025-09-01,104.0,80.0,129.0
-Hôpital Fleury,2025-09-02,110.0,83.0,138.0
-Hôpital Fleury,2025-09-03,109.0,81.0,138.0
-Hôpital Fleury,2025-09-04,106.0,77.0,133.0
-Hôpital Fleury,2025-09-05,107.0,80.0,135.0
-Hôpital Fleury,2025-09-06,95.0,66.0,121.0
-Hôpital Fleury,2025-09-07,98.0,70.0,126.0
-Hôpital Fleury,2025-09-08,104.0,75.0,132.0
-Hôpital Fleury,2025-09-09,110.0,81.0,139.0
-Hôpital Fleury,2025-09-10,109.0,81.0,135.0
-Hôpital du Sacré-Coeur de Montréal,2025-09-01,137.0,117.0,158.0
-Hôpital du Sacré-Coeur de Montréal,2025-09-02,142.0,123.0,162.0
-Hôpital du Sacré-Coeur de Montréal,2025-09-03,137.0,116.0,159.0
-Hôpital du Sacré-Coeur de Montréal,2025-09-04,133.0,112.0,152.0
-Hôpital du Sacré-Coeur de Montréal,2025-09-05,130.0,109.0,151.0
-Hôpital du Sacré-Coeur de Montréal,2025-09-06,117.0,96.0,137.0
-Hôpital du Sacré-Coeur de Montréal,2025-09-07,124.0,103.0,146.0
-Hôpital du Sacré-Coeur de Montréal,2025-09-08,138.0,117.0,158.0
-Hôpital du Sacré-Coeur de Montréal,2025-09-09,142.0,122.0,163.0
-Hôpital du Sacré-Coeur de Montréal,2025-09-10,138.0,117.0,157.0
-Hôpital Jean-Talon,2025-09-01,103.0,81.0,125.0
-Hôpital Jean-Talon,2025-09-02,107.0,83.0,130.0
-Hôpital Jean-Talon,2025-09-03,106.0,83.0,129.0
-Hôpital Jean-Talon,2025-09-04,103.0,81.0,129.0
-Hôpital Jean-Talon,2025-09-05,102.0,78.0,126.0
-Hôpital Jean-Talon,2025-09-06,97.0,73.0,121.0
-Hôpital Jean-Talon,2025-09-07,95.0,72.0,120.0
-Hôpital Jean-Talon,2025-09-08,102.0,78.0,124.0
-Hôpital Jean-Talon,2025-09-09,106.0,84.0,128.0
+Hôpital de LaSalle,2025-09-03,138.0,105.0,172.0
+Hôpital de LaSalle,2025-09-04,135.0,100.0,169.0
+Hôpital de LaSalle,2025-09-05,135.0,101.0,171.0
+Hôpital de LaSalle,2025-09-06,117.0,84.0,153.0
+Hôpital de LaSalle,2025-09-07,117.0,83.0,151.0
+Hôpital de LaSalle,2025-09-08,129.0,95.0,162.0
+Hôpital de LaSalle,2025-09-09,136.0,101.0,169.0
+Hôpital de LaSalle,2025-09-10,141.0,107.0,174.0
+Hôpital de LaSalle,2025-09-11,137.0,106.0,173.0
+Hôpital général du Lakeshore,2025-09-02,201.0,171.0,232.0
+Hôpital général du Lakeshore,2025-09-03,202.0,174.0,232.0
+Hôpital général du Lakeshore,2025-09-04,202.0,173.0,230.0
+Hôpital général du Lakeshore,2025-09-05,195.0,165.0,225.0
+Hôpital général du Lakeshore,2025-09-06,187.0,157.0,217.0
+Hôpital général du Lakeshore,2025-09-07,187.0,159.0,217.0
+Hôpital général du Lakeshore,2025-09-08,203.0,174.0,232.0
+Hôpital général du Lakeshore,2025-09-09,206.0,178.0,237.0
+Hôpital général du Lakeshore,2025-09-10,208.0,178.0,237.0
+Hôpital général du Lakeshore,2025-09-11,207.0,178.0,235.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-02,191.0,160.0,219.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-03,187.0,156.0,217.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-04,182.0,154.0,211.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-05,181.0,151.0,210.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-06,168.0,137.0,197.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-07,160.0,131.0,190.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-08,181.0,151.0,210.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-09,184.0,159.0,213.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-10,181.0,152.0,211.0
+L'Hôpital général Juif Sir Mortimer B. Davis,2025-09-11,176.0,146.0,204.0
+Hôpital de Verdun,2025-09-02,120.0,85.0,155.0
+Hôpital de Verdun,2025-09-03,122.0,86.0,157.0
+Hôpital de Verdun,2025-09-04,113.0,76.0,147.0
+Hôpital de Verdun,2025-09-05,115.0,81.0,150.0
+Hôpital de Verdun,2025-09-06,96.0,61.0,132.0
+Hôpital de Verdun,2025-09-07,95.0,61.0,129.0
+Hôpital de Verdun,2025-09-08,111.0,74.0,145.0
+Hôpital de Verdun,2025-09-09,125.0,91.0,160.0
+Hôpital de Verdun,2025-09-10,127.0,93.0,161.0
+Hôpital de Verdun,2025-09-11,118.0,83.0,152.0
+Hôpital Notre-Dame,2025-09-02,107.0,86.0,127.0
+Hôpital Notre-Dame,2025-09-03,103.0,82.0,124.0
+Hôpital Notre-Dame,2025-09-04,100.0,79.0,122.0
+Hôpital Notre-Dame,2025-09-05,100.0,80.0,122.0
+Hôpital Notre-Dame,2025-09-06,92.0,70.0,113.0
+Hôpital Notre-Dame,2025-09-07,93.0,71.0,115.0
+Hôpital Notre-Dame,2025-09-08,101.0,81.0,123.0
+Hôpital Notre-Dame,2025-09-09,105.0,84.0,125.0
+Hôpital Notre-Dame,2025-09-10,101.0,80.0,121.0
+Hôpital Notre-Dame,2025-09-11,99.0,77.0,119.0
+Hôpital Fleury,2025-09-02,109.0,81.0,137.0
+Hôpital Fleury,2025-09-03,108.0,82.0,135.0
+Hôpital Fleury,2025-09-04,106.0,79.0,131.0
+Hôpital Fleury,2025-09-05,107.0,78.0,135.0
+Hôpital Fleury,2025-09-06,94.0,68.0,125.0
+Hôpital Fleury,2025-09-07,98.0,71.0,126.0
+Hôpital Fleury,2025-09-08,104.0,78.0,131.0
+Hôpital Fleury,2025-09-09,109.0,82.0,137.0
+Hôpital Fleury,2025-09-10,108.0,81.0,136.0
+Hôpital Fleury,2025-09-11,106.0,80.0,135.0
+Hôpital du Sacré-Coeur de Montréal,2025-09-02,141.0,121.0,162.0
+Hôpital du Sacré-Coeur de Montréal,2025-09-03,136.0,115.0,156.0
+Hôpital du Sacré-Coeur de Montréal,2025-09-04,132.0,111.0,154.0
+Hôpital du Sacré-Coeur de Montréal,2025-09-05,130.0,107.0,150.0
+Hôpital du Sacré-Coeur de Montréal,2025-09-06,116.0,97.0,136.0
+Hôpital du Sacré-Coeur de Montréal,2025-09-07,124.0,103.0,144.0
+Hôpital du Sacré-Coeur de Montréal,2025-09-08,137.0,117.0,157.0
+Hôpital du Sacré-Coeur de Montréal,2025-09-09,142.0,122.0,160.0
+Hôpital du Sacré-Coeur de Montréal,2025-09-10,137.0,117.0,157.0
+Hôpital du Sacré-Coeur de Montréal,2025-09-11,132.0,112.0,153.0
+Hôpital Jean-Talon,2025-09-02,106.0,81.0,131.0
+Hôpital Jean-Talon,2025-09-03,106.0,80.0,129.0
+Hôpital Jean-Talon,2025-09-04,103.0,78.0,126.0
+Hôpital Jean-Talon,2025-09-05,101.0,79.0,126.0
+Hôpital Jean-Talon,2025-09-06,97.0,74.0,118.0
+Hôpital Jean-Talon,2025-09-07,95.0,73.0,119.0
+Hôpital Jean-Talon,2025-09-08,101.0,79.0,125.0
+Hôpital Jean-Talon,2025-09-09,106.0,82.0,129.0
 Hôpital Jean-Talon,2025-09-10,106.0,83.0,129.0
-Pavillon Albert-Prévost,2025-09-01,109.0,80.0,137.0
-Pavillon Albert-Prévost,2025-09-02,97.0,67.0,125.0
-Pavillon Albert-Prévost,2025-09-03,101.0,75.0,129.0
-Pavillon Albert-Prévost,2025-09-04,100.0,72.0,129.0
-Pavillon Albert-Prévost,2025-09-05,99.0,70.0,124.0
-Pavillon Albert-Prévost,2025-09-06,92.0,62.0,120.0
-Pavillon Albert-Prévost,2025-09-07,100.0,74.0,128.0
-Pavillon Albert-Prévost,2025-09-08,112.0,81.0,138.0
-Pavillon Albert-Prévost,2025-09-09,100.0,70.0,129.0
-Pavillon Albert-Prévost,2025-09-10,105.0,76.0,131.0
-Institut universitaire en santé mentale de Montréal,2025-09-01,91.0,61.0,119.0
+Hôpital Jean-Talon,2025-09-11,103.0,80.0,128.0
+Pavillon Albert-Prévost,2025-09-02,97.0,68.0,127.0
+Pavillon Albert-Prévost,2025-09-03,102.0,73.0,129.0
+Pavillon Albert-Prévost,2025-09-04,100.0,71.0,131.0
+Pavillon Albert-Prévost,2025-09-05,99.0,69.0,127.0
+Pavillon Albert-Prévost,2025-09-06,93.0,62.0,119.0
+Pavillon Albert-Prévost,2025-09-07,100.0,73.0,129.0
+Pavillon Albert-Prévost,2025-09-08,112.0,83.0,141.0
+Pavillon Albert-Prévost,2025-09-09,101.0,70.0,129.0
+Pavillon Albert-Prévost,2025-09-10,105.0,76.0,136.0
+Pavillon Albert-Prévost,2025-09-11,104.0,75.0,133.0
 Institut universitaire en santé mentale de Montréal,2025-09-02,83.0,51.0,114.0
-Institut universitaire en santé mentale de Montréal,2025-09-03,82.0,52.0,113.0
-Institut universitaire en santé mentale de Montréal,2025-09-04,81.0,51.0,114.0
-Institut universitaire en santé mentale de Montréal,2025-09-05,84.0,53.0,116.0
-Institut universitaire en santé mentale de Montréal,2025-09-06,72.0,41.0,103.0
-Institut universitaire en santé mentale de Montréal,2025-09-07,82.0,51.0,112.0
-Institut universitaire en santé mentale de Montréal,2025-09-08,92.0,60.0,123.0
-Institut universitaire en santé mentale de Montréal,2025-09-09,83.0,51.0,115.0
-Institut universitaire en santé mentale de Montréal,2025-09-10,83.0,52.0,114.0
-Hôpital Maisonneuve-Rosemont,2025-09-01,114.0,92.0,135.0
-Hôpital Maisonneuve-Rosemont,2025-09-02,127.0,107.0,149.0
+Institut universitaire en santé mentale de Montréal,2025-09-03,83.0,51.0,113.0
+Institut universitaire en santé mentale de Montréal,2025-09-04,82.0,51.0,115.0
+Institut universitaire en santé mentale de Montréal,2025-09-05,85.0,55.0,115.0
+Institut universitaire en santé mentale de Montréal,2025-09-06,73.0,40.0,104.0
+Institut universitaire en santé mentale de Montréal,2025-09-07,83.0,55.0,115.0
+Institut universitaire en santé mentale de Montréal,2025-09-08,92.0,61.0,125.0
+Institut universitaire en santé mentale de Montréal,2025-09-09,84.0,54.0,115.0
+Institut universitaire en santé mentale de Montréal,2025-09-10,84.0,54.0,114.0
+Institut universitaire en santé mentale de Montréal,2025-09-11,82.0,52.0,112.0
+Hôpital Maisonneuve-Rosemont,2025-09-02,128.0,107.0,148.0
 Hôpital Maisonneuve-Rosemont,2025-09-03,129.0,108.0,150.0
-Hôpital Maisonneuve-Rosemont,2025-09-04,126.0,105.0,148.0
-Hôpital Maisonneuve-Rosemont,2025-09-05,119.0,98.0,139.0
+Hôpital Maisonneuve-Rosemont,2025-09-04,127.0,105.0,147.0
+Hôpital Maisonneuve-Rosemont,2025-09-05,119.0,99.0,140.0
 Hôpital Maisonneuve-Rosemont,2025-09-06,103.0,82.0,124.0
-Hôpital Maisonneuve-Rosemont,2025-09-07,106.0,86.0,126.0
-Hôpital Maisonneuve-Rosemont,2025-09-08,117.0,98.0,138.0
-Hôpital Maisonneuve-Rosemont,2025-09-09,130.0,107.0,150.0
-Hôpital Maisonneuve-Rosemont,2025-09-10,130.0,110.0,151.0
-Hôpital Santa Cabrini,2025-09-01,118.0,96.0,142.0
-Hôpital Santa Cabrini,2025-09-02,130.0,105.0,156.0
-Hôpital Santa Cabrini,2025-09-03,131.0,107.0,156.0
-Hôpital Santa Cabrini,2025-09-04,129.0,108.0,154.0
-Hôpital Santa Cabrini,2025-09-05,126.0,100.0,152.0
-Hôpital Santa Cabrini,2025-09-06,123.0,99.0,146.0
-Hôpital Santa Cabrini,2025-09-07,119.0,94.0,143.0
-Hôpital Santa Cabrini,2025-09-08,125.0,100.0,149.0
-Hôpital Santa Cabrini,2025-09-09,137.0,112.0,161.0
-Hôpital Santa Cabrini,2025-09-10,137.0,114.0,161.0
-Centre hospitalier de l'Université de Montréal,2025-09-01,117.0,99.0,135.0
-Centre hospitalier de l'Université de Montréal,2025-09-02,124.0,105.0,141.0
-Centre hospitalier de l'Université de Montréal,2025-09-03,122.0,105.0,141.0
-Centre hospitalier de l'Université de Montréal,2025-09-04,124.0,106.0,141.0
-Centre hospitalier de l'Université de Montréal,2025-09-05,125.0,108.0,142.0
-Centre hospitalier de l'Université de Montréal,2025-09-06,113.0,97.0,132.0
-Centre hospitalier de l'Université de Montréal,2025-09-07,112.0,96.0,129.0
-Centre hospitalier de l'Université de Montréal,2025-09-08,124.0,105.0,143.0
-Centre hospitalier de l'Université de Montréal,2025-09-09,131.0,113.0,148.0
-Centre hospitalier de l'Université de Montréal,2025-09-10,129.0,113.0,147.0
-Hôpital Royal Victoria,2025-09-01,183.0,153.0,211.0
-Hôpital Royal Victoria,2025-09-02,195.0,167.0,224.0
-Hôpital Royal Victoria,2025-09-03,195.0,166.0,222.0
-Hôpital Royal Victoria,2025-09-04,194.0,164.0,220.0
-Hôpital Royal Victoria,2025-09-05,193.0,164.0,222.0
-Hôpital Royal Victoria,2025-09-06,181.0,152.0,209.0
-Hôpital Royal Victoria,2025-09-07,174.0,147.0,202.0
-Hôpital Royal Victoria,2025-09-08,183.0,154.0,210.0
-Hôpital Royal Victoria,2025-09-09,195.0,166.0,223.0
-Hôpital Royal Victoria,2025-09-10,196.0,168.0,223.0
-Hôpital général de Montréal,2025-09-01,154.0,126.0,183.0
-Hôpital général de Montréal,2025-09-02,155.0,128.0,184.0
-Hôpital général de Montréal,2025-09-03,153.0,124.0,181.0
-Hôpital général de Montréal,2025-09-04,153.0,125.0,181.0
-Hôpital général de Montréal,2025-09-05,153.0,124.0,181.0
-Hôpital général de Montréal,2025-09-06,147.0,119.0,177.0
-Hôpital général de Montréal,2025-09-07,148.0,120.0,175.0
-Hôpital général de Montréal,2025-09-08,155.0,127.0,181.0
-Hôpital général de Montréal,2025-09-09,155.0,129.0,183.0
-Hôpital général de Montréal,2025-09-10,153.0,126.0,180.0
-Hôpital de Montréal pour enfants,2025-09-01,83.0,42.0,125.0
-Hôpital de Montréal pour enfants,2025-09-02,87.0,45.0,130.0
-Hôpital de Montréal pour enfants,2025-09-03,94.0,53.0,134.0
-Hôpital de Montréal pour enfants,2025-09-04,88.0,47.0,128.0
-Hôpital de Montréal pour enfants,2025-09-05,88.0,44.0,126.0
-Hôpital de Montréal pour enfants,2025-09-06,84.0,42.0,126.0
-Hôpital de Montréal pour enfants,2025-09-07,79.0,36.0,119.0
-Hôpital de Montréal pour enfants,2025-09-08,87.0,44.0,126.0
-Hôpital de Montréal pour enfants,2025-09-09,91.0,50.0,132.0
-Hôpital de Montréal pour enfants,2025-09-10,99.0,58.0,139.0
-Campus Lachine,2025-09-01,134.0,104.0,163.0
-Campus Lachine,2025-09-02,143.0,113.0,172.0
-Campus Lachine,2025-09-03,144.0,115.0,173.0
-Campus Lachine,2025-09-04,139.0,106.0,168.0
-Campus Lachine,2025-09-05,138.0,108.0,169.0
-Campus Lachine,2025-09-06,134.0,104.0,163.0
-Campus Lachine,2025-09-07,129.0,100.0,158.0
-Campus Lachine,2025-09-08,138.0,109.0,169.0
-Campus Lachine,2025-09-09,146.0,119.0,175.0
-Campus Lachine,2025-09-10,147.0,119.0,179.0
-Institut de Cardiologie de Montréal,2025-09-01,49.0,28.0,71.0
-Institut de Cardiologie de Montréal,2025-09-02,59.0,36.0,82.0
-Institut de Cardiologie de Montréal,2025-09-03,62.0,39.0,86.0
-Institut de Cardiologie de Montréal,2025-09-04,61.0,39.0,85.0
-Institut de Cardiologie de Montréal,2025-09-05,60.0,37.0,83.0
-Institut de Cardiologie de Montréal,2025-09-06,45.0,22.0,67.0
-Institut de Cardiologie de Montréal,2025-09-07,43.0,22.0,67.0
-Institut de Cardiologie de Montréal,2025-09-08,50.0,28.0,72.0
-Institut de Cardiologie de Montréal,2025-09-09,61.0,40.0,83.0
-Institut de Cardiologie de Montréal,2025-09-10,63.0,42.0,86.0
-CHU Sainte-Justine,2025-09-01,77.0,46.0,112.0
-CHU Sainte-Justine,2025-09-02,82.0,49.0,114.0
-CHU Sainte-Justine,2025-09-03,77.0,45.0,110.0
-CHU Sainte-Justine,2025-09-04,81.0,48.0,114.0
-CHU Sainte-Justine,2025-09-05,81.0,50.0,115.0
-CHU Sainte-Justine,2025-09-06,76.0,44.0,108.0
-CHU Sainte-Justine,2025-09-07,78.0,44.0,109.0
-CHU Sainte-Justine,2025-09-08,86.0,52.0,118.0
-CHU Sainte-Justine,2025-09-09,91.0,60.0,123.0
-CHU Sainte-Justine,2025-09-10,86.0,53.0,117.0
-Total,2025-09-01,127.0,118.0,136.0
-Total,2025-09-02,134.0,124.0,142.0
-Total,2025-09-03,133.0,124.0,143.0
-Total,2025-09-04,131.0,123.0,140.0
-Total,2025-09-05,129.0,121.0,139.0
+Hôpital Maisonneuve-Rosemont,2025-09-07,106.0,85.0,126.0
+Hôpital Maisonneuve-Rosemont,2025-09-08,117.0,96.0,138.0
+Hôpital Maisonneuve-Rosemont,2025-09-09,130.0,110.0,149.0
+Hôpital Maisonneuve-Rosemont,2025-09-10,131.0,109.0,151.0
+Hôpital Maisonneuve-Rosemont,2025-09-11,128.0,108.0,149.0
+Hôpital Santa Cabrini,2025-09-02,131.0,105.0,155.0
+Hôpital Santa Cabrini,2025-09-03,131.0,107.0,154.0
+Hôpital Santa Cabrini,2025-09-04,130.0,106.0,154.0
+Hôpital Santa Cabrini,2025-09-05,126.0,103.0,149.0
+Hôpital Santa Cabrini,2025-09-06,124.0,99.0,148.0
+Hôpital Santa Cabrini,2025-09-07,120.0,96.0,143.0
+Hôpital Santa Cabrini,2025-09-08,125.0,101.0,150.0
+Hôpital Santa Cabrini,2025-09-09,137.0,112.0,162.0
+Hôpital Santa Cabrini,2025-09-10,137.0,112.0,161.0
+Hôpital Santa Cabrini,2025-09-11,136.0,111.0,161.0
+Centre hospitalier de l'Université de Montréal,2025-09-02,124.0,107.0,142.0
+Centre hospitalier de l'Université de Montréal,2025-09-03,122.0,104.0,140.0
+Centre hospitalier de l'Université de Montréal,2025-09-04,124.0,107.0,141.0
+Centre hospitalier de l'Université de Montréal,2025-09-05,125.0,106.0,142.0
+Centre hospitalier de l'Université de Montréal,2025-09-06,113.0,96.0,132.0
+Centre hospitalier de l'Université de Montréal,2025-09-07,113.0,95.0,129.0
+Centre hospitalier de l'Université de Montréal,2025-09-08,124.0,107.0,142.0
+Centre hospitalier de l'Université de Montréal,2025-09-09,131.0,115.0,150.0
+Centre hospitalier de l'Université de Montréal,2025-09-10,129.0,111.0,147.0
+Centre hospitalier de l'Université de Montréal,2025-09-11,131.0,114.0,148.0
+Hôpital Royal Victoria,2025-09-02,194.0,165.0,221.0
+Hôpital Royal Victoria,2025-09-03,194.0,164.0,222.0
+Hôpital Royal Victoria,2025-09-04,193.0,164.0,223.0
+Hôpital Royal Victoria,2025-09-05,192.0,163.0,220.0
+Hôpital Royal Victoria,2025-09-06,181.0,150.0,209.0
+Hôpital Royal Victoria,2025-09-07,173.0,145.0,202.0
+Hôpital Royal Victoria,2025-09-08,182.0,154.0,211.0
+Hôpital Royal Victoria,2025-09-09,194.0,164.0,220.0
+Hôpital Royal Victoria,2025-09-10,195.0,167.0,224.0
+Hôpital Royal Victoria,2025-09-11,194.0,166.0,223.0
+Hôpital général de Montréal,2025-09-02,157.0,129.0,186.0
+Hôpital général de Montréal,2025-09-03,155.0,127.0,180.0
+Hôpital général de Montréal,2025-09-04,155.0,127.0,183.0
+Hôpital général de Montréal,2025-09-05,155.0,126.0,184.0
+Hôpital général de Montréal,2025-09-06,149.0,121.0,179.0
+Hôpital général de Montréal,2025-09-07,150.0,124.0,176.0
+Hôpital général de Montréal,2025-09-08,157.0,127.0,186.0
+Hôpital général de Montréal,2025-09-09,158.0,131.0,188.0
+Hôpital général de Montréal,2025-09-10,155.0,128.0,185.0
+Hôpital général de Montréal,2025-09-11,155.0,127.0,181.0
+Hôpital de Montréal pour enfants,2025-09-02,86.0,43.0,130.0
+Hôpital de Montréal pour enfants,2025-09-03,94.0,53.0,136.0
+Hôpital de Montréal pour enfants,2025-09-04,87.0,47.0,134.0
+Hôpital de Montréal pour enfants,2025-09-05,87.0,47.0,135.0
+Hôpital de Montréal pour enfants,2025-09-06,83.0,37.0,125.0
+Hôpital de Montréal pour enfants,2025-09-07,79.0,33.0,117.0
+Hôpital de Montréal pour enfants,2025-09-08,87.0,44.0,130.0
+Hôpital de Montréal pour enfants,2025-09-09,91.0,45.0,132.0
+Hôpital de Montréal pour enfants,2025-09-10,99.0,60.0,145.0
+Hôpital de Montréal pour enfants,2025-09-11,93.0,48.0,136.0
+Campus Lachine,2025-09-02,141.0,112.0,170.0
+Campus Lachine,2025-09-03,142.0,112.0,170.0
+Campus Lachine,2025-09-04,137.0,107.0,166.0
+Campus Lachine,2025-09-05,136.0,105.0,163.0
+Campus Lachine,2025-09-06,132.0,104.0,161.0
+Campus Lachine,2025-09-07,127.0,95.0,155.0
+Campus Lachine,2025-09-08,135.0,106.0,165.0
+Campus Lachine,2025-09-09,144.0,116.0,174.0
+Campus Lachine,2025-09-10,145.0,116.0,175.0
+Campus Lachine,2025-09-11,140.0,112.0,168.0
+Institut de Cardiologie de Montréal,2025-09-02,59.0,36.0,84.0
+Institut de Cardiologie de Montréal,2025-09-03,62.0,40.0,85.0
+Institut de Cardiologie de Montréal,2025-09-04,62.0,41.0,86.0
+Institut de Cardiologie de Montréal,2025-09-05,60.0,39.0,82.0
+Institut de Cardiologie de Montréal,2025-09-06,45.0,22.0,68.0
+Institut de Cardiologie de Montréal,2025-09-07,43.0,20.0,66.0
+Institut de Cardiologie de Montréal,2025-09-08,51.0,27.0,74.0
+Institut de Cardiologie de Montréal,2025-09-09,61.0,37.0,83.0
+Institut de Cardiologie de Montréal,2025-09-10,64.0,41.0,87.0
+Institut de Cardiologie de Montréal,2025-09-11,63.0,40.0,85.0
+CHU Sainte-Justine,2025-09-02,82.0,49.0,110.0
+CHU Sainte-Justine,2025-09-03,77.0,46.0,108.0
+CHU Sainte-Justine,2025-09-04,81.0,50.0,112.0
+CHU Sainte-Justine,2025-09-05,81.0,49.0,112.0
+CHU Sainte-Justine,2025-09-06,76.0,43.0,107.0
+CHU Sainte-Justine,2025-09-07,78.0,46.0,111.0
+CHU Sainte-Justine,2025-09-08,86.0,53.0,116.0
+CHU Sainte-Justine,2025-09-09,91.0,59.0,128.0
+CHU Sainte-Justine,2025-09-10,86.0,55.0,119.0
+CHU Sainte-Justine,2025-09-11,90.0,58.0,122.0
+Total,2025-09-02,133.0,124.0,142.0
+Total,2025-09-03,132.0,124.0,143.0
+Total,2025-09-04,131.0,122.0,140.0
+Total,2025-09-05,129.0,120.0,138.0
 Total,2025-09-06,119.0,110.0,128.0
-Total,2025-09-07,119.0,110.0,127.0
-Total,2025-09-08,130.0,120.0,139.0
+Total,2025-09-07,118.0,110.0,128.0
+Total,2025-09-08,129.0,120.0,139.0
 Total,2025-09-09,136.0,127.0,145.0
-Total,2025-09-10,136.0,127.0,145.0
+Total,2025-09-10,135.0,126.0,145.0
+Total,2025-09-11,133.0,125.0,142.0
