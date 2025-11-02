@@ -1,11 +1,11 @@
 name: get-predictions-py
 
-# on: push
+on: push
 
 ## or set timer (runs at 17:25 utc)
-on:
-  schedule:
-  - cron: 25 17 * * *
+#on:
+#  schedule:
+#  - cron: 25 17 * * *
 
 jobs:
   get-data-from-csv:
